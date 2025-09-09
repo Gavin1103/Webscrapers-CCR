@@ -1,3 +1,6 @@
 node_modules
 mecum/.puppeteer-profile
 .env
+
+fetchedData
+mecum/fetchedData
