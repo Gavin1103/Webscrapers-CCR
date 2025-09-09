@@ -1,0 +1,4632 @@
+[
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297270/1981-mazda-rx7/?aa_id=202790-0",
+    "lot_code": "Lot T2",
+    "vehicle_chassis_no": "JM1FB3319B0504642"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297271/1974-ford-f250-pickup/?aa_id=202792-0",
+    "lot_code": "Lot T3",
+    "vehicle_chassis_no": "F26YRU06939"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297272/1989-jaguar-xjs-convertible/?aa_id=202793-0",
+    "lot_code": "Lot T4",
+    "vehicle_chassis_no": "SAJNV4843KC164688"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297274/1979-mercedes-benz-450sl-convertible/?aa_id=202794-0",
+    "lot_code": "Lot T6",
+    "vehicle_chassis_no": "10704412054662"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297276/1999-bmw-m3/?aa_id=202795-0",
+    "lot_code": "Lot T8",
+    "vehicle_chassis_no": "WBSBG9338XEY80837"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297277/1969-toyota-fj-40-land-cruiser/?aa_id=202796-0",
+    "lot_code": "Lot T9",
+    "vehicle_chassis_no": "FJ4070898"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297278/1976-pontiac-firebird-formula/?aa_id=202797-0",
+    "lot_code": "Lot T10",
+    "vehicle_chassis_no": "2U87M6N526071"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297279/1995-chevrolet-corvette-coupe/?aa_id=202798-0",
+    "lot_code": "Lot T11",
+    "vehicle_chassis_no": "1G1YY22P3S5102490"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297281/1995-chevrolet-impala-ss/?aa_id=202799-0",
+    "lot_code": "Lot T13",
+    "vehicle_chassis_no": "1G1BL52P3SR153051"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297282/2005-mercedes-benz-slk55-amg/?aa_id=202800-0",
+    "lot_code": "Lot T14",
+    "vehicle_chassis_no": "WDBWK73F85F049186"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297283/2006-ford-mustang-saleen-s281/?aa_id=202801-0",
+    "lot_code": "Lot T15",
+    "vehicle_chassis_no": "1ZVFT82H065166952"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297284/1962-ford-galaxie/?aa_id=202802-0",
+    "lot_code": "Lot T16",
+    "vehicle_chassis_no": "2J52V176795"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297285/1964-chevrolet-el-camino/?aa_id=202803-0",
+    "lot_code": "Lot T17",
+    "vehicle_chassis_no": "45680L103916"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320345/1995-chevrolet-camaro-z28-convertible/?aa_id=215059-0",
+    "lot_code": "Lot T18",
+    "vehicle_chassis_no": "2G1FP32P0S2161542"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297287/1979-pontiac-firebird/?aa_id=202804-0",
+    "lot_code": "Lot T19",
+    "vehicle_chassis_no": "2T87Y9N133497"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320241/1964-chevrolet-nova-resto-mod/?aa_id=214975-0",
+    "lot_code": "Lot T20.1",
+    "vehicle_chassis_no": "40111N152046"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297289/1997-ford-mustang-convertible/?aa_id=202805-0",
+    "lot_code": "Lot T21",
+    "vehicle_chassis_no": "1FALP4447VF176938"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297290/2000-chevrolet-corvette-convertible/?aa_id=202806-0",
+    "lot_code": "Lot T22",
+    "vehicle_chassis_no": "1G1YY32G5Y5129785"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297291/1985-chevrolet-corvette-coupe/?aa_id=202807-0",
+    "lot_code": "Lot T23",
+    "vehicle_chassis_no": "1G1YY0789F5122755"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320154/2004-porsche-cayenne/?aa_id=214905-0",
+    "lot_code": "Lot T23.1",
+    "vehicle_chassis_no": "WP1AB29P74LA67367"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297292/2002-jaguar-x-type/?aa_id=202808-0",
+    "lot_code": "Lot T24",
+    "vehicle_chassis_no": "SAJEA51D92XC44262"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297293/2004-sand-rail-dune-buggy/?aa_id=202809-0",
+    "lot_code": "Lot T25",
+    "vehicle_chassis_no": "ID017517"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297294/1991-ford-mustang-gt/?aa_id=202810-0",
+    "lot_code": "Lot T26",
+    "vehicle_chassis_no": "1FACP42E9MF143353"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297295/2001-mercedes-benz-slk230-convertible/?aa_id=202811-0",
+    "lot_code": "Lot T27",
+    "vehicle_chassis_no": "WDBKK49F31F197258"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320322/1994-chevrolet-corvette-coupe/?aa_id=215038-0",
+    "lot_code": "Lot T28",
+    "vehicle_chassis_no": "1G1YY22P2R5100787"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297297/2004-mercedes-benz-clk320-convertible/?aa_id=202812-0",
+    "lot_code": "Lot T29",
+    "vehicle_chassis_no": "WDBTK65G54T032140"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297298/2003-ford-thunderbird-convertible/?aa_id=202813-0",
+    "lot_code": "Lot T30",
+    "vehicle_chassis_no": "1FAHP60A63Y114283"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320310/1994-chevrolet-corvette-coupe/?aa_id=215033-0",
+    "lot_code": "Lot T30.1",
+    "vehicle_chassis_no": "1G1YY22PXR5110807"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297299/1965-ford-falcon-futura/?aa_id=202814-0",
+    "lot_code": "Lot T31",
+    "vehicle_chassis_no": "5H19T139454"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297301/1985-mercedes-benz-380sl-convertible/?aa_id=202816-0",
+    "lot_code": "Lot T33",
+    "vehicle_chassis_no": "WDBBA45C6FA016513"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320155/2004-bmw-z4-convertible/?aa_id=214906-0",
+    "lot_code": "Lot T33.1",
+    "vehicle_chassis_no": "4USBT335X4LR68291"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297302/1997-chevrolet-camaro-z28/?aa_id=202817-0",
+    "lot_code": "Lot T34",
+    "vehicle_chassis_no": "2G1FP22P9V2153082"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297303/1984-chevrolet-corvette-coupe/?aa_id=202818-0",
+    "lot_code": "Lot T35",
+    "vehicle_chassis_no": "1G1AY078XE5149091"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297304/2001-jaguar-xk8-convertible/?aa_id=202819-0",
+    "lot_code": "Lot T36",
+    "vehicle_chassis_no": "SAJDA42C91NA11763"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297305/2011-dodge-challenger-srt-8/?aa_id=202820-0",
+    "lot_code": "Lot T37",
+    "vehicle_chassis_no": "2B3CJ7DJ6BH552947"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297306/1974-chevrolet-corvette-coupe/?aa_id=202821-0",
+    "lot_code": "Lot T38",
+    "vehicle_chassis_no": "1Z37J4S406260"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320408/1969-oldsmobile-toronado/?aa_id=215116-0",
+    "lot_code": "Lot T39",
+    "vehicle_chassis_no": "394879M622723"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320242/1988-mercedes-benz-560sl/?aa_id=214976-0",
+    "lot_code": "Lot T40",
+    "vehicle_chassis_no": "WDBBA48D4JA084645"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297309/2003-subaru-baja/?aa_id=202822-0",
+    "lot_code": "Lot T41",
+    "vehicle_chassis_no": "4S4BT61C037100652"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297310/1974-cadillac-coupe-deville/?aa_id=202823-0",
+    "lot_code": "Lot T42",
+    "vehicle_chassis_no": "6D47R4Q232231"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297311/1966-cadillac-coupe-deville/?aa_id=202824-0",
+    "lot_code": "Lot T43",
+    "vehicle_chassis_no": "J6254051"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297312/1976-volkswagen-beetle-convertible/?aa_id=202825-0",
+    "lot_code": "Lot T44",
+    "vehicle_chassis_no": "1562175630"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319625/1993-ford-bronco-eddie-bauer-edition/?aa_id=214531-0",
+    "lot_code": "Lot T45",
+    "vehicle_chassis_no": "1FMEU15HXPLA60368"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320581/2008-mercedes-benz-clk350/?aa_id=215213-0",
+    "lot_code": "Lot T45.1",
+    "vehicle_chassis_no": "WDBTJ56HX8F255346"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320145/1994-chevrolet-corvette-convertible/?aa_id=214902-0",
+    "lot_code": "Lot T46",
+    "vehicle_chassis_no": "1G1YY32P8R5120192"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297315/1952-ford-f1-pickup/?aa_id=202826-0",
+    "lot_code": "Lot T47",
+    "vehicle_chassis_no": "F1D2LB14143"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297316/2005-porsche-boxster-convertible/?aa_id=202827-0",
+    "lot_code": "Lot T48",
+    "vehicle_chassis_no": "WP0CA29895U710142"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297317/1973-oldsmobile-88-royale-convertible/?aa_id=202828-0",
+    "lot_code": "Lot T49",
+    "vehicle_chassis_no": "3N67T3M199486"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297319/1948-ford-f1-pickup/?aa_id=202829-0",
+    "lot_code": "Lot T51",
+    "vehicle_chassis_no": "87HY96349"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297320/1972-gmc-sierra-grande-pickup/?aa_id=202830-0",
+    "lot_code": "Lot T52",
+    "vehicle_chassis_no": "TKE142Z507481"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297321/1939-buick-special/?aa_id=202831-0",
+    "lot_code": "Lot T53",
+    "vehicle_chassis_no": "13550767"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297322/1995-cadillac-fleetwood-limousine/?aa_id=202832-0",
+    "lot_code": "Lot T54",
+    "vehicle_chassis_no": "1G6DW52P4SR708230"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297323/1927-ford-track-t-replica/?aa_id=202833-0",
+    "lot_code": "Lot T55",
+    "vehicle_chassis_no": "1332321992"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297324/1976-chevrolet-suburban/?aa_id=202834-0",
+    "lot_code": "Lot T56",
+    "vehicle_chassis_no": "CCS266F159405"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297325/1955-buick-special/?aa_id=202835-0",
+    "lot_code": "Lot T57",
+    "vehicle_chassis_no": "4B2016765"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320156/2003-chevrolet-corvette-coupe/?aa_id=214907-0",
+    "lot_code": "Lot T57.1",
+    "vehicle_chassis_no": "1G1YY2G735117849"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297326/1989-cadillac-allante-convertible/?aa_id=202836-0",
+    "lot_code": "Lot T58",
+    "vehicle_chassis_no": "1G6VR3184KU100800"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297327/1974-chevrolet-corvette-coupe/?aa_id=202837-0",
+    "lot_code": "Lot T59",
+    "vehicle_chassis_no": "1Z37J4S413409"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297328/1969-ford-ranchero/?aa_id=202838-0",
+    "lot_code": "Lot T60",
+    "vehicle_chassis_no": "9K47L179566"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319627/1983-chevrolet-pickup/?aa_id=214532-0",
+    "lot_code": "Lot T60.1",
+    "vehicle_chassis_no": "2GCDC14D0D1145769"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297329/2005-bentley-continental-gt-mulliner/?aa_id=202839-0",
+    "lot_code": "Lot T61",
+    "vehicle_chassis_no": "SCBCR63W95C029866"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297330/1965-chevrolet-corvair-convertible/?aa_id=202840-0",
+    "lot_code": "Lot T62",
+    "vehicle_chassis_no": "105675L100663"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297331/1996-chevrolet-impala-ss-resto-mod/?aa_id=202841-0",
+    "lot_code": "Lot T63",
+    "vehicle_chassis_no": "1G1BL52P1TR133656"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297332/1983-chevrolet-el-camino/?aa_id=202842-0",
+    "lot_code": "Lot T64",
+    "vehicle_chassis_no": "1GCCW8099DR160789"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320157/2008-bmw-750li/?aa_id=214908-0",
+    "lot_code": "Lot T64.1",
+    "vehicle_chassis_no": "WBAHN83578DT79221"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/303280/2010-mini-cooper/?aa_id=206315-0",
+    "lot_code": "Lot T65",
+    "vehicle_chassis_no": "WMWMF7C59ATW89548"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297334/1982-rolls-royce-silver-spur/?aa_id=202843-0",
+    "lot_code": "Lot T66",
+    "vehicle_chassis_no": "SCAZN42A9CCX06111"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297335/1984-mercedes-benz-380sl-convertible/?aa_id=202844-0",
+    "lot_code": "Lot T67",
+    "vehicle_chassis_no": "WDBBA45A6EA013883"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320243/1985-porsche-944/?aa_id=214977-0",
+    "lot_code": "Lot T68",
+    "vehicle_chassis_no": "WP0AA0948FN474622"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297337/1971-chevrolet-c10-pickup/?aa_id=202845-0",
+    "lot_code": "Lot T69",
+    "vehicle_chassis_no": "CS141Z661548"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297338/1955-ford-thunderbird/?aa_id=202846-0",
+    "lot_code": "Lot T70",
+    "vehicle_chassis_no": "P5FH168054"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319628/1988-gmc-suburban-sierra-classic/?aa_id=214533-0",
+    "lot_code": "Lot T70.1",
+    "vehicle_chassis_no": "1GKGR26N9JF530487"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297339/1971-ford-ranchero-gt/?aa_id=202847-0",
+    "lot_code": "Lot T71",
+    "vehicle_chassis_no": "1A48H142258"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297340/2003-mercedes-benz-sl500-convertible/?aa_id=202848-0",
+    "lot_code": "Lot T72",
+    "vehicle_chassis_no": "WDBSK75F93F053482"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320255/1973-toyota-fj-40-land-cruiser/?aa_id=214988-0",
+    "lot_code": "Lot T72.1",
+    "vehicle_chassis_no": "FJ40152155"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297341/1948-lincoln-continental/?aa_id=202849-0",
+    "lot_code": "Lot T73",
+    "vehicle_chassis_no": "8H181381"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319629/2001-ford-mustang-roush-convertible/?aa_id=214534-0",
+    "lot_code": "Lot T75.1",
+    "vehicle_chassis_no": "1FAFP45X81F180805"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297344/1964-chevrolet-c20-pickup/?aa_id=202850-0",
+    "lot_code": "Lot T76",
+    "vehicle_chassis_no": "4C254J160079"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297345/2014-chevrolet-corvette-coupe/?aa_id=202851-0",
+    "lot_code": "Lot T77",
+    "vehicle_chassis_no": "1G1YM2D7XE5106078"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297346/2009-chevrolet-hhr-ss-panel/?aa_id=202852-0",
+    "lot_code": "Lot T78",
+    "vehicle_chassis_no": "3GCCA65X29S581669"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297347/1993-dodge-ramcharger/?aa_id=202853-0",
+    "lot_code": "Lot T79",
+    "vehicle_chassis_no": "3B4GE17Y8PM125639"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320158/2007-mercedes-benz-sl550-convertible/?aa_id=214909-0",
+    "lot_code": "Lot T79.1",
+    "vehicle_chassis_no": "WSBSK71F17F126548"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297353/1973-chevrolet-corvette-coupe/?aa_id=202857-0",
+    "lot_code": "Lot T80",
+    "vehicle_chassis_no": "1Z37J3S405694"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320346/2007-bmw-750li/?aa_id=215060-0",
+    "lot_code": "Lot T81.1",
+    "vehicle_chassis_no": "WBAHN83597DT65786"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297350/1981-chevrolet-corvette-coupe/?aa_id=202854-0",
+    "lot_code": "Lot T82",
+    "vehicle_chassis_no": "1G1AY876XBS423755"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297351/1986-chevrolet-monte-carlo/?aa_id=202855-0",
+    "lot_code": "Lot T83",
+    "vehicle_chassis_no": "1G1GZ37H7GR207470"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297352/1972-chevrolet-pickup/?aa_id=202856-0",
+    "lot_code": "Lot T84",
+    "vehicle_chassis_no": "CCE242Z163383"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319630/2003-mercedes-benz-clk430-convertible/?aa_id=214535-0",
+    "lot_code": "Lot T84.1",
+    "vehicle_chassis_no": "WDBLK70G73T141436"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297356/1978-dodge-b200-van/?aa_id=202858-0",
+    "lot_code": "Lot T88",
+    "vehicle_chassis_no": "B21BE8X201161"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316672/1990-ford-custom-van/?aa_id=212977-0",
+    "lot_code": "Lot T88.1",
+    "vehicle_chassis_no": "1FTFE24H7LHB33240"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316673/1985-chevrolet-custom-van/?aa_id=212978-0",
+    "lot_code": "Lot T89.1",
+    "vehicle_chassis_no": "1GCDG15F4F7114423"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297358/1984-dodge-custom-van/?aa_id=202859-0",
+    "lot_code": "Lot T90",
+    "vehicle_chassis_no": "2B7GB13H2EK274550"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316675/1986-ford-econoline-van/?aa_id=212979-0",
+    "lot_code": "Lot T91.1",
+    "vehicle_chassis_no": "1FTEE14NXGHC21099"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297360/1999-porsche-911-carrera/?aa_id=202860-0",
+    "lot_code": "Lot T92",
+    "vehicle_chassis_no": "WP0CA2992XS650888"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316676/1974-plymouth-road-runner/?aa_id=212980-0",
+    "lot_code": "Lot T92.1",
+    "vehicle_chassis_no": "RM21L4G146771"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297361/1972-chevrolet-chevelle-ss/?aa_id=202861-0",
+    "lot_code": "Lot T93",
+    "vehicle_chassis_no": "1D37W2L527149"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316677/1977-chevrolet-nova/?aa_id=212981-0",
+    "lot_code": "Lot T93.1",
+    "vehicle_chassis_no": "1Y17U7L155920"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297362/1997-ford-mustang-svt-cobra/?aa_id=202862-0",
+    "lot_code": "Lot T94",
+    "vehicle_chassis_no": "1FALP46V7VF175312"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316678/1963-dodge-330/?aa_id=212982-0",
+    "lot_code": "Lot T94.1",
+    "vehicle_chassis_no": "6135112901"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297363/1989-cadillac-allante-convertible/?aa_id=202863-0",
+    "lot_code": "Lot T95",
+    "vehicle_chassis_no": "1G6VR3187KU100094"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320600/1974-chevrolet-nova/?aa_id=215228-0",
+    "lot_code": "Lot T95.1",
+    "vehicle_chassis_no": "1Y17L4L124710"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297364/1991-jaguar-xj6/?aa_id=202864-0",
+    "lot_code": "Lot T96",
+    "vehicle_chassis_no": "SAJFY1745MC629857"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316680/1973-chevrolet-el-camino/?aa_id=212983-0",
+    "lot_code": "Lot T96.1",
+    "vehicle_chassis_no": "1D80Y3Z472600"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316681/1985-oldsmobile-toronado/?aa_id=212984-0",
+    "lot_code": "Lot T97.1",
+    "vehicle_chassis_no": "1G3EZ57Y2FE321876"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297366/1991-jaguar-xj6-sovereign/?aa_id=202865-0",
+    "lot_code": "Lot T98",
+    "vehicle_chassis_no": "SAJHY1744MC634492"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320601/1976-gmc-pickup/?aa_id=215229-0",
+    "lot_code": "Lot T98.1",
+    "vehicle_chassis_no": "TCS146F729230"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297367/1993-chevrolet-corvette-40th-anniversary/?aa_id=202866-0",
+    "lot_code": "Lot T99",
+    "vehicle_chassis_no": "1G1YY23PXP5106994"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316683/1972-chevrolet-rally-nova/?aa_id=212985-0",
+    "lot_code": "Lot T99.1",
+    "vehicle_chassis_no": "1X27H2L149080"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297368/1987-cadillac-allante-convertible/?aa_id=202867-0",
+    "lot_code": "Lot T100",
+    "vehicle_chassis_no": "1G6VR3173HU103185"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316684/1999-jaguar-xj8l-sedan/?aa_id=212986-0",
+    "lot_code": "Lot T100.1",
+    "vehicle_chassis_no": "SAJHX6046XC857289"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297369/1973-plymouth-duster/?aa_id=202868-0",
+    "lot_code": "Lot T101",
+    "vehicle_chassis_no": "VL29G3G231474"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316685/1973-pontiac-ventura/?aa_id=212987-0",
+    "lot_code": "Lot T101.1",
+    "vehicle_chassis_no": "2Z27M3L121312"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297370/1974-chevrolet-nova/?aa_id=202869-0",
+    "lot_code": "Lot T102",
+    "vehicle_chassis_no": "1Y17L4L175913"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319034/1976-chevrolet-custom-van/?aa_id=214052-0",
+    "lot_code": "Lot T102.1",
+    "vehicle_chassis_no": "CGL156U123027"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319035/1995-mercedes-benz-s-class/?aa_id=214053-0",
+    "lot_code": "Lot T103",
+    "vehicle_chassis_no": "WDBGA43E0SA249789"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319036/1988-chevrolet-blazer/?aa_id=214054-0",
+    "lot_code": "Lot T103.1",
+    "vehicle_chassis_no": "1GBCT18Z4J8196030"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297372/1980-dodge-custom-van/?aa_id=202870-0",
+    "lot_code": "Lot T104",
+    "vehicle_chassis_no": "B25JTAX118864"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319037/1977-dodge-custom-van/?aa_id=214055-0",
+    "lot_code": "Lot T104.1",
+    "vehicle_chassis_no": "B21BF7X241752"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297373/1977-ford-econoline-van/?aa_id=202871-0",
+    "lot_code": "Lot T105",
+    "vehicle_chassis_no": "E24AHY02221"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297374/2008-pontiac-solstice-convertible/?aa_id=202872-0",
+    "lot_code": "Lot T106",
+    "vehicle_chassis_no": "1G2MC35B88Y122630"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297375/1978-chevrolet-camaro-z28/?aa_id=202873-0",
+    "lot_code": "Lot T107",
+    "vehicle_chassis_no": "1Q87L8N596850"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320347/2004-mercedes-benz-clk500-convertible/?aa_id=215061-0",
+    "lot_code": "Lot T107.1",
+    "vehicle_chassis_no": "WDBTK75G24T005645"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297376/2000-porsche-boxster/?aa_id=202874-0",
+    "lot_code": "Lot T108",
+    "vehicle_chassis_no": "WP0CB2983YU663966"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297377/2004-maserati-cambiocorsa-spyder/?aa_id=202875-0",
+    "lot_code": "Lot T109",
+    "vehicle_chassis_no": "ZAMBB18A440011445"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297378/1979-chevrolet-camaro/?aa_id=202876-0",
+    "lot_code": "Lot T110",
+    "vehicle_chassis_no": "1Q87G9L616755"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319631/1976-chevrolet-corvette-coupe/?aa_id=214536-0",
+    "lot_code": "Lot T110.1",
+    "vehicle_chassis_no": "1Z37L6S438468"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297380/1940-ford-ambulance/?aa_id=202877-0",
+    "lot_code": "Lot T112",
+    "vehicle_chassis_no": "185625658"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297381/1933-ford-victoria-tudor/?aa_id=202878-0",
+    "lot_code": "Lot T113",
+    "vehicle_chassis_no": "181024616"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320159/2010-bmw-750li-m-sport/?aa_id=214910-0",
+    "lot_code": "Lot T114.1",
+    "vehicle_chassis_no": "WBAKB8C56ACY63293"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297383/1967-pontiac-catalina-convertible/?aa_id=202879-0",
+    "lot_code": "Lot T115",
+    "vehicle_chassis_no": "252677P187929"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297384/1959-buick-invicta/?aa_id=202880-0",
+    "lot_code": "Lot T116",
+    "vehicle_chassis_no": "6F2019002"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297385/1966-lincoln-continental-convertible/?aa_id=202881-0",
+    "lot_code": "Lot T117",
+    "vehicle_chassis_no": "6Y82G417785"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297387/1966-ford-mustang-convertible/?aa_id=202882-0",
+    "lot_code": "Lot T119",
+    "vehicle_chassis_no": "6F08T367929"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297388/1974-ford-maverick-grabber/?aa_id=202883-0",
+    "lot_code": "Lot T120",
+    "vehicle_chassis_no": "4K93L154811"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319632/1985-chevrolet-pickup/?aa_id=214537-0",
+    "lot_code": "Lot T120.1",
+    "vehicle_chassis_no": "2GCEK14N8F1177193"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297389/1968-chevrolet-el-camino-ss/?aa_id=202884-0",
+    "lot_code": "Lot T121",
+    "vehicle_chassis_no": "138808Z163627"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297390/1999-jaguar-xj8-l-vanden-plas/?aa_id=202885-0",
+    "lot_code": "Lot T122",
+    "vehicle_chassis_no": "SAJKX6043XC855070"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297391/1966-cadillac-coupe-deville/?aa_id=202886-0",
+    "lot_code": "Lot T123",
+    "vehicle_chassis_no": "J6254234"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320160/2007-ford-mustang-convertible/?aa_id=214911-0",
+    "lot_code": "Lot T123.1",
+    "vehicle_chassis_no": "1ZVHT85H075198371"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297392/2009-subaru-impreza-sti/?aa_id=202887-0",
+    "lot_code": "Lot T124",
+    "vehicle_chassis_no": "JF1GR896X9L825037"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297393/2004-mercedes-benz-e500/?aa_id=202888-0",
+    "lot_code": "Lot T125",
+    "vehicle_chassis_no": "WDBUH83J14X164754"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320348/2007-mercedes-benz-sl550-convertible/?aa_id=215062-0",
+    "lot_code": "Lot T125.1",
+    "vehicle_chassis_no": "WDB5K71F57F120199"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297394/2007-mercedes-benz-sl550-convertible/?aa_id=202889-0",
+    "lot_code": "Lot T126",
+    "vehicle_chassis_no": "WDBSK71F77F128952"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297395/1978-ford-ranger-xlt-pickup/?aa_id=202890-0",
+    "lot_code": "Lot T127",
+    "vehicle_chassis_no": "F14HRAK0370"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321306/2005-mercedes-benz-sl500-convertible/?aa_id=215752-0",
+    "lot_code": "Lot T127.1",
+    "vehicle_chassis_no": "WDBSK75F35F103201"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297396/1947-ford-pickup/?aa_id=202891-0",
+    "lot_code": "Lot T128",
+    "vehicle_chassis_no": "71GU408084"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297397/2003-mercedes-benz-sl500/?aa_id=202892-0",
+    "lot_code": "Lot T129",
+    "vehicle_chassis_no": "WDBSK75F43F051896"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320161/1970-chevrolet-corvette-convertible/?aa_id=214912-0",
+    "lot_code": "Lot T130",
+    "vehicle_chassis_no": "194670S412523"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319545/1971-chevrolet-cst30-hauler/?aa_id=214457-0",
+    "lot_code": "Lot T131.1",
+    "vehicle_chassis_no": "CE241S610688"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297400/1950-ford-f1-panel-delivery/?aa_id=202893-0",
+    "lot_code": "Lot T132",
+    "vehicle_chassis_no": "98RC331446"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297401/1938-chevrolet-coupe-street-rod/?aa_id=202894-0",
+    "lot_code": "Lot T133",
+    "vehicle_chassis_no": "DMV1825"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297402/2010-saab-9-5-aero/?aa_id=202895-0",
+    "lot_code": "Lot T134",
+    "vehicle_chassis_no": "YS3GR4BJ2A4003082"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297403/1972-dodge-charger/?aa_id=202896-0",
+    "lot_code": "Lot T135",
+    "vehicle_chassis_no": "WH23GA107718"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297404/1965-lincoln-continental/?aa_id=202897-0",
+    "lot_code": "Lot T136",
+    "vehicle_chassis_no": "5Y82N414081"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320256/1963-chevrolet-nova/?aa_id=214989-0",
+    "lot_code": "Lot T136.1",
+    "vehicle_chassis_no": "304370160787"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297405/2005-mercedes-benz-clk320-convertible/?aa_id=202898-0",
+    "lot_code": "Lot T137",
+    "vehicle_chassis_no": "WDBTK65J45F157013"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297406/2007-chevrolet-corvette-coupe/?aa_id=202899-0",
+    "lot_code": "Lot T138",
+    "vehicle_chassis_no": "1G1YY25U875134716"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297407/2007-jeep-wrangler/?aa_id=202900-0",
+    "lot_code": "Lot T139",
+    "vehicle_chassis_no": "1J4GA39147L228644"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297408/2007-jaguar-xk/?aa_id=202901-0",
+    "lot_code": "Lot T140",
+    "vehicle_chassis_no": "SAJWA43B275B08410"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320582/1970-chevrolet-camaro-ss/?aa_id=215214-0",
+    "lot_code": "Lot T140.1",
+    "vehicle_chassis_no": "124870N526653"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297409/2004-hummer-h2/?aa_id=202902-0",
+    "lot_code": "Lot T141",
+    "vehicle_chassis_no": "5GRGN23U74H108972"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297410/1972-chevrolet-chevelle/?aa_id=202903-0",
+    "lot_code": "Lot T142",
+    "vehicle_chassis_no": "1D37U2L533984"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321279/2008-toyota-solara-sle-convertible/?aa_id=215727-0",
+    "lot_code": "Lot T142.1",
+    "vehicle_chassis_no": "4T1FA38P28U154185"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297411/1955-ford-victoria/?aa_id=202904-0",
+    "lot_code": "Lot T143",
+    "vehicle_chassis_no": "U5DV152387"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297413/1957-lincoln-premiere/?aa_id=202905-0",
+    "lot_code": "Lot T145",
+    "vehicle_chassis_no": "57WA6249L"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297414/1965-chevrolet-nova/?aa_id=202906-0",
+    "lot_code": "Lot T146",
+    "vehicle_chassis_no": "116375N173924"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297415/2006-dodge-magnum-r-t-wagon/?aa_id=202907-0",
+    "lot_code": "Lot T147",
+    "vehicle_chassis_no": "2D4GV57296H280173"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320583/1970-chevrolet-c10-pickup/?aa_id=215215-0",
+    "lot_code": "Lot T147.1",
+    "vehicle_chassis_no": "CS1401135987"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297416/2008-bmw-750i/?aa_id=202908-0",
+    "lot_code": "Lot T148",
+    "vehicle_chassis_no": "WBAHL83568DT13488"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297417/1979-chevrolet-camaro-z28/?aa_id=202909-0",
+    "lot_code": "Lot T149",
+    "vehicle_chassis_no": "1Q87L9L544843"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297418/2003-mercedes-benz-sl500-convertible/?aa_id=202910-0",
+    "lot_code": "Lot T150",
+    "vehicle_chassis_no": "WDBSK75F73F036034"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320584/2006-mercedes-benz-sl500-convertible/?aa_id=215216-0",
+    "lot_code": "Lot T150.1",
+    "vehicle_chassis_no": "WDBSK75F56F108739"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297419/1975-fiat-124-spider/?aa_id=202911-0",
+    "lot_code": "Lot T151",
+    "vehicle_chassis_no": "124CS10099636"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297420/1956-willys-jeep/?aa_id=202912-0",
+    "lot_code": "Lot T152",
+    "vehicle_chassis_no": "37435"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297421/1989-jaguar-xjs/?aa_id=202913-0",
+    "lot_code": "Lot T153",
+    "vehicle_chassis_no": "SAJNA5849KC148903"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297422/1966-chevrolet-corvette-convertible/?aa_id=202914-0",
+    "lot_code": "Lot T154",
+    "vehicle_chassis_no": "194676S112748"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321515/2000-dodge-viper-gts/?aa_id=215929-0",
+    "lot_code": "Lot T154.1",
+    "vehicle_chassis_no": "1B3ER69E4YV604762"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297424/1972-pontiac-bonneville/?aa_id=202916-0",
+    "lot_code": "Lot T156",
+    "vehicle_chassis_no": "2N90V2P378033"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320610/2011-mercedes-benz-s63-amg/?aa_id=215234-0",
+    "lot_code": "Lot T157.1",
+    "vehicle_chassis_no": "WDDNG7EB7BA371101"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297426/1994-pontiac-firebird-25th-anniversary/?aa_id=202917-0",
+    "lot_code": "Lot T158",
+    "vehicle_chassis_no": "2G2FV22P4R2234224"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297427/1970-jeep-cj-5/?aa_id=202918-0",
+    "lot_code": "Lot T159",
+    "vehicle_chassis_no": "8305017362540"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320585/2004-porsche-cayenne/?aa_id=215217-0",
+    "lot_code": "Lot T160.1",
+    "vehicle_chassis_no": "WP1AA29P94LA22174"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297430/2010-bmw-128i-convertible/?aa_id=202920-0",
+    "lot_code": "Lot T162",
+    "vehicle_chassis_no": "WBAUL7C51AVJ77196"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297431/1973-chevrolet-c10-pickup/?aa_id=202921-0",
+    "lot_code": "Lot T163",
+    "vehicle_chassis_no": "CCQ143Z149286"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297432/1940-lasalle-street-rod/?aa_id=202922-0",
+    "lot_code": "Lot T164",
+    "vehicle_chassis_no": "4331360"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297433/2004-cadillac-cts-v/?aa_id=202923-0",
+    "lot_code": "Lot T165",
+    "vehicle_chassis_no": "1G6DN57S140149162"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297434/2009-saturn-sky-convertible/?aa_id=202924-0",
+    "lot_code": "Lot T166",
+    "vehicle_chassis_no": "1G8MN35B59Y106578"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297435/2004-mercury-marauder/?aa_id=202925-0",
+    "lot_code": "Lot T167",
+    "vehicle_chassis_no": "2MEHM79V04X611831"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297436/2004-mercedes-benz-sl600-convertible/?aa_id=202926-0",
+    "lot_code": "Lot T168",
+    "vehicle_chassis_no": "WDBSK76F04F067089"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297437/1993-ford-mustang-gt-convertible/?aa_id=202927-0",
+    "lot_code": "Lot T169",
+    "vehicle_chassis_no": "1FACP45E9PF168723"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297438/1976-cadillac-eldorado-convertible/?aa_id=202928-0",
+    "lot_code": "Lot T170",
+    "vehicle_chassis_no": "6L67S6Q202936"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297440/1975-oldsmobile-cutlass/?aa_id=202929-0",
+    "lot_code": "Lot T172",
+    "vehicle_chassis_no": "3J57K5M320747"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297441/1977-chevrolet-corvette-coupe/?aa_id=202930-0",
+    "lot_code": "Lot T173",
+    "vehicle_chassis_no": "1Z37L7S408004"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297442/1984-cadillac-eldorado-convertible/?aa_id=202931-0",
+    "lot_code": "Lot T174",
+    "vehicle_chassis_no": "1G6AL6784EE662008"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297443/2006-pontiac-gto/?aa_id=202932-0",
+    "lot_code": "Lot T175",
+    "vehicle_chassis_no": "6G2VX12U36L832969"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297444/1975-chevrolet-k5-blazer/?aa_id=202933-0",
+    "lot_code": "Lot T176",
+    "vehicle_chassis_no": "CKY185F118955"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297445/2004-ford-mustang-gt-40th-anniversary/?aa_id=202934-0",
+    "lot_code": "Lot T177",
+    "vehicle_chassis_no": "1FAFP45XX4F106032"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297446/2005-mercedes-benz-500sl-convertible/?aa_id=202935-0",
+    "lot_code": "Lot T178",
+    "vehicle_chassis_no": "WDBSK75F45F088479"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297447/2004-cadillac-xlr-convertible/?aa_id=202936-0",
+    "lot_code": "Lot T179",
+    "vehicle_chassis_no": "1G6YV34A445603263"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297448/1969-buick-skylark/?aa_id=202937-0",
+    "lot_code": "Lot T180",
+    "vehicle_chassis_no": "444379Y227161"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297449/1976-chevrolet-corvette-coupe/?aa_id=202938-0",
+    "lot_code": "Lot T181",
+    "vehicle_chassis_no": "1Z37X6S415079"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297450/2008-mercedes-benz-clk500/?aa_id=202939-0",
+    "lot_code": "Lot T182",
+    "vehicle_chassis_no": "WDDDJ72X08A128476"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297451/1980-mg-b-roadster/?aa_id=202940-0",
+    "lot_code": "Lot T183",
+    "vehicle_chassis_no": "GVVDJ2AG505217"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297452/1986-jaguar-xjs/?aa_id=202941-0",
+    "lot_code": "Lot T184",
+    "vehicle_chassis_no": "SAJNV5845GC129373"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297453/1993-cadillac-allante-convertible/?aa_id=202942-0",
+    "lot_code": "Lot T185",
+    "vehicle_chassis_no": "1G6VS3394PU125293"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297455/1992-toyota-land-cruiser/?aa_id=202943-0",
+    "lot_code": "Lot T187",
+    "vehicle_chassis_no": "HZJ770003469"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297456/1990-toyota-century/?aa_id=202944-0",
+    "lot_code": "Lot T188",
+    "vehicle_chassis_no": "VG40011002"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297457/1991-nissan-figaro/?aa_id=202945-0",
+    "lot_code": "Lot T189",
+    "vehicle_chassis_no": "FK10003402"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297458/1989-toyota-soarer-convertible/?aa_id=202946-0",
+    "lot_code": "Lot T190",
+    "vehicle_chassis_no": "MZ200009173"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297459/1966-plymouth-satellite/?aa_id=202947-0",
+    "lot_code": "Lot T191",
+    "vehicle_chassis_no": "RP23E67100794"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297460/1996-pontiac-trans-am-ws6/?aa_id=202948-0",
+    "lot_code": "Lot T192",
+    "vehicle_chassis_no": "2G2FV22P7T2217327"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/LN17-297461/2007-chrysler-crossfire-convertible/?aa_id=202949-0",
+    "lot_code": "Lot T193",
+    "vehicle_chassis_no": "1C3LN65L27X072151"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297462/1951-willys-jeep-m38/?aa_id=202950-0",
+    "lot_code": "Lot T194",
+    "vehicle_chassis_no": "RMC125923"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297463/1979-pontiac-firebird-formula/?aa_id=202951-0",
+    "lot_code": "Lot T195",
+    "vehicle_chassis_no": "2U87W9N166032"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297464/1980-cadillac-coupe-deville/?aa_id=202952-0",
+    "lot_code": "Lot T196",
+    "vehicle_chassis_no": "6D476AC358162"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297465/1963-ford-thunderbird-convertible/?aa_id=202953-0",
+    "lot_code": "Lot T197",
+    "vehicle_chassis_no": "3Y85Z153835"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297466/1980-plymouth-arrow-pickup/?aa_id=202954-0",
+    "lot_code": "Lot T198",
+    "vehicle_chassis_no": "0JL4UA1124037"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297467/1969-ford-mustang/?aa_id=202955-0",
+    "lot_code": "Lot T199",
+    "vehicle_chassis_no": "9R01F142886"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297468/1951-ford-custom/?aa_id=202956-0",
+    "lot_code": "Lot T200",
+    "vehicle_chassis_no": "B1CH204494"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297469/1929-ford-custom-rat-rod/?aa_id=202957-0",
+    "lot_code": "Lot T201",
+    "vehicle_chassis_no": "108772816"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320598/1989-land-rover-defender-110/?aa_id=215226-0",
+    "lot_code": "Lot F1",
+    "vehicle_chassis_no": "SALLDHMV7FA414259"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297480/1966-chevrolet-el-camino/?aa_id=202958-0",
+    "lot_code": "Lot F2",
+    "vehicle_chassis_no": "136806K182534"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297481/2007-mercedes-benz-sl55-amg-convertible/?aa_id=202959-0",
+    "lot_code": "Lot F3",
+    "vehicle_chassis_no": "WDBSK72F67F132747"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297482/1958-chevrolet-impala/?aa_id=202960-0",
+    "lot_code": "Lot F4",
+    "vehicle_chassis_no": null
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297483/2001-chrysler-pt-cruiser/?aa_id=202961-0",
+    "lot_code": "Lot F5",
+    "vehicle_chassis_no": "3C8FY4BB01T507329"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320562/1968-chevrolet-camaro/?aa_id=215195-0",
+    "lot_code": "Lot F5.1",
+    "vehicle_chassis_no": "124378L330157"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297484/1969-volkswagen-bus/?aa_id=202962-0",
+    "lot_code": "Lot F6",
+    "vehicle_chassis_no": "229061656"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320599/1934-ford-street-rod/?aa_id=215227-0",
+    "lot_code": "Lot F7",
+    "vehicle_chassis_no": "CA957410"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297486/2009-bmw-x5/?aa_id=202964-0",
+    "lot_code": "Lot F8",
+    "vehicle_chassis_no": "5UXFE43589L272543"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320563/1978-chevrolet-corvette-pace-car-edition/?aa_id=215196-0",
+    "lot_code": "Lot F9",
+    "vehicle_chassis_no": "1Z8748S906417"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320539/1994-dodge-viper-rt-10-roadster/?aa_id=215172-0",
+    "lot_code": "Lot F10.1",
+    "vehicle_chassis_no": "1B3BR65E6RV101616"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320513/1963-volkswagen-beetle/?aa_id=215157-0",
+    "lot_code": "Lot F11",
+    "vehicle_chassis_no": "4911124"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320449/1976-chevrolet-cheyenne-blazer/?aa_id=215125-0",
+    "lot_code": "Lot F12",
+    "vehicle_chassis_no": "CKL186F211466"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320450/1977-chevrolet-corvette-coupe/?aa_id=215126-0",
+    "lot_code": "Lot F13",
+    "vehicle_chassis_no": "1Z37L7S402057"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320339/1968-chevrolet-camaro/?aa_id=215054-0",
+    "lot_code": "Lot F14",
+    "vehicle_chassis_no": "124378L306478"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297493/1999-porsche-911-carrera-cabriolet/?aa_id=202965-0",
+    "lot_code": "Lot F15",
+    "vehicle_chassis_no": "WP0CA2995XS656250"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321274/2000-chevrolet-corvette-coupe/?aa_id=215723-0",
+    "lot_code": "Lot F15.1",
+    "vehicle_chassis_no": "1G1YY22G2Y5128894"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297494/1994-chevrolet-impala-ss/?aa_id=202966-0",
+    "lot_code": "Lot F16",
+    "vehicle_chassis_no": "1G1BN52P6RR166056"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297495/1991-am-general-m998-humvee/?aa_id=202967-0",
+    "lot_code": "Lot F17",
+    "vehicle_chassis_no": "113417"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297497/2007-pontiac-solstice-convertible/?aa_id=202968-0",
+    "lot_code": "Lot F19",
+    "vehicle_chassis_no": "1G2MB35B37Y112749"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297498/1971-plymouth-valiant-scamp/?aa_id=202969-0",
+    "lot_code": "Lot F20",
+    "vehicle_chassis_no": "VH23G1R253498"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320244/1940-ford-street-rod/?aa_id=214978-0",
+    "lot_code": "Lot F20.1",
+    "vehicle_chassis_no": "9C48556"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297499/1955-ford-thunderbird/?aa_id=202970-0",
+    "lot_code": "Lot F21",
+    "vehicle_chassis_no": "P5FH165417"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297500/1978-pontiac-firebird-formula/?aa_id=202971-0",
+    "lot_code": "Lot F22",
+    "vehicle_chassis_no": "2U87Z8L129727"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297501/1960-ford-thunderbird/?aa_id=202972-0",
+    "lot_code": "Lot F23",
+    "vehicle_chassis_no": "0Y71Y142387"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297502/1978-chevrolet-k10/?aa_id=202973-0",
+    "lot_code": "Lot F24",
+    "vehicle_chassis_no": "CKR148Z113823"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297503/2004-chevrolet-corvette-z06/?aa_id=202974-0",
+    "lot_code": "Lot F25",
+    "vehicle_chassis_no": "1G1YY12S945122244"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320564/1957-ford-wagon/?aa_id=215197-0",
+    "lot_code": "Lot F25.1",
+    "vehicle_chassis_no": "D7LX168022"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297504/1988-porsche-911/?aa_id=202975-0",
+    "lot_code": "Lot F26",
+    "vehicle_chassis_no": "WP0EB0911JS171731"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297505/1967-chevrolet-corvette-convertible/?aa_id=202976-0",
+    "lot_code": "Lot F27",
+    "vehicle_chassis_no": "194677S118307"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297506/1998-bentley-brooklands-r/?aa_id=202977-0",
+    "lot_code": "Lot F28",
+    "vehicle_chassis_no": "SCBZE19C6WCX66126"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321299/2006-mercedes-benz-clk350-convertible/?aa_id=215745-0",
+    "lot_code": "Lot F28.1",
+    "vehicle_chassis_no": "WDBTK56H06F189514"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297507/1965-volkswagen-beetle/?aa_id=202978-0",
+    "lot_code": "Lot F29",
+    "vehicle_chassis_no": "115514960"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316664/1969-amc-amx/?aa_id=212969-0",
+    "lot_code": "Lot F30",
+    "vehicle_chassis_no": "A9M397X317059"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310101/1997-mercedes-benz-sl600/?aa_id=209222-0",
+    "lot_code": "Lot F31",
+    "vehicle_chassis_no": "WDBFA76F0VF146204"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321467/2002-bentley-azure-convertible/?aa_id=215888-0",
+    "lot_code": "Lot F32.1",
+    "vehicle_chassis_no": "SCBZK22E72CX01094"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297511/1971-chevrolet-cheyenne-pickup/?aa_id=202979-0",
+    "lot_code": "Lot F33",
+    "vehicle_chassis_no": "CE141F625964"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297512/1975-porsche-914-targa/?aa_id=202980-0",
+    "lot_code": "Lot F34",
+    "vehicle_chassis_no": "4752900122"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297514/2003-nissan-350z/?aa_id=202982-0",
+    "lot_code": "Lot F36",
+    "vehicle_chassis_no": "JN1AZ34E33T000002"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297485/1949-chevrolet-3100-pickup/?aa_id=202963-0",
+    "lot_code": "Lot F36.1",
+    "vehicle_chassis_no": "21GRK11075"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297515/1990-chevrolet-corvette-coupe/?aa_id=202983-0",
+    "lot_code": "Lot F37",
+    "vehicle_chassis_no": "1G1YY238XL5108814"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310102/1962-chevrolet-corvair-convertible/?aa_id=209223-0",
+    "lot_code": "Lot F38",
+    "vehicle_chassis_no": "20967W280871"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297517/2008-pontiac-solstice-convertible/?aa_id=202984-0",
+    "lot_code": "Lot F39",
+    "vehicle_chassis_no": "1G2MC35B88Y122630"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/318932/2002-ford-thunderbird/?aa_id=213976-0",
+    "lot_code": "Lot F40",
+    "vehicle_chassis_no": "1FAHP60A62Y101760"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319602/1965-ford-mustang-fastback/?aa_id=214508-0",
+    "lot_code": "Lot F40.1",
+    "vehicle_chassis_no": "5F09C730386"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320299/1956-cadillac-eldorado-biarritz-convertible/?aa_id=215026-0",
+    "lot_code": "Lot F41",
+    "vehicle_chassis_no": "5662092027"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297521/1970-oldsmobile-cutlass-pace-car-edition/?aa_id=202985-0",
+    "lot_code": "Lot F43",
+    "vehicle_chassis_no": "342670M295412"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320341/2002-maserati-cambiocorsa-gt/?aa_id=215055-0",
+    "lot_code": "Lot F43.1",
+    "vehicle_chassis_no": "ZAMBC38A620007628"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316665/1949-chevrolet-deluxe-convertible/?aa_id=212970-0",
+    "lot_code": "Lot F44",
+    "vehicle_chassis_no": "14GKH59428"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316631/1983-chevrolet-silverado-pickup/?aa_id=212945-0",
+    "lot_code": "Lot F45",
+    "vehicle_chassis_no": "2GCEK14H4D1100148"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319603/1981-chevrolet-corvette-coupe/?aa_id=214509-0",
+    "lot_code": "Lot F45.1",
+    "vehicle_chassis_no": "1G1AY8761B5105540"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297524/1930-ford-model-a-tudor/?aa_id=202986-0",
+    "lot_code": "Lot F46",
+    "vehicle_chassis_no": "A3981476"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310104/1973-mercury-cougar-xr-7-convertible/?aa_id=209224-0",
+    "lot_code": "Lot F48",
+    "vehicle_chassis_no": "3F94H522920"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297527/1971-chevrolet-k5-blazer/?aa_id=202987-0",
+    "lot_code": "Lot F49",
+    "vehicle_chassis_no": "KE181S613370"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319505/2008-aston-martin-vantage-convertible/?aa_id=214428-0",
+    "lot_code": "Lot F49.1",
+    "vehicle_chassis_no": "SCFBF04B58GD08629"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/306103/1975-chevrolet-pickup/?aa_id=208100-0",
+    "lot_code": "Lot F50",
+    "vehicle_chassis_no": "CCQ145Z148867"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316457/1938-packard-club-coupe/?aa_id=212824-0",
+    "lot_code": "Lot F51",
+    "vehicle_chassis_no": "A27130"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316459/1970-chevrolet-el-camino/?aa_id=212826-0",
+    "lot_code": "Lot F52",
+    "vehicle_chassis_no": "136800L189351"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310105/1967-oldsmobile-cutlass-supreme-convertible/?aa_id=209225-0",
+    "lot_code": "Lot F53",
+    "vehicle_chassis_no": "338677M308974"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/LN17-320608/1948-ford-woody-wagon/?aa_id=215233-0",
+    "lot_code": "Lot F54.1",
+    "vehicle_chassis_no": "899A2248868"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/303278/1975-ford-f250-pickup/?aa_id=206313-0",
+    "lot_code": "Lot F55",
+    "vehicle_chassis_no": "F25JKW03656"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319604/2007-maserati-quattroporte/?aa_id=214510-0",
+    "lot_code": "Lot F55.1",
+    "vehicle_chassis_no": "ZAMCE39A370028697"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316666/1968-opel-kadett-l-station-wagon/?aa_id=212971-0",
+    "lot_code": "Lot F56",
+    "vehicle_chassis_no": "391383662"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316632/2006-lincoln-mark-lt/?aa_id=212946-0",
+    "lot_code": "Lot F57",
+    "vehicle_chassis_no": "5LTPW18536FJ20316"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310106/1975-chevrolet-corvette-coupe/?aa_id=209226-0",
+    "lot_code": "Lot F58",
+    "vehicle_chassis_no": "1Z37J5S430725"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/306104/1970-amc-ambassador-sst/?aa_id=208101-0",
+    "lot_code": "Lot F59",
+    "vehicle_chassis_no": "A0A897N259817"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320565/1971-chevrolet-cheyenne-super-pickup/?aa_id=215198-0",
+    "lot_code": "Lot F60",
+    "vehicle_chassis_no": "CE141B615547"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319605/1979-chevrolet-corvette-coupe/?aa_id=214511-0",
+    "lot_code": "Lot F60.1",
+    "vehicle_chassis_no": "1Z8789S450222"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320281/2001-ferrari-360-spider/?aa_id=215014-0",
+    "lot_code": "Lot F61",
+    "vehicle_chassis_no": "ZFFYT53A410122617"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316633/1970-chevrolet-chevelle-ss-convertible/?aa_id=212947-0",
+    "lot_code": "Lot F62",
+    "vehicle_chassis_no": "136670B142383"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/318860/1966-chevrolet-el-camino/?aa_id=213916-0",
+    "lot_code": "Lot F63",
+    "vehicle_chassis_no": "136806K109801"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320566/1968-plymouth-road-runner/?aa_id=215199-0",
+    "lot_code": "Lot F64",
+    "vehicle_chassis_no": "RM23HG276160"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319926/2000-toyota-4-runner-sr5/?aa_id=214810-0",
+    "lot_code": "Lot F64.1",
+    "vehicle_chassis_no": "JT3HN86R2Y0309543"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319122/1968-ford-bronco/?aa_id=214122-0",
+    "lot_code": "Lot F65",
+    "vehicle_chassis_no": "U15NLD00309"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297544/1966-chevrolet-chevelle-convertible/?aa_id=202988-0",
+    "lot_code": "Lot F66",
+    "vehicle_chassis_no": "136676B100448"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320540/1969-mercury-cougar-convertible/?aa_id=215173-0",
+    "lot_code": "Lot F67",
+    "vehicle_chassis_no": "9F94S516157"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298045/2003-bmw-z8-alpina-roadster/?aa_id=203346-0",
+    "lot_code": "Lot F67.1",
+    "vehicle_chassis_no": "WBAEJ13423AH62395"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310107/1958-metropolitan/?aa_id=209227-0",
+    "lot_code": "Lot F68",
+    "vehicle_chassis_no": "E41373"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/318933/1990-chevrolet-ss-454-pickup/?aa_id=213977-0",
+    "lot_code": "Lot F69",
+    "vehicle_chassis_no": "1GCDC14N1LZ240078"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320567/1971-dodge-challenger/?aa_id=215200-0",
+    "lot_code": "Lot F70",
+    "vehicle_chassis_no": "JH23L1B211226"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316667/1969-mercury-cougar-xr-7-convertible/?aa_id=212972-0",
+    "lot_code": "Lot F71",
+    "vehicle_chassis_no": "9F94H510213"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316458/1951-mercury-hot-rod/?aa_id=212825-0",
+    "lot_code": "Lot F73",
+    "vehicle_chassis_no": "51DA37088M"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310100/1972-buick-skylark/?aa_id=209221-0",
+    "lot_code": "Lot F74",
+    "vehicle_chassis_no": "4H37H2Z114723"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316634/1986-chevrolet-k5-blazer/?aa_id=212948-0",
+    "lot_code": "Lot F75",
+    "vehicle_chassis_no": "1G8EK18H2GF172659"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319606/1969-chevrolet-chevelle-300-deluxe-ss/?aa_id=214512-0",
+    "lot_code": "Lot F75.1",
+    "vehicle_chassis_no": "134279A322692"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/306927/1957-chevrolet-pickup/?aa_id=208257-0",
+    "lot_code": "Lot F76",
+    "vehicle_chassis_no": "3B57L121383"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297555/1972-buick-riviera/?aa_id=202989-0",
+    "lot_code": "Lot F77",
+    "vehicle_chassis_no": "4Y87U2H911626"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320359/1977-rolls-royce-silver-wraith-ii/?aa_id=215068-0",
+    "lot_code": "Lot F77.1",
+    "vehicle_chassis_no": "LRF30163"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310108/1966-plymouth-barracuda-fastback/?aa_id=209228-0",
+    "lot_code": "Lot F78",
+    "vehicle_chassis_no": "BP29D62519500"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320568/1969-chevrolet-chevelle-ss/?aa_id=215201-0",
+    "lot_code": "Lot F80",
+    "vehicle_chassis_no": "1363791111947"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297559/1957-chevrolet-apache-pickup/?aa_id=202990-0",
+    "lot_code": "Lot F81",
+    "vehicle_chassis_no": "3A57L124506"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319441/1997-chevrolet-camaro-ss-30th-anniversary/?aa_id=214378-0",
+    "lot_code": "Lot F81.1",
+    "vehicle_chassis_no": "2G1FP22P3V2156351"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316668/1942-chevrolet-fleetmaster-deluxe/?aa_id=212973-0",
+    "lot_code": "Lot F82",
+    "vehicle_chassis_no": "9BH1212341"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316635/1971-chevrolet-chevelle/?aa_id=212949-0",
+    "lot_code": "Lot F83",
+    "vehicle_chassis_no": "1363711501584"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320245/1970-pontiac-gto/?aa_id=214979-0",
+    "lot_code": "Lot F83.1",
+    "vehicle_chassis_no": "242370Z135389"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321448/1955-chevrolet-bel-air-resto-mod/?aa_id=215874-0",
+    "lot_code": "Lot F84.1",
+    "vehicle_chassis_no": "VC55S016871"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/303279/1963-chevrolet-impala-ss/?aa_id=206314-0",
+    "lot_code": "Lot F85",
+    "vehicle_chassis_no": "31847J145976"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/306900/1940-ford-coupe-street-rod/?aa_id=208231-0",
+    "lot_code": "Lot F87",
+    "vehicle_chassis_no": "NCS93469"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319442/1971-oldsmobile-cutlass-supreme/?aa_id=214379-0",
+    "lot_code": "Lot F87.1",
+    "vehicle_chassis_no": "342671M173732"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310109/1966-ford-mustang-convertible/?aa_id=209229-0",
+    "lot_code": "Lot F88",
+    "vehicle_chassis_no": "6R08C162510"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316636/1969-chevrolet-camaro-rs-z28/?aa_id=212950-0",
+    "lot_code": "Lot F89",
+    "vehicle_chassis_no": "124379L516028"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319607/1973-chevrolet-corvette-coupe/?aa_id=214513-0",
+    "lot_code": "Lot F89.1",
+    "vehicle_chassis_no": "1Z37Z3S402174"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320360/1967-international-scout-800/?aa_id=215069-0",
+    "lot_code": "Lot F90",
+    "vehicle_chassis_no": "781928G255274"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320230/1967-oldsmobile-442/?aa_id=214970-0",
+    "lot_code": "Lot F90.1",
+    "vehicle_chassis_no": "338177M392214"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297569/1932-ford-roadster-street-rod/?aa_id=202991-0",
+    "lot_code": "Lot F91",
+    "vehicle_chassis_no": "181305449"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297570/1933-ford-5-window-coupe-street-rod/?aa_id=202992-0",
+    "lot_code": "Lot F92",
+    "vehicle_chassis_no": "40434010"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297571/1934-ford-sedan-street-rod/?aa_id=202993-0",
+    "lot_code": "Lot F93",
+    "vehicle_chassis_no": "518843"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297572/1934-ford-roadster-street-rod/?aa_id=202994-0",
+    "lot_code": "Lot F94",
+    "vehicle_chassis_no": "181107916"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297573/1956-chevrolet-210/?aa_id=202995-0",
+    "lot_code": "Lot F95",
+    "vehicle_chassis_no": "VB56N057097"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297574/2009-ford-shelby-gt500kr/?aa_id=202996-0",
+    "lot_code": "Lot F96",
+    "vehicle_chassis_no": "1ZVHT88S095138679"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321300/1971-toyota-fj-40-land-cruiser/?aa_id=215746-0",
+    "lot_code": "Lot F96.1",
+    "vehicle_chassis_no": "FJ4090578"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297575/1957-chevrolet-150-utility-sedan/?aa_id=202997-0",
+    "lot_code": "Lot F97",
+    "vehicle_chassis_no": "A57K192890"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297576/1960-ford-thunderbird/?aa_id=202998-0",
+    "lot_code": "Lot F98",
+    "vehicle_chassis_no": "0Y71Y179583"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297577/1959-chevrolet-corvette-convertible/?aa_id=202999-0",
+    "lot_code": "Lot F99",
+    "vehicle_chassis_no": "J59S108165"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319713/1969-porsche-911e-targa/?aa_id=214608-0",
+    "lot_code": "Lot F99.1",
+    "vehicle_chassis_no": "119210741"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297578/1956-chevrolet-nomad/?aa_id=203000-0",
+    "lot_code": "Lot F100",
+    "vehicle_chassis_no": "VC56J006475"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320246/1973-detomaso-pantera/?aa_id=214980-0",
+    "lot_code": "Lot F100.1",
+    "vehicle_chassis_no": "THPNNJ05229"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297580/2005-aston-martin-db9/?aa_id=203001-0",
+    "lot_code": "Lot F102",
+    "vehicle_chassis_no": "SCFAD01A85GA01741"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297581/1954-chevrolet-bel-air/?aa_id=203002-0",
+    "lot_code": "Lot F103",
+    "vehicle_chassis_no": "C540028811"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297582/1969-ford-bronco-u14/?aa_id=203003-0",
+    "lot_code": "Lot F104",
+    "vehicle_chassis_no": "U14GLF18466"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319608/1964-chevrolet-corvette-convertible/?aa_id=214514-0",
+    "lot_code": "Lot F104.1",
+    "vehicle_chassis_no": "40867S108289"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297583/1970-ford-mustang-mach-1-fastback/?aa_id=203004-0",
+    "lot_code": "Lot F105",
+    "vehicle_chassis_no": "0F05R152481"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319523/1957-chevrolet-150-sedan/?aa_id=214440-0",
+    "lot_code": "Lot F105.1",
+    "vehicle_chassis_no": "A57J172115"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297584/1972-buick-skylark/?aa_id=203005-0",
+    "lot_code": "Lot F106",
+    "vehicle_chassis_no": "4H37J2Z119591"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297585/2015-ford-mustang-gt-pettys-garage/?aa_id=203006-0",
+    "lot_code": "Lot F107",
+    "vehicle_chassis_no": "1FA6P8CF7F5397745"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297586/1964-chevrolet-impala-ss/?aa_id=203007-0",
+    "lot_code": "Lot F108",
+    "vehicle_chassis_no": "414Y7A163208"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297587/1969-ford-f100-pickup/?aa_id=203008-0",
+    "lot_code": "Lot F109",
+    "vehicle_chassis_no": "F10ADF50925"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319524/1993-ferrari-348ts-serie-speciale/?aa_id=214441-0",
+    "lot_code": "Lot F109.1",
+    "vehicle_chassis_no": "ZFFRG36A6P0095227"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297588/1936-studebaker-roadster-street-rod/?aa_id=203009-0",
+    "lot_code": "Lot F110",
+    "vehicle_chassis_no": "193992"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297589/1955-mercury-montclair-convertible/?aa_id=203010-0",
+    "lot_code": "Lot F111",
+    "vehicle_chassis_no": "55SL18958M"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297590/1957-cadillac-eldorado-biarritz-convertible/?aa_id=203011-0",
+    "lot_code": "Lot F112",
+    "vehicle_chassis_no": "5762023260"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319288/1975-ford-bronco/?aa_id=214248-0",
+    "lot_code": "Lot F113",
+    "vehicle_chassis_no": "AZ303290"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319525/2007-ford-mustang-shelby-gt/?aa_id=214442-0",
+    "lot_code": "Lot F113.1",
+    "vehicle_chassis_no": "1ZVHT82H575341996"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297593/1999-plymouth-prowler/?aa_id=203013-0",
+    "lot_code": "Lot F115",
+    "vehicle_chassis_no": "1P3EW65G4XV502472"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297594/1966-chevrolet-corvette-convertible/?aa_id=203014-0",
+    "lot_code": "Lot F116",
+    "vehicle_chassis_no": "194676S107079"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319526/1962-chevrolet-corvette-convertible/?aa_id=214443-0",
+    "lot_code": "Lot F116.1",
+    "vehicle_chassis_no": "20867S105249"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297595/1967-chevrolet-corvette-coupe/?aa_id=203015-0",
+    "lot_code": "Lot F117",
+    "vehicle_chassis_no": "194377S114597"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297596/1954-plymouth-belvedere-convertible/?aa_id=203016-0",
+    "lot_code": "Lot F118",
+    "vehicle_chassis_no": "13238415"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319609/1972-chevrolet-chevelle-ss/?aa_id=214515-0",
+    "lot_code": "Lot F118.1",
+    "vehicle_chassis_no": "1D37J2K608061"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297597/1918-ford-model-t/?aa_id=203017-0",
+    "lot_code": "Lot F119",
+    "vehicle_chassis_no": "13647212"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297598/1956-ford-f100-pickup/?aa_id=203018-0",
+    "lot_code": "Lot F120",
+    "vehicle_chassis_no": "F10V6R34219"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319527/2005-dodge-viper-srt-10-copperhead-edition/?aa_id=214444-0",
+    "lot_code": "Lot F120.1",
+    "vehicle_chassis_no": "1B3JZ65Z05V501986"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320121/1954-cadillac-series-60-fleetwood-limousine/?aa_id=214882-0",
+    "lot_code": "Lot F121.1",
+    "vehicle_chassis_no": "546048876"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297600/1956-chevrolet-3200-pickup/?aa_id=203019-0",
+    "lot_code": "Lot F122",
+    "vehicle_chassis_no": "DMV52658NV"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297601/1958-bmw-isetta-300-deluxe-cabriolet/?aa_id=203020-0",
+    "lot_code": "Lot F123",
+    "vehicle_chassis_no": "500656"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319528/1925-dodge-brothers-roadster/?aa_id=214445-0",
+    "lot_code": "Lot F123.1",
+    "vehicle_chassis_no": "339995"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297602/1959-alfa-romeo-spider/?aa_id=203021-0",
+    "lot_code": "Lot F124",
+    "vehicle_chassis_no": "AR149506727"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320569/1971-chevrolet-cheyenne-super-pickup/?aa_id=215202-0",
+    "lot_code": "Lot F125",
+    "vehicle_chassis_no": "CS1411601853"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320115/1978-pontiac-trans-am-se/?aa_id=214879-0",
+    "lot_code": "Lot F125.1",
+    "vehicle_chassis_no": "2W87Z8N138273"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297604/1970-chevrolet-malibu/?aa_id=203022-0",
+    "lot_code": "Lot F126",
+    "vehicle_chassis_no": "1363701545839"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297605/1967-chevrolet-pickup/?aa_id=203023-0",
+    "lot_code": "Lot F127",
+    "vehicle_chassis_no": "CS147Z130809"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321457/1986-ferrari-328/?aa_id=215881-0",
+    "lot_code": "Lot F127.1",
+    "vehicle_chassis_no": "ZFFXA20A3G0062133"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297606/1951-ford-victoria/?aa_id=203024-0",
+    "lot_code": "Lot F128",
+    "vehicle_chassis_no": "B1BF140036"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297608/1970-ford-mustang-mach-1-fastback/?aa_id=203025-0",
+    "lot_code": "Lot F130",
+    "vehicle_chassis_no": "0R05H135469"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297609/1970-chevrolet-corvette-lt1/?aa_id=203026-0",
+    "lot_code": "Lot F131",
+    "vehicle_chassis_no": "194370S405454"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320570/1972-chevrolet-camaro-rs-ss/?aa_id=215203-0",
+    "lot_code": "Lot F131.1",
+    "vehicle_chassis_no": "1Q87H2N128755"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297610/1962-chevrolet-corvette-convertible/?aa_id=203027-0",
+    "lot_code": "Lot F132",
+    "vehicle_chassis_no": "20867S101337"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297611/1933-ford-3-window-coupe-pro-street/?aa_id=203028-0",
+    "lot_code": "Lot F133",
+    "vehicle_chassis_no": "182099889"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319610/1972-chevrolet-suburban/?aa_id=214516-0",
+    "lot_code": "Lot F133.1",
+    "vehicle_chassis_no": "CKE162F106776"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297612/2011-chevrolet-camaro-gt4-race-car/?aa_id=203029-0",
+    "lot_code": "Lot F134",
+    "vehicle_chassis_no": "2G1FS1EW6B9153555"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297613/1970-ford-mustang-mach-1-resto-mod/?aa_id=203030-0",
+    "lot_code": "Lot F135",
+    "vehicle_chassis_no": "0F05H100767"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319530/2012-chevrolet-camaro-callaway/?aa_id=214447-0",
+    "lot_code": "Lot F135.1",
+    "vehicle_chassis_no": "2G1FT1EW8C9175488"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320302/2005-chevrolet-ssr/?aa_id=215028-0",
+    "lot_code": "Lot F136",
+    "vehicle_chassis_no": "1GCES14H65B118121"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320247/1968-oldsmobile-442-w-30/?aa_id=214981-0",
+    "lot_code": "Lot F136.1",
+    "vehicle_chassis_no": "344778M332652"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297615/1962-chevrolet-corvette-convertible/?aa_id=203031-0",
+    "lot_code": "Lot F137",
+    "vehicle_chassis_no": "20867S111667"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297616/1970-ford-mustang-mach-1-fastback/?aa_id=203032-0",
+    "lot_code": "Lot F138",
+    "vehicle_chassis_no": "0T05H118672"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297617/1949-oldsmobile/?aa_id=203033-0",
+    "lot_code": "Lot F139",
+    "vehicle_chassis_no": "8A83580498A2985"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297618/1965-ford-galaxie/?aa_id=203034-0",
+    "lot_code": "Lot F140",
+    "vehicle_chassis_no": "5J68Z159007"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320361/1959-chevrolet-corvette-convertible/?aa_id=215070-0",
+    "lot_code": "Lot F140.1",
+    "vehicle_chassis_no": "J59S106511"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316637/1969-ford-mustang-boss-429-fastback/?aa_id=212951-0",
+    "lot_code": "Lot F141",
+    "vehicle_chassis_no": "9F02Z188409"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297620/1967-ford-mustang-fastback/?aa_id=203035-0",
+    "lot_code": "Lot F142",
+    "vehicle_chassis_no": "7F02C225765"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320362/1977-chevrolet-c10-pickup/?aa_id=215071-0",
+    "lot_code": "Lot F142.1",
+    "vehicle_chassis_no": "CCU147Z109104"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297621/1966-ford-mustang-gt-fastback/?aa_id=203036-0",
+    "lot_code": "Lot F143",
+    "vehicle_chassis_no": "6R09K176898"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319927/1963-chevrolet-corvette-convertible/?aa_id=214811-0",
+    "lot_code": "Lot F144",
+    "vehicle_chassis_no": "30867S119134"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297623/1999-bentley-arnage/?aa_id=203037-0",
+    "lot_code": "Lot F145",
+    "vehicle_chassis_no": "SCBLB51E8XCX02030"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319611/1955-chevrolet-bel-air/?aa_id=214517-0",
+    "lot_code": "Lot F145.1",
+    "vehicle_chassis_no": "VC55J002290"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297624/2002-pontiac-trans-am-collector-edition/?aa_id=203038-0",
+    "lot_code": "Lot F146",
+    "vehicle_chassis_no": "2G2FV32G122130480"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297625/1970-chevrolet-chevelle/?aa_id=203039-0",
+    "lot_code": "Lot F147",
+    "vehicle_chassis_no": "135370A179852"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320282/1965-chevrolet-corvette-coupe/?aa_id=215015-0",
+    "lot_code": "Lot F147.1",
+    "vehicle_chassis_no": "194375S123373"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297626/1976-cadillac-eldorado-bicentennial-edition/?aa_id=203040-0",
+    "lot_code": "Lot F148",
+    "vehicle_chassis_no": "6L67S6Q262357"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297627/1965-chevrolet-impala-ss/?aa_id=203041-0",
+    "lot_code": "Lot F149",
+    "vehicle_chassis_no": "516637089678"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297628/1956-ford-f100-pickup/?aa_id=203042-0",
+    "lot_code": "Lot F150",
+    "vehicle_chassis_no": "UTR06252"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320123/1936-ford-roadster/?aa_id=214883-0",
+    "lot_code": "Lot F150.1",
+    "vehicle_chassis_no": "183276579"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320190/1926-ford-model-t-street-rod/?aa_id=214938-0",
+    "lot_code": "Lot F151",
+    "vehicle_chassis_no": "14066700"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297630/1938-ford-zipper-roadster/?aa_id=203043-0",
+    "lot_code": "Lot F152",
+    "vehicle_chassis_no": "18349844"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297631/1957-chevrolet-bel-air/?aa_id=203044-0",
+    "lot_code": "Lot F153",
+    "vehicle_chassis_no": "VC57L186468"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321275/1957-chevrolet-bel-air/?aa_id=215724-0",
+    "lot_code": "Lot F153.1",
+    "vehicle_chassis_no": "VC57A207900"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297632/1972-chevrolet-camaro-resto-mod/?aa_id=203045-0",
+    "lot_code": "Lot F154",
+    "vehicle_chassis_no": "1Q87H2N109604"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297633/1963-ford-galaxie-convertible/?aa_id=203046-0",
+    "lot_code": "Lot F155",
+    "vehicle_chassis_no": "3G69X139975"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320357/1966-ford-mustang-convertible/?aa_id=215067-0",
+    "lot_code": "Lot F156",
+    "vehicle_chassis_no": "6F08C391454"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297635/1961-buick-lesabre-convertible/?aa_id=203047-0",
+    "lot_code": "Lot F157",
+    "vehicle_chassis_no": "4H1064766"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320238/1966-chevrolet-corvette-coupe/?aa_id=214973-0",
+    "lot_code": "Lot F157.1",
+    "vehicle_chassis_no": "194376S113803"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297636/1972-chevrolet-nova-resto-mod/?aa_id=203048-0",
+    "lot_code": "Lot F158",
+    "vehicle_chassis_no": "1X27F2W241951"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297637/1970-ford-torino-cobra/?aa_id=203049-0",
+    "lot_code": "Lot F159",
+    "vehicle_chassis_no": "0R38J150231"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297638/1967-chevrolet-corvette-convertible/?aa_id=203050-0",
+    "lot_code": "Lot F160",
+    "vehicle_chassis_no": "194677S107134"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320363/1955-ford-thunderbird/?aa_id=215072-0",
+    "lot_code": "Lot F160.1",
+    "vehicle_chassis_no": "P5FH232234"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297639/1951-dodge-power-wagon-fire-truck/?aa_id=203051-0",
+    "lot_code": "Lot F161",
+    "vehicle_chassis_no": "88766719"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320351/2001-bmw-z8-convertible/?aa_id=215065-0",
+    "lot_code": "Lot F162",
+    "vehicle_chassis_no": "WBAEJ13461AH60405"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320303/2007-bentley-continental-gtc/?aa_id=215029-0",
+    "lot_code": "Lot F163",
+    "vehicle_chassis_no": "SCBDR33W77C049717"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319338/1967-oldsmobile-442-convertible/?aa_id=214295-0",
+    "lot_code": "Lot F164",
+    "vehicle_chassis_no": "338677M218317"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319612/1965-chevrolet-bel-air/?aa_id=214518-0",
+    "lot_code": "Lot F164.1",
+    "vehicle_chassis_no": "155115F274506"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297643/1970-ford-mustang-fastback/?aa_id=203052-0",
+    "lot_code": "Lot F165",
+    "vehicle_chassis_no": "0F02F165586"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319533/2008-ford-shelby-gt500-super-snake/?aa_id=214448-0",
+    "lot_code": "Lot F165.1",
+    "vehicle_chassis_no": "1ZVHT88S485103657"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297644/1933-ford-roadster/?aa_id=203053-0",
+    "lot_code": "Lot F166",
+    "vehicle_chassis_no": "B5211498"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320248/1962-chevrolet-impala/?aa_id=214982-0",
+    "lot_code": "Lot F166.1",
+    "vehicle_chassis_no": "21847J302528"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297645/1967-chevrolet-camaro-resto-mod/?aa_id=203054-0",
+    "lot_code": "Lot F167",
+    "vehicle_chassis_no": "124377N147058"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297646/1956-chevrolet-corvette-convertible/?aa_id=203055-0",
+    "lot_code": "Lot F168",
+    "vehicle_chassis_no": "E56S003788"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321301/1957-mercury-monterey-convertible/?aa_id=215747-0",
+    "lot_code": "Lot F168.1",
+    "vehicle_chassis_no": "57ME57916M"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297647/2006-ford-mustang-saleen/?aa_id=203056-0",
+    "lot_code": "Lot F169",
+    "vehicle_chassis_no": "1ZVFT82H065156180"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297648/1984-toyota-fj-45-land-cruiser-pickup/?aa_id=203057-0",
+    "lot_code": "Lot F170",
+    "vehicle_chassis_no": "FJ45942104"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/LN17-320571/2009-chevrolet-corvette-zr1/?aa_id=215204-0",
+    "lot_code": "Lot F170.1",
+    "vehicle_chassis_no": "1G1YR26R295801225"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297650/1964-ford-thunderbird-landau/?aa_id=203058-0",
+    "lot_code": "Lot F172",
+    "vehicle_chassis_no": "4Y83Z161508"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297651/1929-ford-model-a-pickup-street-rod/?aa_id=203059-0",
+    "lot_code": "Lot F173",
+    "vehicle_chassis_no": "0R93078"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297653/1965-backdraft-shelby-cobra-replica/?aa_id=203060-0",
+    "lot_code": "Lot F175",
+    "vehicle_chassis_no": "AE9BMAAH5H1MT1009"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320364/1955-ford-crown-victoria/?aa_id=215073-0",
+    "lot_code": "Lot F175.1",
+    "vehicle_chassis_no": "M5RW168713"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297654/1955-chevrolet-bel-air/?aa_id=203061-0",
+    "lot_code": "Lot F176",
+    "vehicle_chassis_no": "VC55S007139"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297655/1976-pontiac-trans-am/?aa_id=203062-0",
+    "lot_code": "Lot F177",
+    "vehicle_chassis_no": "2W87Z6N604564"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319928/2014-chevrolet-camaro-z28/?aa_id=214812-0",
+    "lot_code": "Lot F177.1",
+    "vehicle_chassis_no": "2G1FS1EE8E9700224"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321458/2007-porsche-911-gt3-rs/?aa_id=215882-0",
+    "lot_code": "Lot F178.1",
+    "vehicle_chassis_no": "WP0AC29927S792823"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297657/2003-bentley-azure-final-edition-convertible/?aa_id=203063-0",
+    "lot_code": "Lot F179",
+    "vehicle_chassis_no": "SCBZK25E33CX01171"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297658/1950-chevrolet-street-rod/?aa_id=203064-0",
+    "lot_code": "Lot F180",
+    "vehicle_chassis_no": "21HKJ85236"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319613/1978-chevrolet-corvette-silver-anniversary/?aa_id=214519-0",
+    "lot_code": "Lot F180.1",
+    "vehicle_chassis_no": "1Z87L8S435404"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297659/2003-chevrolet-corvette-50th-anniversary/?aa_id=203065-0",
+    "lot_code": "Lot F181",
+    "vehicle_chassis_no": "1G1YY32G935123464"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297660/1934-ford-phaeton/?aa_id=203066-0",
+    "lot_code": "Lot F182",
+    "vehicle_chassis_no": "18561219"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321302/1970-pontiac-gto/?aa_id=215748-0",
+    "lot_code": "Lot F182.1",
+    "vehicle_chassis_no": "242370B130179"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297661/1965-ford-mustang-fastback/?aa_id=203067-0",
+    "lot_code": "Lot F183",
+    "vehicle_chassis_no": "5F09C791186"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297662/1967-chevrolet-camaro-resto-mod/?aa_id=203068-0",
+    "lot_code": "Lot F184",
+    "vehicle_chassis_no": "124677N134943"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297663/2008-bmw-m6-convertible/?aa_id=203069-0",
+    "lot_code": "Lot F185",
+    "vehicle_chassis_no": "WBSEK93578CY79625"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321546/2012-ford-mustang/?aa_id=215956-0",
+    "lot_code": "Lot F185.1",
+    "vehicle_chassis_no": "1ZVBP8CF8C5218629"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297664/2006-pontiac-gto/?aa_id=203070-0",
+    "lot_code": "Lot F186",
+    "vehicle_chassis_no": "6G2VX12U56L820029"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320572/1969-dodge-charger-r-t/?aa_id=215205-0",
+    "lot_code": "Lot F186.1",
+    "vehicle_chassis_no": "XS29L9B228695"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297665/2015-ford-expedition/?aa_id=203071-0",
+    "lot_code": "Lot F187",
+    "vehicle_chassis_no": "1FMJU1LT5FEF00098"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297666/1955-chevrolet-bel-air-gasser/?aa_id=203072-0",
+    "lot_code": "Lot F188",
+    "vehicle_chassis_no": "VC550034703"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321276/1964-dodge-polara-500-convertible/?aa_id=215725-0",
+    "lot_code": "Lot F188.1",
+    "vehicle_chassis_no": "6442251141"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297667/1907-ford-model-t-roadster/?aa_id=203073-0",
+    "lot_code": "Lot F189",
+    "vehicle_chassis_no": "1587"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320153/2007-chevrolet-corvette-convertible/?aa_id=214904-0",
+    "lot_code": "Lot F190",
+    "vehicle_chassis_no": "1G1YY36U775114302"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297669/2006-bmw-650-convertible/?aa_id=203074-0",
+    "lot_code": "Lot F191",
+    "vehicle_chassis_no": "WBAEK13466CN77429"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320365/1939-mercury-club-coupe/?aa_id=215074-0",
+    "lot_code": "Lot F191.1",
+    "vehicle_chassis_no": "99A93297"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297670/2006-chevrolet-ssr/?aa_id=203075-0",
+    "lot_code": "Lot F192",
+    "vehicle_chassis_no": "1GCES14H36B123634"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297671/1973-datsun-240z/?aa_id=203076-0",
+    "lot_code": "Lot F193",
+    "vehicle_chassis_no": "HLS30138683"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297672/2006-chevrolet-1500-silverado-crew-cab/?aa_id=203077-0",
+    "lot_code": "Lot F194",
+    "vehicle_chassis_no": "2GCEC13T561104456"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320515/1966-mercedes-benz-230sl-roadster/?aa_id=215159-0",
+    "lot_code": "Lot F196",
+    "vehicle_chassis_no": "11304212008815"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297675/1965-chevrolet-impala-convertible/?aa_id=203078-0",
+    "lot_code": "Lot F197",
+    "vehicle_chassis_no": "164675Y139427"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297676/1973-excalibur-ss-series-ii-roadster/?aa_id=203079-0",
+    "lot_code": "Lot F198",
+    "vehicle_chassis_no": "19731214"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319582/1965-shelby-cobra-replica/?aa_id=214489-0",
+    "lot_code": "Lot F199.1",
+    "vehicle_chassis_no": "CA951468"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297678/special-construction-mercedes-benz-300sl-replica/?aa_id=203080-0",
+    "lot_code": "Lot F200",
+    "vehicle_chassis_no": "CA959262"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297679/1962-austin-gypsy-wagon/?aa_id=203081-0",
+    "lot_code": "Lot F201",
+    "vehicle_chassis_no": "4326"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320304/1959-cadillac-fleetwood/?aa_id=215030-0",
+    "lot_code": "Lot F201.1",
+    "vehicle_chassis_no": "59M125907"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297680/1941-cadillac-series-60-fleetwood-sedan/?aa_id=203082-0",
+    "lot_code": "Lot F202",
+    "vehicle_chassis_no": "6341988"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319614/1962-cadillac-eldorado-biarritz-convertible/?aa_id=214520-0",
+    "lot_code": "Lot F202.1",
+    "vehicle_chassis_no": "62E064257"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297681/1975-cadillac-coupe-deville/?aa_id=203083-0",
+    "lot_code": "Lot F203",
+    "vehicle_chassis_no": "6D47S5Q246979"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297682/1975-cadillac-deville/?aa_id=203084-0",
+    "lot_code": "Lot F204",
+    "vehicle_chassis_no": "6D49S5E524758"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297683/1976-cadillac-eldorado-biarritz-bicentennial-edition/?aa_id=203085-0",
+    "lot_code": "Lot F205",
+    "vehicle_chassis_no": "6L67S6Q264747"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297684/1976-cadillac-fleetwood-brougham-delegance/?aa_id=203086-0",
+    "lot_code": "Lot F206",
+    "vehicle_chassis_no": "6B69S6Q282445"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321449/1961-chevrolet-impala-convertible/?aa_id=215875-0",
+    "lot_code": "Lot F206.1",
+    "vehicle_chassis_no": "11867A187413"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297685/1980-cadillac-coupe-deville/?aa_id=203087-0",
+    "lot_code": "Lot F207",
+    "vehicle_chassis_no": "6D476A9102279"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297686/1984-cadillac-eldorado-touring-coupe/?aa_id=203088-0",
+    "lot_code": "Lot F208",
+    "vehicle_chassis_no": "1G6AL5786EE651876"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297687/1985-cadillac-seville/?aa_id=203089-0",
+    "lot_code": "Lot F209",
+    "vehicle_chassis_no": "1G6KS6984FE823138"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319615/1985-cadillac-seville/?aa_id=214521-0",
+    "lot_code": "Lot F209.1",
+    "vehicle_chassis_no": "1G6KS6986FE828695"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297688/1978-rolls-royce-silver-shadow-ii/?aa_id=203090-0",
+    "lot_code": "Lot F210",
+    "vehicle_chassis_no": "SRG33955"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297689/1972-chevrolet-corvette-lt1/?aa_id=203091-0",
+    "lot_code": "Lot F211",
+    "vehicle_chassis_no": null
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320451/1963-pontiac-grand-prix/?aa_id=215127-0",
+    "lot_code": "Lot F211.1",
+    "vehicle_chassis_no": "963S55056"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297690/1957-chevrolet-150/?aa_id=203092-0",
+    "lot_code": "Lot F212",
+    "vehicle_chassis_no": "A57B128286"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321468/1969-chevrolet-camaro-convertible/?aa_id=215889-0",
+    "lot_code": "Lot F212.1",
+    "vehicle_chassis_no": "124679N668954"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320125/1967-chevrolet-chevelle/?aa_id=214884-0",
+    "lot_code": "Lot F213",
+    "vehicle_chassis_no": "135177K174589"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297692/1956-chevrolet-bel-air/?aa_id=203094-0",
+    "lot_code": "Lot F214",
+    "vehicle_chassis_no": "VC560052919"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297693/2005-chevrolet-ssr-callaway/?aa_id=203095-0",
+    "lot_code": "Lot F215",
+    "vehicle_chassis_no": "1GCES14H45B117632"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297694/2017-chevrolet-camaro-ss-hurst-heritage/?aa_id=203096-0",
+    "lot_code": "Lot F216",
+    "vehicle_chassis_no": "1G1FH1R79H0117024"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320523/1965-chevrolet-malibu/?aa_id=215163-0",
+    "lot_code": "Lot F217",
+    "vehicle_chassis_no": "135375K168078"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320573/2005-mercedes-benz-sl55-amg-convertible/?aa_id=215206-0",
+    "lot_code": "Lot F217.1",
+    "vehicle_chassis_no": "WDBSK74F95F086647"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297696/2004-chevrolet-corvette-coupe/?aa_id=203097-0",
+    "lot_code": "Lot F218",
+    "vehicle_chassis_no": "1G1YY22G345117249"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297697/2017-chevrolet-camaro-ss-hurst-edition/?aa_id=203098-0",
+    "lot_code": "Lot F219",
+    "vehicle_chassis_no": "1G1FH1R72H0195161"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297698/1948-chevrolet-3100-pickup/?aa_id=203099-0",
+    "lot_code": "Lot F220",
+    "vehicle_chassis_no": "5FPK13568"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321350/1963-chevrolet-impala-ss/?aa_id=215784-0",
+    "lot_code": "Lot F221.1",
+    "vehicle_chassis_no": "31847L162232"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297700/2015-dodge-challenger-srt-hellcat/?aa_id=203100-0",
+    "lot_code": "Lot F222",
+    "vehicle_chassis_no": "2C3CDZC99FH834230"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297701/1976-pontiac-trans-am/?aa_id=203101-0",
+    "lot_code": "Lot F223",
+    "vehicle_chassis_no": "2W87Z6N515531"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320524/1970-chevrolet-chevelle-ss/?aa_id=215164-0",
+    "lot_code": "Lot F224",
+    "vehicle_chassis_no": "136370B161498"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297703/2010-aston-martin-vantage/?aa_id=203102-0",
+    "lot_code": "Lot F225",
+    "vehicle_chassis_no": "SCFEFBAC6AGC13668"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320537/2018-chevrolet-camaro-ss-hurst-heritage/?aa_id=215171-0",
+    "lot_code": "Lot F226",
+    "vehicle_chassis_no": "1G1FH3D79J0115511"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297705/1967-oldsmobile-toronado/?aa_id=203103-0",
+    "lot_code": "Lot F227",
+    "vehicle_chassis_no": "396877M621484"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297707/1949-chevrolet-3100-5-window-pickup/?aa_id=203105-0",
+    "lot_code": "Lot F229",
+    "vehicle_chassis_no": "9131415401"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297708/2013-tesla-p85-plus/?aa_id=203106-0",
+    "lot_code": "Lot F230",
+    "vehicle_chassis_no": "5YJSA1DP0DFP17041"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297709/1966-chevrolet-chevelle-ss/?aa_id=203107-0",
+    "lot_code": "Lot F231",
+    "vehicle_chassis_no": "136176Z107779"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297711/1967-chevrolet-camaro-rs-ss/?aa_id=203108-0",
+    "lot_code": "Lot F233",
+    "vehicle_chassis_no": "124377L107220"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297712/1969-ford-bronco/?aa_id=203109-0",
+    "lot_code": "Lot F234",
+    "vehicle_chassis_no": "U15GLD86256"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297713/2009-maserati-granturismo/?aa_id=203110-0",
+    "lot_code": "Lot F235",
+    "vehicle_chassis_no": "ZAMGJ45A490042863"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297714/2012-ford-fusion-nascar/?aa_id=203111-0",
+    "lot_code": "Lot F236",
+    "vehicle_chassis_no": null
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297715/1950-chevrolet-1-2-ton-pickup/?aa_id=203112-0",
+    "lot_code": "Lot F237",
+    "vehicle_chassis_no": "5HPL1548"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297716/2011-gmc-sierra/?aa_id=203113-0",
+    "lot_code": "Lot F238",
+    "vehicle_chassis_no": "1GTN1VE06BZ392019"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297717/1960-chevrolet-impala-convertible/?aa_id=203114-0",
+    "lot_code": "Lot F239",
+    "vehicle_chassis_no": "01867S289080"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297718/1957-chevrolet-bel-air/?aa_id=203115-0",
+    "lot_code": "Lot F240",
+    "vehicle_chassis_no": "VC570169867"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297719/2011-porsche-panamera/?aa_id=203116-0",
+    "lot_code": "Lot F241",
+    "vehicle_chassis_no": "WP0AA2A71BL010823"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320316/1964-lincoln-continental-convertible/?aa_id=215035-0",
+    "lot_code": "Lot F242",
+    "vehicle_chassis_no": "4Y86N433152"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297721/1970-chevrolet-camaro/?aa_id=203117-0",
+    "lot_code": "Lot F243",
+    "vehicle_chassis_no": "124870L527031"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297722/1969-chevrolet-camaro/?aa_id=203118-0",
+    "lot_code": "Lot F244",
+    "vehicle_chassis_no": "123379N617107"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297723/2005-mercedes-benz-sl65/?aa_id=203119-0",
+    "lot_code": "Lot F245",
+    "vehicle_chassis_no": "WDBSK79F15F096145"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297724/1969-chevrolet-camaro/?aa_id=203120-0",
+    "lot_code": "Lot F246",
+    "vehicle_chassis_no": "124379L527678"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297725/1977-jeep-cj-5/?aa_id=203121-0",
+    "lot_code": "Lot F247",
+    "vehicle_chassis_no": "J7F83AH004394"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297726/1972-ford-ranchero-gt/?aa_id=203122-0",
+    "lot_code": "Lot F248",
+    "vehicle_chassis_no": "2A48H100990"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297727/1956-oldsmobile-88/?aa_id=203123-0",
+    "lot_code": "Lot F249",
+    "vehicle_chassis_no": "567C18899"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297728/1968-chevrolet-camaro/?aa_id=203124-0",
+    "lot_code": "Lot F250",
+    "vehicle_chassis_no": "124378L330471"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320342/2009-dodge-challenger/?aa_id=215056-0",
+    "lot_code": "Lot F251",
+    "vehicle_chassis_no": "2B3LJ54T19H510251"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297730/1940-oldsmobile-series-60-street-rod/?aa_id=203125-0",
+    "lot_code": "Lot F252",
+    "vehicle_chassis_no": "F710868"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297731/1971-chevrolet-corvette-convertible/?aa_id=203126-0",
+    "lot_code": "Lot F253",
+    "vehicle_chassis_no": "194671S101506"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297732/1949-hudson-commodore/?aa_id=203127-0",
+    "lot_code": "Lot F254",
+    "vehicle_chassis_no": "492152459"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321303/1972-oldsmobile-cutlass-convertible/?aa_id=215749-0",
+    "lot_code": "Lot F254.1",
+    "vehicle_chassis_no": "3J67K2M232321"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297733/2017-jeep-wrangler/?aa_id=203128-0",
+    "lot_code": "Lot F255",
+    "vehicle_chassis_no": "1C4BJWDG2HL561052"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297734/1923-buick-45-touring/?aa_id=203129-0",
+    "lot_code": "Lot F256",
+    "vehicle_chassis_no": "938506"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297735/1960-ford-thunderbird-convertible/?aa_id=203130-0",
+    "lot_code": "Lot F257",
+    "vehicle_chassis_no": "0Y73Y119633"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297736/1977-ford-f250-crew-cab-pickup/?aa_id=203131-0",
+    "lot_code": "Lot F258",
+    "vehicle_chassis_no": "F26SCY72440"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297737/1970-cadillac-deville/?aa_id=203132-0",
+    "lot_code": "Lot F259",
+    "vehicle_chassis_no": "B0289158"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321304/1968-volkswagen-campmobile/?aa_id=215750-0",
+    "lot_code": "Lot F259.1",
+    "vehicle_chassis_no": "238165290"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297739/1990-chevrolet-k5-blazer/?aa_id=203133-0",
+    "lot_code": "Lot F261",
+    "vehicle_chassis_no": "1GNEV18K9LF105597"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297740/2008-mercedes-benz-clk350-convertible/?aa_id=203134-0",
+    "lot_code": "Lot F262",
+    "vehicle_chassis_no": "WDBTK56FX8T096373"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297741/1991-toyota-supra/?aa_id=203135-0",
+    "lot_code": "Lot F263",
+    "vehicle_chassis_no": "JZA700012948"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297742/1969-oldsmobile-hurst-olds/?aa_id=203136-0",
+    "lot_code": "Lot F264",
+    "vehicle_chassis_no": "344879M368233"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320525/2007-lamborghini-gallardo-spyder/?aa_id=215165-0",
+    "lot_code": "Lot F265",
+    "vehicle_chassis_no": "ZHWGU22T97LA04928"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297744/1970-chevrolet-monte-carlo-ss/?aa_id=203137-0",
+    "lot_code": "Lot F266",
+    "vehicle_chassis_no": null
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297745/1963-chevrolet-corvette-split-window-coupe/?aa_id=203138-0",
+    "lot_code": "Lot F267",
+    "vehicle_chassis_no": "30837S11371B"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297746/1973-oldsmobile-hurst-olds/?aa_id=203139-0",
+    "lot_code": "Lot F268",
+    "vehicle_chassis_no": "3G37U3M405669"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297747/1963-ford-thunderbird/?aa_id=203140-0",
+    "lot_code": "Lot F269",
+    "vehicle_chassis_no": "3Y89Z100065"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297749/2002-audi-tt-convertible/?aa_id=203141-0",
+    "lot_code": "Lot F271",
+    "vehicle_chassis_no": "TRUTC28N821003134"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297750/2006-land-rover-range-rover-hse-sport/?aa_id=203142-0",
+    "lot_code": "Lot F272",
+    "vehicle_chassis_no": "SALSF25446A938562"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297752/1952-chevrolet-deluxe/?aa_id=203143-0",
+    "lot_code": "Lot F274",
+    "vehicle_chassis_no": "20KKJ26481"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297753/1987-buick-grand-national/?aa_id=203144-0",
+    "lot_code": "Lot F275",
+    "vehicle_chassis_no": "1G4GJ1177HP415330"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297754/1970-plymouth-barracuda/?aa_id=203145-0",
+    "lot_code": "Lot F276",
+    "vehicle_chassis_no": "BS23H0E129349"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297755/1991-gmc-syclone-pickup/?aa_id=203146-0",
+    "lot_code": "Lot F277",
+    "vehicle_chassis_no": "1GDCT14Z0M8802814"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297756/2002-chevrolet-camaro-z28-convertible/?aa_id=203147-0",
+    "lot_code": "Lot F278",
+    "vehicle_chassis_no": "2G1FP32G522122090"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297757/1955-ford-thunderbird/?aa_id=203148-0",
+    "lot_code": "Lot F279",
+    "vehicle_chassis_no": "P5FH163103"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297758/2011-chevrolet-camaro-convertible/?aa_id=203149-0",
+    "lot_code": "Lot F280",
+    "vehicle_chassis_no": "2G1FT3DW2B9185168"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297759/1955-ford-f100-pickup/?aa_id=203150-0",
+    "lot_code": "Lot F281",
+    "vehicle_chassis_no": "F10V5H65967"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297760/1957-chevrolet-bel-air/?aa_id=203151-0",
+    "lot_code": "Lot F282",
+    "vehicle_chassis_no": "C57T151997"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297761/2001-ford-f150-svt-lightning-pickup/?aa_id=203152-0",
+    "lot_code": "Lot F283",
+    "vehicle_chassis_no": "2FTZF07301CA59727"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321554/2006-mercedes-benz-clk/?aa_id=215961-0",
+    "lot_code": "Lot F283.1",
+    "vehicle_chassis_no": "WDBTJ75H56F180470"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297763/2003-mercedes-benz-sl500-sport/?aa_id=203153-0",
+    "lot_code": "Lot F285",
+    "vehicle_chassis_no": "WDBSK75F13F015275"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/LN17-297764/1970-chevrolet-chevelle-ls6/?aa_id=203154-0",
+    "lot_code": "Lot F286",
+    "vehicle_chassis_no": "136370A124736"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297765/1940-ford-street-rod/?aa_id=203155-0",
+    "lot_code": "Lot F287",
+    "vehicle_chassis_no": "185252063"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297766/1969-dodge-charger/?aa_id=203156-0",
+    "lot_code": "Lot F288",
+    "vehicle_chassis_no": "XP29G9B340825"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321348/1966-chevrolet-pickup/?aa_id=215783-0",
+    "lot_code": "Lot F289.1",
+    "vehicle_chassis_no": "C1446S228272"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297768/1969-chevrolet-chevelle-pro-touring/?aa_id=203157-0",
+    "lot_code": "Lot F290",
+    "vehicle_chassis_no": "134379K398213"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297770/1965-chevrolet-corvette-convertible/?aa_id=203158-0",
+    "lot_code": "Lot F292",
+    "vehicle_chassis_no": "194675S108455"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297771/1968-dodge-coronet-r-t-convertible/?aa_id=203159-0",
+    "lot_code": "Lot F293",
+    "vehicle_chassis_no": "WS27L8G107851"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297772/1967-volkswagen-beetle/?aa_id=203160-0",
+    "lot_code": "Lot F294",
+    "vehicle_chassis_no": "117358516"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297773/2015-ford-mustang-gt-pettys-garage/?aa_id=203161-0",
+    "lot_code": "Lot F295",
+    "vehicle_chassis_no": "1FA6P8CF8F5397737"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297774/2012-porsche-panamera/?aa_id=203162-0",
+    "lot_code": "Lot F296",
+    "vehicle_chassis_no": "WP0AC2A70CL090238"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297775/1966-lincoln-continental/?aa_id=203163-0",
+    "lot_code": "Lot F297",
+    "vehicle_chassis_no": "6Y86GH437735"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297776/2004-maserati-cambiocorsa-spyder/?aa_id=203164-0",
+    "lot_code": "Lot F298",
+    "vehicle_chassis_no": "ZAMBB18A440011445"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297777/1970-jeep-cj-5/?aa_id=203165-0",
+    "lot_code": "Lot F299",
+    "vehicle_chassis_no": "8305017362540"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/LN17-297780/2006-mercedes-benz-slr-mclaren/?aa_id=203166-0",
+    "lot_code": "Lot F302",
+    "vehicle_chassis_no": "WDDAJ76F76M000963"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297781/1963-ford-thunderbird-convertible/?aa_id=203167-0",
+    "lot_code": "Lot F303",
+    "vehicle_chassis_no": "3Y85Z153835"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297782/2005-bentley-continental-gt-mulliner/?aa_id=203168-0",
+    "lot_code": "Lot F304",
+    "vehicle_chassis_no": "SCBCR63W95C029866"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297783/1972-chevrolet-pickup/?aa_id=203169-0",
+    "lot_code": "Lot F305",
+    "vehicle_chassis_no": "CCE242Z163383"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297784/1967-pontiac-catalina-convertible/?aa_id=203170-0",
+    "lot_code": "Lot F306",
+    "vehicle_chassis_no": "252677P187929"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297785/1994-pontiac-firebird-25th-anniversary/?aa_id=203171-0",
+    "lot_code": "Lot F307",
+    "vehicle_chassis_no": "2G2FV22P4R2234224"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297786/1987-rolls-royce-silver-spur/?aa_id=203172-0",
+    "lot_code": "Lot F308",
+    "vehicle_chassis_no": "SCAZN02AXHCX21099"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297787/2001-chrysler-pt-cruiser/?aa_id=203173-0",
+    "lot_code": "Lot F309",
+    "vehicle_chassis_no": "3C8FY4BB01T507329"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297788/1934-ford-street-rod/?aa_id=203174-0",
+    "lot_code": "Lot F310",
+    "vehicle_chassis_no": "CA957410"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297789/1991-ford-mustang-gt/?aa_id=203175-0",
+    "lot_code": "Lot F311",
+    "vehicle_chassis_no": "1FACP42E9MF143353"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297790/1994-chevrolet-impala-ss/?aa_id=203176-0",
+    "lot_code": "Lot F312",
+    "vehicle_chassis_no": "1G1BN52P6RR166056"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297791/2006-ford-mustang-saleen-s281/?aa_id=203177-0",
+    "lot_code": "Lot F313",
+    "vehicle_chassis_no": "1ZVFT82H065166952"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297839/2002-mini-cooper-s/?aa_id=203178-0",
+    "lot_code": "Lot S1",
+    "vehicle_chassis_no": "WMWRE33442TD57093"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321568/1970-pontiac-gto/?aa_id=215973-0",
+    "lot_code": "Lot S1.1",
+    "vehicle_chassis_no": "242370Z135389"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297840/2001-mazda-miata-convertible/?aa_id=203179-0",
+    "lot_code": "Lot S2",
+    "vehicle_chassis_no": "JM1NB353910204396"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321569/1962-chevrolet-impala/?aa_id=215974-0",
+    "lot_code": "Lot S2.1",
+    "vehicle_chassis_no": "21847J302528"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297841/2009-chevrolet-hhr/?aa_id=203180-0",
+    "lot_code": "Lot S3",
+    "vehicle_chassis_no": "3GNCA73X19S562076"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297842/2000-bmw-z3/?aa_id=203181-0",
+    "lot_code": "Lot S4",
+    "vehicle_chassis_no": "WBACH3348YLF44066"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297843/1970-chevrolet-c10-pickup/?aa_id=203182-0",
+    "lot_code": "Lot S5",
+    "vehicle_chassis_no": "CE140S137828"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297844/2003-mercedes-benz-cl500/?aa_id=203183-0",
+    "lot_code": "Lot S6",
+    "vehicle_chassis_no": "WDBPJ75J93A038099"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297845/2004-chevrolet-corvette-coupe/?aa_id=203184-0",
+    "lot_code": "Lot S7",
+    "vehicle_chassis_no": "1G1YY22G345133659"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320293/2003-chevrolet-corvette-coupe/?aa_id=215023-0",
+    "lot_code": "Lot S7.1",
+    "vehicle_chassis_no": "1G1YY12S435120299"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297846/1973-chevrolet-corvette-coupe/?aa_id=203185-0",
+    "lot_code": "Lot S8",
+    "vehicle_chassis_no": "1Z37J3S429169"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321570/1999-bmw-m3/?aa_id=215975-0",
+    "lot_code": "Lot S8.1",
+    "vehicle_chassis_no": "WBSBG9338XEY80837"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297847/1974-chevrolet-corvette-convertible/?aa_id=203186-0",
+    "lot_code": "Lot S9",
+    "vehicle_chassis_no": "1Z67J4S416006"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320249/1968-pontiac-firebird/?aa_id=214983-0",
+    "lot_code": "Lot S11.1",
+    "vehicle_chassis_no": "223378L101564"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297850/1957-ford-f100/?aa_id=203189-0",
+    "lot_code": "Lot S12",
+    "vehicle_chassis_no": "F10K7R28764"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321469/1965-chevrolet-malibu-convertible/?aa_id=215890-0",
+    "lot_code": "Lot S13.1",
+    "vehicle_chassis_no": "136675Z125880"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297852/1972-chevrolet-el-camino-ss/?aa_id=203190-0",
+    "lot_code": "Lot S14",
+    "vehicle_chassis_no": "1D80W2K516444"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297853/1981-jeep-cj-8-scrambler/?aa_id=203191-0",
+    "lot_code": "Lot S15",
+    "vehicle_chassis_no": "1JCCM88E8BT078218"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320452/1969-dodge-coronet-500-wagon/?aa_id=215128-0",
+    "lot_code": "Lot S15.1",
+    "vehicle_chassis_no": "WP46G9G173334"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297854/1963-oldsmobile-cutlass-convertible/?aa_id=203192-0",
+    "lot_code": "Lot S16",
+    "vehicle_chassis_no": "631M39836"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320250/1972-dodge-challenger/?aa_id=214984-0",
+    "lot_code": "Lot S16.1",
+    "vehicle_chassis_no": "JH23G2B152905"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297855/1996-dodge-viper-gts-coupe/?aa_id=203193-0",
+    "lot_code": "Lot S17",
+    "vehicle_chassis_no": "1B3ER69E7TV200055"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297856/1994-dodge-viper-rt-10-roadster/?aa_id=203194-0",
+    "lot_code": "Lot S18",
+    "vehicle_chassis_no": "1B3BR65E3RV102805"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297857/1981-pontiac-trans-am-se/?aa_id=203195-0",
+    "lot_code": "Lot S19",
+    "vehicle_chassis_no": "1G2AW87W2BL103423"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297859/1969-plymouth-road-runner-convertible/?aa_id=203196-0",
+    "lot_code": "Lot S21",
+    "vehicle_chassis_no": "RM27H9G169150"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297861/1931-packard-standard-eight-convertible-coupe/?aa_id=203197-0",
+    "lot_code": "Lot S23",
+    "vehicle_chassis_no": "46947"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297862/1999-plymouth-prowler-convertible/?aa_id=203198-0",
+    "lot_code": "Lot S24",
+    "vehicle_chassis_no": "1P3EW65G8XV502488"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320251/1966-chevrolet-chevelle-ss/?aa_id=214985-0",
+    "lot_code": "Lot S25.1",
+    "vehicle_chassis_no": "138176Z154607"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297864/1929-ford-model-a-street-rod/?aa_id=203199-0",
+    "lot_code": "Lot S26",
+    "vehicle_chassis_no": "3433429"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321470/2014-chevrolet-corvette-stingray/?aa_id=215891-0",
+    "lot_code": "Lot S26.1",
+    "vehicle_chassis_no": "1G1YE2D77E5118203"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321278/2010-jaguar-xk-convertible/?aa_id=215726-0",
+    "lot_code": "Lot S27.1",
+    "vehicle_chassis_no": "SAJWA4GB4ALB37243"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320343/2006-mercedes-benz-sl55-amg-convertible/?aa_id=215057-0",
+    "lot_code": "Lot S28.1",
+    "vehicle_chassis_no": "WDBSK74FX6F117020"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297867/2007-mercedes-benz-sl55-convertible/?aa_id=203200-0",
+    "lot_code": "Lot S29",
+    "vehicle_chassis_no": "WDBSK72F87F127551"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321471/2007-mercedes-benz-sl550-convertible/?aa_id=215892-0",
+    "lot_code": "Lot S29.1",
+    "vehicle_chassis_no": "WDBSK71F57F120199"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297868/2000-dodge-viper-rt-10-roadster/?aa_id=203201-0",
+    "lot_code": "Lot S30",
+    "vehicle_chassis_no": "1B3ER65E1YV604692"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319616/1954-chevrolet-panel-wagon/?aa_id=214522-0",
+    "lot_code": "Lot S30.1",
+    "vehicle_chassis_no": "H54S031879"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297869/1984-land-rover-defender-110/?aa_id=203202-0",
+    "lot_code": "Lot S31",
+    "vehicle_chassis_no": "SALLDHMG8AA197119"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297870/1961-chevrolet-corvette-convertible/?aa_id=203203-0",
+    "lot_code": "Lot S32",
+    "vehicle_chassis_no": "10867S102311"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297871/1987-land-rover-defender-110/?aa_id=203204-0",
+    "lot_code": "Lot S33",
+    "vehicle_chassis_no": "SALLDHMV7BA296936"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297872/1956-ford-pickup/?aa_id=203205-0",
+    "lot_code": "Lot S34",
+    "vehicle_chassis_no": "F10V6L14385"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320366/1995-mercedes-benz-e320-convertible/?aa_id=215075-0",
+    "lot_code": "Lot S34.1",
+    "vehicle_chassis_no": "WDBEA66E7SC247301"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297873/1963-studebaker-hawk/?aa_id=203206-0",
+    "lot_code": "Lot S35",
+    "vehicle_chassis_no": "63V1001"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297874/1970-chevrolet-chevelle-ls6/?aa_id=203207-0",
+    "lot_code": "Lot S36",
+    "vehicle_chassis_no": "136370K185722"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297963/1957-pontiac-super-chief-catalina/?aa_id=203283-0",
+    "lot_code": "Lot S36.1",
+    "vehicle_chassis_no": "W757H9063"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297875/1969-ford-mustang-mach-1-fastback/?aa_id=203208-0",
+    "lot_code": "Lot S37",
+    "vehicle_chassis_no": "9R02Q162277"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297876/2007-ford-mustang-gt-cs-fastback/?aa_id=203209-0",
+    "lot_code": "Lot S38",
+    "vehicle_chassis_no": "1ZVFT82H275240972"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297877/1964-chevrolet-impala/?aa_id=203210-0",
+    "lot_code": "Lot S39",
+    "vehicle_chassis_no": "41867J328404"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297878/1957-chevrolet-corvette-convertible/?aa_id=203211-0",
+    "lot_code": "Lot S40",
+    "vehicle_chassis_no": "E57S100816"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319529/1963-chevrolet-impala/?aa_id=214446-0",
+    "lot_code": "Lot S40.1",
+    "vehicle_chassis_no": "31847S100004"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297879/1988-chevrolet-silverado-pickup/?aa_id=203212-0",
+    "lot_code": "Lot S41",
+    "vehicle_chassis_no": "1GCDC14K3JZ212592"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297880/1945-ford-super-deluxe-convertible/?aa_id=203213-0",
+    "lot_code": "Lot S42",
+    "vehicle_chassis_no": "99A1227818"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321459/2015-ferrari-california-t-convertible/?aa_id=215883-0",
+    "lot_code": "Lot S42.1",
+    "vehicle_chassis_no": "ZFF77XJA2F0205999"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297881/1969-chevrolet-corvette-coupe/?aa_id=203214-0",
+    "lot_code": "Lot S43",
+    "vehicle_chassis_no": "194379S733422"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320344/1969-pontiac-firebird-convertible/?aa_id=215058-0",
+    "lot_code": "Lot S43.1",
+    "vehicle_chassis_no": "223679N112489"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297882/1970-gmc-c10-pickup/?aa_id=203215-0",
+    "lot_code": "Lot S44",
+    "vehicle_chassis_no": "CE13YSZ73233"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297883/1967-shelby-gt500-fastback/?aa_id=203216-0",
+    "lot_code": "Lot S45",
+    "vehicle_chassis_no": "67410F9A02093"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319617/1966-oldsmobile-442-convertible/?aa_id=214523-0",
+    "lot_code": "Lot S45.1",
+    "vehicle_chassis_no": "338676M405841"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297884/1940-chevrolet-master-deluxe-cabriolet/?aa_id=203217-0",
+    "lot_code": "Lot S46",
+    "vehicle_chassis_no": "6KB112529"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321488/1967-shelby-cobra-replica-convertible/?aa_id=215907-0",
+    "lot_code": "Lot S46.1",
+    "vehicle_chassis_no": "EM427SC1396120904"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297886/1970-chevrolet-camaro-resto-mod/?aa_id=203218-0",
+    "lot_code": "Lot S48",
+    "vehicle_chassis_no": "124870N526580"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320367/1949-cadillac-deville-series-62/?aa_id=215076-0",
+    "lot_code": "Lot S49.1",
+    "vehicle_chassis_no": "496278815"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297888/1963-chevrolet-corvette-split-window-coupe/?aa_id=203219-0",
+    "lot_code": "Lot S50",
+    "vehicle_chassis_no": "30837S104609"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297889/1973-ford-bronco/?aa_id=203220-0",
+    "lot_code": "Lot S51",
+    "vehicle_chassis_no": "U15GLQ66140"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297890/1955-lincoln-capri/?aa_id=203221-0",
+    "lot_code": "Lot S52",
+    "vehicle_chassis_no": "55LA5681H"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320368/1989-porsche-928/?aa_id=215077-0",
+    "lot_code": "Lot S52.1",
+    "vehicle_chassis_no": "WP0JB0920KS860636"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297892/1954-packard-convertible/?aa_id=203222-0",
+    "lot_code": "Lot S54",
+    "vehicle_chassis_no": "54792502"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297893/1958-pontiac-bonneville-convertible/?aa_id=203223-0",
+    "lot_code": "Lot S55",
+    "vehicle_chassis_no": "C558H1257"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319534/1971-porsche-911s-targa/?aa_id=214449-0",
+    "lot_code": "Lot S55.1",
+    "vehicle_chassis_no": "9111310702"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297894/1955-ford-country-sedan-wagon/?aa_id=203224-0",
+    "lot_code": "Lot S56",
+    "vehicle_chassis_no": "U5LX169427"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297895/1957-chevrolet-150-resto-mod/?aa_id=203225-0",
+    "lot_code": "Lot S57",
+    "vehicle_chassis_no": "A57J104689"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297896/1967-chevrolet-impala-ss/?aa_id=203226-0",
+    "lot_code": "Lot S58",
+    "vehicle_chassis_no": "168877U111001"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319535/1964-chevrolet-corvette-convertible/?aa_id=214450-0",
+    "lot_code": "Lot S58.1",
+    "vehicle_chassis_no": "40867S102712"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297897/1965-chevrolet-corvette-convertible/?aa_id=203227-0",
+    "lot_code": "Lot S59",
+    "vehicle_chassis_no": "194675S115332"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297898/1933-ford-3-window-coupe/?aa_id=203228-0",
+    "lot_code": "Lot S60",
+    "vehicle_chassis_no": "18455665"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319618/1969-chevrolet-camaro-rs-ss/?aa_id=214524-0",
+    "lot_code": "Lot S60.1",
+    "vehicle_chassis_no": "124379N594070"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297899/1974-buick-gs/?aa_id=203229-0",
+    "lot_code": "Lot S61",
+    "vehicle_chassis_no": "4D37U4G106578"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319719/1978-international-scout/?aa_id=214610-0",
+    "lot_code": "Lot S62",
+    "vehicle_chassis_no": "H0062HGD44856"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319143/1963-rolls-royce-silver-cloud-iii/?aa_id=214135-0",
+    "lot_code": "Lot S62.1",
+    "vehicle_chassis_no": "LSCX215"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297901/1948-buick-super-estate-wagon/?aa_id=203230-0",
+    "lot_code": "Lot S63",
+    "vehicle_chassis_no": "CA694486"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297902/1961-chevrolet-impala-convertible/?aa_id=203231-0",
+    "lot_code": "Lot S64",
+    "vehicle_chassis_no": "11867A173197"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319144/1969-chevrolet-yenko-camaro/?aa_id=214136-0",
+    "lot_code": "Lot S64.1",
+    "vehicle_chassis_no": "124379N615382"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297903/1967-chevrolet-corvette-convertible/?aa_id=203232-0",
+    "lot_code": "Lot S65",
+    "vehicle_chassis_no": "194677S113760"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297904/1970-pontiac-gto/?aa_id=203233-0",
+    "lot_code": "Lot S66",
+    "vehicle_chassis_no": "242370Z102652"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297911/1966-mercedes-benz-250s/?aa_id=203240-0",
+    "lot_code": "Lot S66.1",
+    "vehicle_chassis_no": "10801212011135"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297905/1969-ford-bronco/?aa_id=203234-0",
+    "lot_code": "Lot S67",
+    "vehicle_chassis_no": "U15GLF35061"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297908/1955-chevrolet-3100-resto-mod-pickup/?aa_id=203237-0",
+    "lot_code": "Lot S67.1",
+    "vehicle_chassis_no": "H255L004149"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297906/1998-ferrari-f355-spider/?aa_id=203235-0",
+    "lot_code": "Lot S68",
+    "vehicle_chassis_no": "ZFFXR48A7W0109753"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297912/2016-dodge-challenger-srt-hellcat/?aa_id=203241-0",
+    "lot_code": "Lot S68.1",
+    "vehicle_chassis_no": "2C3CDZC99GH283718"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297907/1957-ford-thunderbird/?aa_id=203236-0",
+    "lot_code": "Lot S69",
+    "vehicle_chassis_no": "D7FH270692"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319546/1992-dodge-viper-rt-10-roadster/?aa_id=214458-0",
+    "lot_code": "Lot S70",
+    "vehicle_chassis_no": "1B3BR65E4NV100135"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319536/1996-dodge-viper-gts-coupe/?aa_id=214451-0",
+    "lot_code": "Lot S70.1",
+    "vehicle_chassis_no": "1B3ER69EXTV200681"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319147/1998-dodge-viper-gts-r/?aa_id=214139-0",
+    "lot_code": "Lot S71.1",
+    "vehicle_chassis_no": "1B3ER69E0WV401008"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319148/2006-dodge-viper-srt-10/?aa_id=214140-0",
+    "lot_code": "Lot S72",
+    "vehicle_chassis_no": "1B3JZ69Z36V101027"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319548/2010-dodge-viper-acr-final-edition/?aa_id=214459-0",
+    "lot_code": "Lot S72.1",
+    "vehicle_chassis_no": "1B3AZ6JZ5AV100417"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297910/1968-chevrolet-yenko-camaro/?aa_id=203239-0",
+    "lot_code": "Lot S73",
+    "vehicle_chassis_no": "124378N413263"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319145/2009-ford-shelby-gt500-super-snake-prudhomme-edition/?aa_id=214137-0",
+    "lot_code": "Lot S73.1",
+    "vehicle_chassis_no": "1ZVHT88S995143718"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319569/2006-ford-gt/?aa_id=214479-0",
+    "lot_code": "Lot S74",
+    "vehicle_chassis_no": "1FAFP90S96Y401638"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319150/2011-ford-shelby-gt350-45th-anniversary/?aa_id=214141-0",
+    "lot_code": "Lot S74.1",
+    "vehicle_chassis_no": "1ZVBP8CF1B5117608"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319146/1987-buick-gnx/?aa_id=214138-0",
+    "lot_code": "Lot S75",
+    "vehicle_chassis_no": "1G4GJ1174HP444221"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297909/2005-porsche-carrera-gt/?aa_id=203238-0",
+    "lot_code": "Lot S75.1",
+    "vehicle_chassis_no": "WP0CA29825L001171"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297914/1954-ford-crestline-sunliner/?aa_id=203242-0",
+    "lot_code": "Lot S76",
+    "vehicle_chassis_no": "U4RC136702"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319223/2012-ferrari-california/?aa_id=214195-0",
+    "lot_code": "Lot S76.1",
+    "vehicle_chassis_no": "ZFF65LJA9C0182890"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319431/1969-chevrolet-camaro-ss-convertible/?aa_id=214369-0",
+    "lot_code": "Lot S77",
+    "vehicle_chassis_no": "124679N630310"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319619/1969-chevrolet-corvette-coupe/?aa_id=214525-0",
+    "lot_code": "Lot S77.1",
+    "vehicle_chassis_no": "194379S711963"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297922/1964-dodge-polara-500-convertible/?aa_id=203248-0",
+    "lot_code": "Lot S78",
+    "vehicle_chassis_no": "6442162144"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297917/1957-chevrolet-bel-air-convertible/?aa_id=203243-0",
+    "lot_code": "Lot S79",
+    "vehicle_chassis_no": "VC57N146591"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297918/1957-ford-thunderbird-e-code/?aa_id=203244-0",
+    "lot_code": "Lot S80",
+    "vehicle_chassis_no": "E7FH395296"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316669/1956-ford-thunderbird/?aa_id=212974-0",
+    "lot_code": "Lot S80.1",
+    "vehicle_chassis_no": "P6FH195509"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297919/1969-shelby-gt500-convertible/?aa_id=203245-0",
+    "lot_code": "Lot S81",
+    "vehicle_chassis_no": "9F03R480072"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297920/1968-shelby-gt500-fastback/?aa_id=203246-0",
+    "lot_code": "Lot S82",
+    "vehicle_chassis_no": "8T02S143366"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297921/1965-sunbeam-tiger-roadster/?aa_id=203247-0",
+    "lot_code": "Lot S83",
+    "vehicle_chassis_no": "B9470832LRXFE"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320182/1974-jaguar-e-type-series-iii-roadster/?aa_id=214932-0",
+    "lot_code": "Lot S83.1",
+    "vehicle_chassis_no": "UE1S25920BW"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316670/2003-porsche-911-turbo/?aa_id=212975-0",
+    "lot_code": "Lot S84",
+    "vehicle_chassis_no": "WP0AB29903S685928"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297923/1970-mercury-cougar-xr-7-convertible/?aa_id=203249-0",
+    "lot_code": "Lot S85",
+    "vehicle_chassis_no": "0F94Q526473"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/316671/1967-austin-healey-3000-mkiii-roadster/?aa_id=212976-0",
+    "lot_code": "Lot S85.1",
+    "vehicle_chassis_no": "HBJ8L39179"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297924/1966-jeep-cj-5-tuxedo-park-mark-iv/?aa_id=203250-0",
+    "lot_code": "Lot S86",
+    "vehicle_chassis_no": "832215371"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297925/1967-chevrolet-corvette-convertible/?aa_id=203251-0",
+    "lot_code": "Lot S87",
+    "vehicle_chassis_no": "194677S100076"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319537/1963-plymouth-savoy-max-wedge/?aa_id=214452-0",
+    "lot_code": "Lot S87.1",
+    "vehicle_chassis_no": "3131167605"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297926/1966-chevrolet-chevelle-ss/?aa_id=203252-0",
+    "lot_code": "Lot S88",
+    "vehicle_chassis_no": "138176A140631"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297927/2004-maserati-gt/?aa_id=203253-0",
+    "lot_code": "Lot S89",
+    "vehicle_chassis_no": "ZAMBC38A240011176"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297928/1971-ford-bronco/?aa_id=203254-0",
+    "lot_code": "Lot S90",
+    "vehicle_chassis_no": "U15GLL24269"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319397/1932-packard-902-eight-roadster-coupe/?aa_id=214344-0",
+    "lot_code": "Lot S90.1",
+    "vehicle_chassis_no": "509505"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/310110/1959-pontiac-bonneville-convertible/?aa_id=209230-0",
+    "lot_code": "Lot S91",
+    "vehicle_chassis_no": "859W1018"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319538/1967-chevrolet-corvette-convertible/?aa_id=214453-0",
+    "lot_code": "Lot S91.1",
+    "vehicle_chassis_no": "194677S115999"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/306105/1962-chevrolet-corvette-big-brake-fuelie/?aa_id=208102-0",
+    "lot_code": "Lot S92",
+    "vehicle_chassis_no": "20867S104487"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297931/1961-chevrolet-impala-ss-bubble-top/?aa_id=203255-0",
+    "lot_code": "Lot S93",
+    "vehicle_chassis_no": "11837J266981"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297932/1970-plymouth-cuda/?aa_id=203256-0",
+    "lot_code": "Lot S94",
+    "vehicle_chassis_no": "BS23V0B248627"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320517/2017-ferrari-f12tdf/?aa_id=215160-0",
+    "lot_code": "Lot S94.1",
+    "vehicle_chassis_no": "ZFF81BFA7H0220566"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297933/1969-pontiac-trans-am/?aa_id=203257-0",
+    "lot_code": "Lot S95",
+    "vehicle_chassis_no": "223379N104342"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297934/1956-oldsmobile-98-starfire-convertible/?aa_id=203258-0",
+    "lot_code": "Lot S96",
+    "vehicle_chassis_no": "569L9662"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297935/1941-cracraft-offy-special-race-car/?aa_id=203259-0",
+    "lot_code": "Lot S97",
+    "vehicle_chassis_no": "BILL OF SALE"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320369/1988-land-rover-defender/?aa_id=215078-0",
+    "lot_code": "Lot S97.1",
+    "vehicle_chassis_no": "SALLDHMV8EA322589"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320574/1957-chevrolet-bel-air/?aa_id=215207-0",
+    "lot_code": "Lot S98",
+    "vehicle_chassis_no": "VC57F276317"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320575/1967-chevrolet-corvette-convertible/?aa_id=215208-0",
+    "lot_code": "Lot S98.1",
+    "vehicle_chassis_no": "194677S103258"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297937/1953-buick-skylark-convertible/?aa_id=203260-0",
+    "lot_code": "Lot S99",
+    "vehicle_chassis_no": "16977423"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321553/1940-ford-deluxe-convertible/?aa_id=215960-0",
+    "lot_code": "Lot S99.2",
+    "vehicle_chassis_no": "185549668"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297938/1969-dodge-charger-general-lee/?aa_id=203261-0",
+    "lot_code": "Lot S100",
+    "vehicle_chassis_no": "XP29F9B271840"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319398/1997-lamborghini-diablo-vt-roadster/?aa_id=214345-0",
+    "lot_code": "Lot S100.1",
+    "vehicle_chassis_no": "ZA9RU37B8VLA12691"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297939/1962-chevrolet-corvette-convertible/?aa_id=203262-0",
+    "lot_code": "Lot S101",
+    "vehicle_chassis_no": "20867S108273"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320192/2006-ferrari-612-scaglietti/?aa_id=214939-0",
+    "lot_code": "Lot S101.1",
+    "vehicle_chassis_no": "ZFFAA54A560147748"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297940/1959-ford-fairlane-500-skyliner/?aa_id=203263-0",
+    "lot_code": "Lot S102",
+    "vehicle_chassis_no": "H9RW172995"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320294/1957-ford-thunderbird/?aa_id=215024-0",
+    "lot_code": "Lot S103.1",
+    "vehicle_chassis_no": "D7FH135685"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297942/1977-jeep-cj-5/?aa_id=203264-0",
+    "lot_code": "Lot S104",
+    "vehicle_chassis_no": "J7F83EH104889"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297943/1953-chrysler-town-and-country/?aa_id=203265-0",
+    "lot_code": "Lot S105",
+    "vehicle_chassis_no": "76557679"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319151/1965-shelby-289-cobra-roadster/?aa_id=214142-0",
+    "lot_code": "Lot S105.1",
+    "vehicle_chassis_no": "CSX2549"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319620/1957-cadillac-eldorado-biarritz-convertible/?aa_id=214526-0",
+    "lot_code": "Lot S106",
+    "vehicle_chassis_no": "5762060266"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320129/1970-pontiac-trans-am/?aa_id=214887-0",
+    "lot_code": "Lot S106.1",
+    "vehicle_chassis_no": "228870N111754"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297945/1969-pontiac-trans-am/?aa_id=203266-0",
+    "lot_code": "Lot S107",
+    "vehicle_chassis_no": "223379N105388"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320232/1969-shelby-gt500-fastback/?aa_id=214971-0",
+    "lot_code": "Lot S107.1",
+    "vehicle_chassis_no": "9F02R480500"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297946/1958-mercedes-benz-300sl-roadster/?aa_id=203267-0",
+    "lot_code": "Lot S108",
+    "vehicle_chassis_no": "1980428500295"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297947/1956-buick-special-convertible/?aa_id=203268-0",
+    "lot_code": "Lot S109",
+    "vehicle_chassis_no": "4C1117132"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297948/1965-ford-mustang/?aa_id=203269-0",
+    "lot_code": "Lot S110",
+    "vehicle_chassis_no": "5R07C194090"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320119/1957-chrysler-300c-convertible-coupe/?aa_id=214881-0",
+    "lot_code": "Lot S110.1",
+    "vehicle_chassis_no": "3N572586"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297949/1971-buick-gs-stage-1-convertible/?aa_id=203270-0",
+    "lot_code": "Lot S111",
+    "vehicle_chassis_no": "434671H100563"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320576/1967-chevrolet-corvette-resto-mod/?aa_id=215209-0",
+    "lot_code": "Lot S111.1",
+    "vehicle_chassis_no": "194677S110194"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297950/1955-chevrolet-nomad/?aa_id=203271-0",
+    "lot_code": "Lot S112",
+    "vehicle_chassis_no": "VC550061045"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320193/2010-ferrari-california-convertible/?aa_id=214940-0",
+    "lot_code": "Lot S112.1",
+    "vehicle_chassis_no": "ZFF65LJAXA0169126"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297951/1963-chevrolet-corvette-split-window-coupe/?aa_id=203272-0",
+    "lot_code": "Lot S113",
+    "vehicle_chassis_no": "30837S118590"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319152/2015-mercedes-benz-sls-amg-gt-final-edition/?aa_id=214143-0",
+    "lot_code": "Lot S113.1",
+    "vehicle_chassis_no": "WDDRK7JA9FA011184"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297952/1934-ford-deluxe-street-rod/?aa_id=203273-0",
+    "lot_code": "Lot S114",
+    "vehicle_chassis_no": "AZ246948"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297953/1970-plymouth-hemi-superbird/?aa_id=203274-0",
+    "lot_code": "Lot S115",
+    "vehicle_chassis_no": "RM23R0A172595"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297954/1955-chevrolet-bel-air-resto-mod/?aa_id=203275-0",
+    "lot_code": "Lot S116",
+    "vehicle_chassis_no": "VC55K110845"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319583/2014-lamborghini-aventador-lp700-4/?aa_id=214490-0",
+    "lot_code": "Lot S116.1",
+    "vehicle_chassis_no": "ZHWUC1ZD0ELA02139"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297955/1942-ford-delivery-street-rod/?aa_id=203276-0",
+    "lot_code": "Lot S117",
+    "vehicle_chassis_no": "18A2289736"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297956/2005-maserati-cambiocorsa-spyder/?aa_id=203277-0",
+    "lot_code": "Lot S118",
+    "vehicle_chassis_no": "ZAMBB18A550020186"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320531/2007-aston-martin-db9-volante/?aa_id=215169-0",
+    "lot_code": "Lot S118.1",
+    "vehicle_chassis_no": "SCFAD02A67GB07073"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297957/1957-ford-fairlane/?aa_id=203278-0",
+    "lot_code": "Lot S119",
+    "vehicle_chassis_no": "D7DV237248"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297958/1966-pontiac-gto-resto-mod/?aa_id=203279-0",
+    "lot_code": "Lot S120",
+    "vehicle_chassis_no": "242176Z130701"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319399/1936-auburn-852-cabriolet/?aa_id=214346-0",
+    "lot_code": "Lot S120.1",
+    "vehicle_chassis_no": "2814F"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297959/1958-chevrolet-impala/?aa_id=203280-0",
+    "lot_code": "Lot S121",
+    "vehicle_chassis_no": "F58T204039"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319540/1970-plymouth-aar-cuda/?aa_id=214454-0",
+    "lot_code": "Lot S121.1",
+    "vehicle_chassis_no": "BS23J0B277828"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297960/1959-cadillac-deville/?aa_id=203281-0",
+    "lot_code": "Lot S122",
+    "vehicle_chassis_no": "59J004758"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321572/1972-chevrolet-camaro-rs-ss/?aa_id=215976-0",
+    "lot_code": "Lot S122.1",
+    "vehicle_chassis_no": "1Q87H2N128755"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297961/1968-shelby-gt350-fastback/?aa_id=203282-0",
+    "lot_code": "Lot S123",
+    "vehicle_chassis_no": "8T02J14951701804"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321461/2017-mercedes-benz-g550/?aa_id=215885-0",
+    "lot_code": "Lot S123.1",
+    "vehicle_chassis_no": "WDCYC5FF0H273259"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319621/2017-chevrolet-camaro-zl1/?aa_id=214527-0",
+    "lot_code": "Lot S124",
+    "vehicle_chassis_no": "1G1FJ1R64H0202588"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319175/2008-lamborghini-gallardo-spyder/?aa_id=214158-0",
+    "lot_code": "Lot S124.1",
+    "vehicle_chassis_no": "ZHWGU22T98LA06700"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319224/1989-ferrari-testarossa/?aa_id=214196-0",
+    "lot_code": "Lot S125",
+    "vehicle_chassis_no": "ZFFSG17A9K0081772"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319541/1954-chevrolet-corvette-roadster/?aa_id=214455-0",
+    "lot_code": "Lot S125.1",
+    "vehicle_chassis_no": "E54S002243"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297964/1971-chevrolet-blazer/?aa_id=203284-0",
+    "lot_code": "Lot S126",
+    "vehicle_chassis_no": "KE181S623646"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297965/1963-chevrolet-corvette-split-window-coupe/?aa_id=203285-0",
+    "lot_code": "Lot S127",
+    "vehicle_chassis_no": "30837S105147"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297966/1956-oldsmobile-88-convertible/?aa_id=203286-0",
+    "lot_code": "Lot S128",
+    "vehicle_chassis_no": "568T1887"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319584/1970-dodge-challenger-convertible/?aa_id=214491-0",
+    "lot_code": "Lot S128.1",
+    "vehicle_chassis_no": "JH27G0B256915"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297967/1959-desoto-firesweep-sportsman/?aa_id=203287-0",
+    "lot_code": "Lot S129",
+    "vehicle_chassis_no": "M412104223"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297968/1967-chevrolet-corvette-coupe/?aa_id=203288-0",
+    "lot_code": "Lot S130",
+    "vehicle_chassis_no": "194377S105689"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320184/1958-volkswagen-11-window-bus/?aa_id=214933-0",
+    "lot_code": "Lot S130.1",
+    "vehicle_chassis_no": "362976"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297969/1997-porsche-911-carrera-2s/?aa_id=203289-0",
+    "lot_code": "Lot S131",
+    "vehicle_chassis_no": "WP0AA2996VS322622"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320370/1949-cadillac-series-62/?aa_id=215079-0",
+    "lot_code": "Lot S131.1",
+    "vehicle_chassis_no": "496274014"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320577/1971-plymouth-cuda-convertible/?aa_id=215210-0",
+    "lot_code": "Lot S132",
+    "vehicle_chassis_no": "BH27G1B126595"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297971/1958-chevrolet-impala-convertible/?aa_id=203290-0",
+    "lot_code": "Lot S133",
+    "vehicle_chassis_no": "F58L153775"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320194/1995-ferrari-456-gt-coupe/?aa_id=214941-0",
+    "lot_code": "Lot S133.1",
+    "vehicle_chassis_no": "ZFFSP44A7S0103760"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319395/1961-chevrolet-impala-ss/?aa_id=214343-0",
+    "lot_code": "Lot S135.1",
+    "vehicle_chassis_no": "11867J215173"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297974/1939-lincoln-zephyr/?aa_id=203291-0",
+    "lot_code": "Lot S136",
+    "vehicle_chassis_no": "96H722369"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319522/1967-chevrolet-chevelle-ss/?aa_id=214439-0",
+    "lot_code": "Lot S136.1",
+    "vehicle_chassis_no": "138177Z111404"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/318982/2012-mercedes-benz-sls-amg-roadster/?aa_id=214020-0",
+    "lot_code": "Lot S137",
+    "vehicle_chassis_no": "WDDRK7HA5CA006937"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320371/2017-chevrolet-copo-camaro/?aa_id=215080-0",
+    "lot_code": "Lot S137.1",
+    "vehicle_chassis_no": "COPO452017"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297977/1964-oldsmobile-cutlass-convertible/?aa_id=203292-0",
+    "lot_code": "Lot S139",
+    "vehicle_chassis_no": "824M187817"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321305/1968-chevrolet-camaro-resto-mod/?aa_id=215751-0",
+    "lot_code": "Lot S139.1",
+    "vehicle_chassis_no": "123678N420784"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297591/1957-ford-thunderbird-resto-mod/?aa_id=203012-0",
+    "lot_code": "Lot S140",
+    "vehicle_chassis_no": "C7FH209725"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319622/1970-chevrolet-corvette-lt1-coupe/?aa_id=214528-0",
+    "lot_code": "Lot S140.1",
+    "vehicle_chassis_no": "194370S410162"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297979/1957-chevrolet-bel-air-fuelie/?aa_id=203293-0",
+    "lot_code": "Lot S141",
+    "vehicle_chassis_no": "VC57N133682"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297980/1970-oldsmobile-442-w-30/?aa_id=203294-0",
+    "lot_code": "Lot S142",
+    "vehicle_chassis_no": "344870M321697"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321465/2012-ferrari-458-italia/?aa_id=215887-0",
+    "lot_code": "Lot S142.1",
+    "vehicle_chassis_no": "ZFF67NFA2C0183510"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297981/1955-buick-special/?aa_id=203295-0",
+    "lot_code": "Lot S143",
+    "vehicle_chassis_no": "4B2039710"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319623/1946-ford-convertible-street-rod/?aa_id=214529-0",
+    "lot_code": "Lot S143.1",
+    "vehicle_chassis_no": "99A1405533"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319031/1967-ford-mustang-gt-fastback/?aa_id=214049-0",
+    "lot_code": "Lot S144",
+    "vehicle_chassis_no": "7T02S179033"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297983/1969-chevrolet-camaro-rs-ss/?aa_id=203296-0",
+    "lot_code": "Lot S145",
+    "vehicle_chassis_no": "124379N572107"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319543/2001-ferrari-550-barchetta/?aa_id=214456-0",
+    "lot_code": "Lot S145.1",
+    "vehicle_chassis_no": "ZFFZR52A410124162"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297984/1966-chevrolet-nova-l79/?aa_id=203297-0",
+    "lot_code": "Lot S146",
+    "vehicle_chassis_no": "118376N168014"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297985/1970-chevrolet-camaro-rs-z28/?aa_id=203298-0",
+    "lot_code": "Lot S147",
+    "vehicle_chassis_no": "124870L505689"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320240/2009-bentley-arnage-turbo/?aa_id=214974-0",
+    "lot_code": "Lot S147.1",
+    "vehicle_chassis_no": "SCBLF44J19CX13915"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297986/1955-mercury-montclair-sun-valley/?aa_id=203299-0",
+    "lot_code": "Lot S148",
+    "vehicle_chassis_no": "55SL39484M"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297987/1967-chevrolet-corvette-convertible/?aa_id=203300-0",
+    "lot_code": "Lot S149",
+    "vehicle_chassis_no": "194677S119449"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320535/2004-bentley-continental-gt/?aa_id=215170-0",
+    "lot_code": "Lot S149.1",
+    "vehicle_chassis_no": "SCBCR63W44C022046"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297988/1962-chevrolet-impala-resto-mod/?aa_id=203301-0",
+    "lot_code": "Lot S150",
+    "vehicle_chassis_no": "21847B147855"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297989/1957-cadillac-eldorado-biarritz-convertible/?aa_id=203302-0",
+    "lot_code": "Lot S151",
+    "vehicle_chassis_no": "5762027045"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319503/2005-rolls-royce-phantom/?aa_id=214427-0",
+    "lot_code": "Lot S151.1",
+    "vehicle_chassis_no": "SCA1S68415UX07852"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297990/1971-dodge-hemi-charger/?aa_id=203303-0",
+    "lot_code": "Lot S152",
+    "vehicle_chassis_no": "WS23R1A145663"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297991/1957-chevrolet-corvette-convertible/?aa_id=203304-0",
+    "lot_code": "Lot S153",
+    "vehicle_chassis_no": "E57S103873"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320372/1950-cadillac-series-62-coupe/?aa_id=215081-0",
+    "lot_code": "Lot S153.1",
+    "vehicle_chassis_no": "506291493"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297992/1962-cadillac-deville/?aa_id=203305-0",
+    "lot_code": "Lot S154",
+    "vehicle_chassis_no": "62F089349"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297993/1970-chevrolet-copo-chevelle-ls6/?aa_id=203306-0",
+    "lot_code": "Lot S155",
+    "vehicle_chassis_no": "136370B144642"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319624/1968-chevrolet-corvette-convertible/?aa_id=214530-0",
+    "lot_code": "Lot S155.1",
+    "vehicle_chassis_no": "194678S421910"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297994/1970-chevrolet-chevelle/?aa_id=203307-0",
+    "lot_code": "Lot S156",
+    "vehicle_chassis_no": "136370L115324"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297995/2006-bentley-arange-red/?aa_id=203308-0",
+    "lot_code": "Lot S157",
+    "vehicle_chassis_no": "SCBLC37F46CX11209"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320253/1957-chevrolet-bel-air/?aa_id=214986-0",
+    "lot_code": "Lot S157.1",
+    "vehicle_chassis_no": "VC57L135134"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297996/2007-ford-shelby-gt500-super-snake/?aa_id=203309-0",
+    "lot_code": "Lot S158",
+    "vehicle_chassis_no": "1ZVHT88S575246020"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320373/1957-buick-roadmaster-convertible/?aa_id=215082-0",
+    "lot_code": "Lot S158.1",
+    "vehicle_chassis_no": "7D2010717"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297997/1970-porsche-911e/?aa_id=203310-0",
+    "lot_code": "Lot S159",
+    "vehicle_chassis_no": "9110230688"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297998/1950-chevrolet-3600-5-window-pickup/?aa_id=203311-0",
+    "lot_code": "Lot S160",
+    "vehicle_chassis_no": "AHCA1105561"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320117/1957-chevrolet-bel-air-convertible/?aa_id=214880-0",
+    "lot_code": "Lot S160.1",
+    "vehicle_chassis_no": "VC57L148050"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319032/2015-porsche-911-carerra-s-coupe/?aa_id=214050-0",
+    "lot_code": "Lot S161",
+    "vehicle_chassis_no": "WP0AB2A99FS124059"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321573/1970-ford-mustang-mach-1-fastback/?aa_id=215977-0",
+    "lot_code": "Lot S161.1",
+    "vehicle_chassis_no": "0T05H118672"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319033/1969-jaguar-e-type-resto-mod/?aa_id=214051-0",
+    "lot_code": "Lot S162",
+    "vehicle_chassis_no": "1R40919BW"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320374/1940-cadillac-75-series-limousine/?aa_id=215083-0",
+    "lot_code": "Lot S162.1",
+    "vehicle_chassis_no": "3320622"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298001/1974-lotus-europa-special/?aa_id=203312-0",
+    "lot_code": "Lot S163",
+    "vehicle_chassis_no": "3394R"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298002/1971-oldsmobile-442-w-30-convertible/?aa_id=203313-0",
+    "lot_code": "Lot S164",
+    "vehicle_chassis_no": "344671M171902"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298003/1999-shelby-series-1-convertible/?aa_id=203314-0",
+    "lot_code": "Lot S165",
+    "vehicle_chassis_no": "5CXSA1811XL000215"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320319/2004-lamborghini-gallardo/?aa_id=215036-0",
+    "lot_code": "Lot S165.1",
+    "vehicle_chassis_no": "ZHWGU11S94LA00120"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298004/1937-ford-convertible-street-rod/?aa_id=203315-0",
+    "lot_code": "Lot S166",
+    "vehicle_chassis_no": "54251772"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298005/1967-chevrolet-camaro-rs-ss/?aa_id=203316-0",
+    "lot_code": "Lot S167",
+    "vehicle_chassis_no": "124377N146040"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298006/1950-chevrolet-3600-5-window-pickup/?aa_id=203317-0",
+    "lot_code": "Lot S168",
+    "vehicle_chassis_no": "AHCA1163494"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321574/2002-maserati-cambiocorsa-gt/?aa_id=215978-0",
+    "lot_code": "Lot S168.1",
+    "vehicle_chassis_no": "ZAMBC38A620007628"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298007/1969-chevrolet-corvette-coupe/?aa_id=203318-0",
+    "lot_code": "Lot S169",
+    "vehicle_chassis_no": "194379S735943"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298008/1949-cadillac-custom-convertible/?aa_id=203319-0",
+    "lot_code": "Lot S170",
+    "vehicle_chassis_no": "MVD65476"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320375/1972-chevrolet-camaro/?aa_id=215084-0",
+    "lot_code": "Lot S170.1",
+    "vehicle_chassis_no": "1Q87F2N154196"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298009/2002-porsche-911-gt2/?aa_id=203320-0",
+    "lot_code": "Lot S171",
+    "vehicle_chassis_no": "WP0AB29942S696171"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298010/1965-chevrolet-corvette-convertible/?aa_id=203321-0",
+    "lot_code": "Lot S172",
+    "vehicle_chassis_no": "194675S121582"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321575/2009-saturn-sky-convertible/?aa_id=215979-0",
+    "lot_code": "Lot S172.1",
+    "vehicle_chassis_no": "1G8MN35B59Y106578"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298011/1957-chevrolet-150-resto-mod/?aa_id=203322-0",
+    "lot_code": "Lot S173",
+    "vehicle_chassis_no": "A57L193894"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320541/1927-ford-model-t-boattail/?aa_id=215174-0",
+    "lot_code": "Lot S173.1",
+    "vehicle_chassis_no": "7466"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298012/1985-ferrari-testarossa/?aa_id=203323-0",
+    "lot_code": "Lot S174",
+    "vehicle_chassis_no": "ZFFSA17A4F0058097"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320355/1963-chevrolet-corvette-convertible/?aa_id=215066-0",
+    "lot_code": "Lot S175",
+    "vehicle_chassis_no": "30867S115164"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320410/1959-volkswagen-deluxe-23-window-bus/?aa_id=215117-0",
+    "lot_code": "Lot S175.1",
+    "vehicle_chassis_no": "554117"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319585/1969-ford-mustang-boss-429-fastback/?aa_id=214492-0",
+    "lot_code": "Lot S176",
+    "vehicle_chassis_no": "9F02Z159781"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320453/2005-bentley-continental-gt/?aa_id=215129-0",
+    "lot_code": "Lot S176.1",
+    "vehicle_chassis_no": "SCBCR63W45C029810"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298015/1950-mercury-custom-coupe/?aa_id=203324-0",
+    "lot_code": "Lot S177",
+    "vehicle_chassis_no": "50SL107018M"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298016/1964-mercury-parklane-maurder-convertible/?aa_id=203325-0",
+    "lot_code": "Lot S178",
+    "vehicle_chassis_no": "4Z65Z532937"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298017/1966-chevrolet-corvette-coupe/?aa_id=203326-0",
+    "lot_code": "Lot S179",
+    "vehicle_chassis_no": "194376S104022"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298019/1961-buick-invicta-custom-bubble-top/?aa_id=203327-0",
+    "lot_code": "Lot S181",
+    "vehicle_chassis_no": "6H6007941"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320254/1969-chevrolet-camaro-z28/?aa_id=214987-0",
+    "lot_code": "Lot S181.1",
+    "vehicle_chassis_no": "124379N629669"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298020/1960-chevrolet-impala-convertible/?aa_id=203328-0",
+    "lot_code": "Lot S182",
+    "vehicle_chassis_no": "01867F229322"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298021/1936-ford-model-68-tudor-slantback-sedan/?aa_id=203329-0",
+    "lot_code": "Lot S183",
+    "vehicle_chassis_no": "182271775"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298022/1987-chevrolet-el-camino-resto-mod/?aa_id=203330-0",
+    "lot_code": "Lot S184",
+    "vehicle_chassis_no": "3GCCW80H1HS903018"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298023/2013-chevrolet-corvette-grand-sport/?aa_id=203331-0",
+    "lot_code": "Lot S185",
+    "vehicle_chassis_no": "1G1YR2DW4D5102633"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321460/2007-porsche-911-gt3-rs/?aa_id=215884-0",
+    "lot_code": "Lot S185.1",
+    "vehicle_chassis_no": "WP0AC29987S792891"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298024/1955-chevrolet-bel-air/?aa_id=203332-0",
+    "lot_code": "Lot S186",
+    "vehicle_chassis_no": "B550050201"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298025/1970-ford-torino-cobra-jet-type-n-w/?aa_id=203333-0",
+    "lot_code": "Lot S187",
+    "vehicle_chassis_no": "0R30C140910"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298026/1937-ford-street-rod-coupe/?aa_id=203334-0",
+    "lot_code": "Lot S188",
+    "vehicle_chassis_no": "18132640"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320376/1974-jaguar-e-type-series-3-roadster/?aa_id=215085-0",
+    "lot_code": "Lot S188.1",
+    "vehicle_chassis_no": "UE1S23707"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/297691/1940-chevrolet-pickup/?aa_id=203093-0",
+    "lot_code": "Lot S189",
+    "vehicle_chassis_no": "CA499295"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298029/1969-chevrolet-camaro/?aa_id=203335-0",
+    "lot_code": "Lot S191",
+    "vehicle_chassis_no": "124379N508215"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321463/2012-mercedes-benz-sls-amg-convertible/?aa_id=215886-0",
+    "lot_code": "Lot S191.1",
+    "vehicle_chassis_no": "WDDRK7HA6CA006428"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320321/2007-ford-shelby-gt500/?aa_id=215037-0",
+    "lot_code": "Lot S192",
+    "vehicle_chassis_no": "1ZVHT82HX75346983"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298031/1985-ferrari-308-gts/?aa_id=203336-0",
+    "lot_code": "Lot S193",
+    "vehicle_chassis_no": "ZFFUA13A4F0055621"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298032/1965-chevrolet-malibu-ss-convertible/?aa_id=203337-0",
+    "lot_code": "Lot S194",
+    "vehicle_chassis_no": "138675Z137792"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298033/1971-toyota-fj-40-land-cruiser/?aa_id=203338-0",
+    "lot_code": "Lot S195",
+    "vehicle_chassis_no": "FJ4089245"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298034/2012-audi-r8-spyder/?aa_id=203339-0",
+    "lot_code": "Lot S196",
+    "vehicle_chassis_no": "WUAUUAFG5CN001011"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298035/1970-dodge-charger-500/?aa_id=203340-0",
+    "lot_code": "Lot S197",
+    "vehicle_chassis_no": "XP29G0G198086"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321547/2001-ferrari-550/?aa_id=215957-0",
+    "lot_code": "Lot S198.1",
+    "vehicle_chassis_no": "ZFFZS49A210123838"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298037/1958-volkswagen-transporter/?aa_id=203341-0",
+    "lot_code": "Lot S199",
+    "vehicle_chassis_no": "314047"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320578/2009-jeep-wrangler/?aa_id=215211-0",
+    "lot_code": "Lot S200.1",
+    "vehicle_chassis_no": "1J4GA69109L771929"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298039/1956-lincoln-continental-mark-ii/?aa_id=203342-0",
+    "lot_code": "Lot S201",
+    "vehicle_chassis_no": "C56S3913"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298040/1954-chevrolet-3100-5-window-pickup/?aa_id=203343-0",
+    "lot_code": "Lot S202",
+    "vehicle_chassis_no": "H54N025856"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298041/2006-aston-martin-db9-volante/?aa_id=203344-0",
+    "lot_code": "Lot S203",
+    "vehicle_chassis_no": "SCFAD02A56GB04874"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320295/1940-ford-street-rod/?aa_id=215025-0",
+    "lot_code": "Lot S204",
+    "vehicle_chassis_no": "35360398"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298043/1969-chevrolet-camaro/?aa_id=203345-0",
+    "lot_code": "Lot S205",
+    "vehicle_chassis_no": null
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/319506/1995-ferrari-355-spider/?aa_id=214429-0",
+    "lot_code": "Lot S207",
+    "vehicle_chassis_no": "ZFFPR48A9S0104046"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321472/1979-ferrari-308/?aa_id=215893-0",
+    "lot_code": "Lot S207.1",
+    "vehicle_chassis_no": "F106AS29343"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298046/2012-fisker-karma/?aa_id=203347-0",
+    "lot_code": "Lot S208",
+    "vehicle_chassis_no": "YH4K14AA1CA000484"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298048/1970-oldsmobile-442-pace-car-edition/?aa_id=203348-0",
+    "lot_code": "Lot S210",
+    "vehicle_chassis_no": "344670M302080"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298049/1967-chevrolet-impala-convertible/?aa_id=203349-0",
+    "lot_code": "Lot S211",
+    "vehicle_chassis_no": "164677T185654"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298050/1955-chevrolet-bel-air/?aa_id=203350-0",
+    "lot_code": "Lot S212",
+    "vehicle_chassis_no": "VC55K046984"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298051/1969-chevrolet-camaro-z28/?aa_id=203351-0",
+    "lot_code": "Lot S213",
+    "vehicle_chassis_no": "124379N662339"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298052/1957-volkswagen-beetle/?aa_id=203352-0",
+    "lot_code": "Lot S214",
+    "vehicle_chassis_no": "1547933"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298053/2010-nissan-gt-r/?aa_id=203353-0",
+    "lot_code": "Lot S215",
+    "vehicle_chassis_no": "JN1AR5EF0AM231319"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/320579/1967-pontiac-firebird-pro-street/?aa_id=215212-0",
+    "lot_code": "Lot S215.1",
+    "vehicle_chassis_no": "223377U124526"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298054/2002-mercedes-benz-g-wagon/?aa_id=203354-0",
+    "lot_code": "Lot S216",
+    "vehicle_chassis_no": "WDCYR49E42X134299"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298055/1969-chevrolet-corvette-l88-coupe/?aa_id=203355-0",
+    "lot_code": "Lot S217",
+    "vehicle_chassis_no": "194379S720164"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298056/1967-ford-mustang-fastback/?aa_id=203356-0",
+    "lot_code": "Lot S218",
+    "vehicle_chassis_no": "7R02S163834"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298057/1954-kurtis-500s-roadster/?aa_id=203357-0",
+    "lot_code": "Lot S219",
+    "vehicle_chassis_no": "KK500S024"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298058/1990-honda-nsx/?aa_id=203358-0",
+    "lot_code": "Lot S220",
+    "vehicle_chassis_no": "NA11000294"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298059/1957-chevrolet-bel-air-resto-mod/?aa_id=203359-0",
+    "lot_code": "Lot S221",
+    "vehicle_chassis_no": "VC57S145245"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298060/1937-ford-street-rod/?aa_id=203360-0",
+    "lot_code": "Lot S222",
+    "vehicle_chassis_no": "MF15D331"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298062/1970-chevrolet-corvette/?aa_id=203361-0",
+    "lot_code": "Lot S224",
+    "vehicle_chassis_no": "194370S406440"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298063/2004-porsche-911-gt3/?aa_id=203362-0",
+    "lot_code": "Lot S225",
+    "vehicle_chassis_no": "WP0AC29934S692337"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/321474/1967-lincoln-continental/?aa_id=215894-0",
+    "lot_code": "Lot S225.1",
+    "vehicle_chassis_no": "7Y86G822006"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298064/2010-jeep-wrangler/?aa_id=203363-0",
+    "lot_code": "Lot S226",
+    "vehicle_chassis_no": "1J4AA2D15AL113274"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298065/1992-mazda-rx7/?aa_id=203364-0",
+    "lot_code": "Lot S227",
+    "vehicle_chassis_no": "FD3S107769"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298066/1996-chevrolet-impala-ss/?aa_id=203365-0",
+    "lot_code": "Lot S228",
+    "vehicle_chassis_no": "1G1BL52P2TR175771"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298067/1968-shelby-gt500kr-fastback/?aa_id=203366-0",
+    "lot_code": "Lot S229",
+    "vehicle_chassis_no": "8T02R21322803953"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298069/1969-dodge-dart/?aa_id=203367-0",
+    "lot_code": "Lot S231",
+    "vehicle_chassis_no": "IDCO000839ZZ"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298070/2002-ferrari-575m/?aa_id=203368-0",
+    "lot_code": "Lot S232",
+    "vehicle_chassis_no": "ZFFBV55A420129484"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298071/1972-triumph-tr6-roadster/?aa_id=203369-0",
+    "lot_code": "Lot S233",
+    "vehicle_chassis_no": "CC80649U"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298072/1978-pontiac-trans-am/?aa_id=203370-0",
+    "lot_code": "Lot S234",
+    "vehicle_chassis_no": "2W87Z8N118302"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298073/1932-ford-3-window-coupe/?aa_id=203371-0",
+    "lot_code": "Lot S235",
+    "vehicle_chassis_no": "19JLQ34135685X3"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298074/2010-bentley-continental-gt-speed-convertible/?aa_id=203372-0",
+    "lot_code": "Lot S236",
+    "vehicle_chassis_no": "SCBDP3ZA1AC062469"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298076/2014-mercedes-benz-s63/?aa_id=203373-0",
+    "lot_code": "Lot S238",
+    "vehicle_chassis_no": "WDDUG7JB2EA046328"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298080/1937-ford-cabriolet-street-rod/?aa_id=203374-0",
+    "lot_code": "Lot S242",
+    "vehicle_chassis_no": "183990443"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298081/1970-chevrolet-c10-pickup/?aa_id=203375-0",
+    "lot_code": "Lot S243",
+    "vehicle_chassis_no": "CE140Z177824"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298083/1957-lincoln-premiere/?aa_id=203376-0",
+    "lot_code": "Lot S245",
+    "vehicle_chassis_no": "57WA6249L"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298084/1971-pontiac-gto/?aa_id=203377-0",
+    "lot_code": "Lot S246",
+    "vehicle_chassis_no": "242371Z107495"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298085/1927-ford-track-t-replica/?aa_id=203378-0",
+    "lot_code": "Lot S247",
+    "vehicle_chassis_no": "1332321992"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298086/1970-ford-mustang-mach-1-fastback/?aa_id=203379-0",
+    "lot_code": "Lot S248",
+    "vehicle_chassis_no": "0R05H135469"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298087/1957-chevrolet-apache-pickup/?aa_id=203380-0",
+    "lot_code": "Lot S249",
+    "vehicle_chassis_no": "3A57L124506"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298088/2008-pontiac-solstice-convertible/?aa_id=203381-0",
+    "lot_code": "Lot S250",
+    "vehicle_chassis_no": "1G2MC35B88Y122630"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298089/2007-pontiac-solstice-convertible/?aa_id=203382-0",
+    "lot_code": "Lot S251",
+    "vehicle_chassis_no": "1G2MB35B37Y112749"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298090/2005-mercedes-benz-sl65/?aa_id=203383-0",
+    "lot_code": "Lot S252",
+    "vehicle_chassis_no": "WDBSK79F15F096145"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298091/2013-tesla-p85-plus/?aa_id=203384-0",
+    "lot_code": "Lot S253",
+    "vehicle_chassis_no": "5YJSA1DP0DFP17041"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298092/1970-oldsmobile-cutlass-pace-car-edition/?aa_id=203385-0",
+    "lot_code": "Lot S254",
+    "vehicle_chassis_no": "342670M295412"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298093/1970-chevrolet-chevelle-ss-convertible/?aa_id=203386-0",
+    "lot_code": "Lot S255",
+    "vehicle_chassis_no": "136670B142383"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298094/1969-chevrolet-camaro-rs-z28/?aa_id=203387-0",
+    "lot_code": "Lot S256",
+    "vehicle_chassis_no": "124379L516028"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298095/1967-chevrolet-corvette-coupe/?aa_id=203388-0",
+    "lot_code": "Lot S257",
+    "vehicle_chassis_no": "194377S114597"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298096/2007-mercedes-benz-sl550-convertible/?aa_id=203389-0",
+    "lot_code": "Lot S258",
+    "vehicle_chassis_no": "WSBSK71F17F126548"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298097/1963-chevrolet-corvette-resto-mod/?aa_id=203390-0",
+    "lot_code": "Lot S259",
+    "vehicle_chassis_no": "30837S102165"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298098/1973-mercury-cougar-xr-7-convertible/?aa_id=203391-0",
+    "lot_code": "Lot S260",
+    "vehicle_chassis_no": "3F94H522920"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298099/1967-oldsmobile-cutlass-supreme-convertible/?aa_id=203392-0",
+    "lot_code": "Lot S261",
+    "vehicle_chassis_no": "338677M308974"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298100/1960-ford-thunderbird/?aa_id=203393-0",
+    "lot_code": "Lot S262",
+    "vehicle_chassis_no": "0Y71Y179583"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298101/1954-plymouth-belvedere-convertible/?aa_id=203394-0",
+    "lot_code": "Lot S263",
+    "vehicle_chassis_no": "13238415"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298102/1972-ford-ranchero-gt/?aa_id=203395-0",
+    "lot_code": "Lot S264",
+    "vehicle_chassis_no": "2A48H100990"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298103/2004-chevrolet-ssr/?aa_id=203396-0",
+    "lot_code": "Lot S265",
+    "vehicle_chassis_no": "1GCES14P94B111301"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298104/2007-mercedes-benz-sl55-convertible/?aa_id=203397-0",
+    "lot_code": "Lot S266",
+    "vehicle_chassis_no": "WDBSK72F87F127551"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298105/2002-chevrolet-camaro-z28-convertible/?aa_id=203398-0",
+    "lot_code": "Lot S267",
+    "vehicle_chassis_no": "2G1FP32G522122090"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298106/1968-chevrolet-yenko-camaro-rs-ss/?aa_id=203399-0",
+    "lot_code": "Lot S268",
+    "vehicle_chassis_no": "124378N459913"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298107/2003-bentley-azure-final-edition-convertible/?aa_id=203400-0",
+    "lot_code": "Lot S269",
+    "vehicle_chassis_no": "SCBZK25E33CX01171"
+  },
+  {
+    "lot_source_link": "https://www.mecum.com/lots/298150/1994-chevrolet-impala-ss/?aa_id=203401-0",
+    "lot_code": "Lot S312",
+    "vehicle_chassis_no": "1G1BN52P6RR166056"
+  }
+]
