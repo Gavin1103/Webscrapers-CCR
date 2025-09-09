@@ -22,6 +22,8 @@
 // brightwells-scraper.ts
 import puppeteer from "puppeteer";
 
+console.log("test");
+
 interface LotResult {
   lot_source_link: string;
   lot_code: string | null;

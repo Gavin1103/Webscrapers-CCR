@@ -4380,3 +4380,376 @@
 [2025-09-09T13:43:53.962Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
 [2025-09-09T13:43:54.025Z] ⚠️ Lot Lot L30 bestaat al, overslaan.
 [2025-09-09T13:43:57.071Z] 💾 Lot Lot L31 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:09.679Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:44:09.820Z] 💾 Lot Lot L32 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:12.792Z] 💾 Lot Lot L33 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:16.122Z] 💾 Lot Lot L34 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:19.884Z] 💾 Lot Lot L35 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:23.270Z] 💾 Lot Lot L36 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:26.432Z] 💾 Lot Lot L37 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:29.832Z] 💾 Lot Lot L38 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:42.719Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:44:43.025Z] 💾 Lot Lot L39 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:43.026Z] [kissimmee-2023] Progress: 1490/4047
+[2025-09-09T13:44:56.161Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:44:56.463Z] 💾 Lot Lot L40 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:44:59.650Z] ⚠️ Lot Lot L40 bestaat al, overslaan.
+[2025-09-09T13:45:02.826Z] 💾 Lot Lot L41 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:05.987Z] 💾 Lot Lot L42 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:19.014Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:45:19.416Z] 💾 Lot Lot L43 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:22.630Z] 💾 Lot Lot L44 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:25.856Z] 💾 Lot Lot L45 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:29.062Z] 💾 Lot Lot L46 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:32.632Z] 💾 Lot Lot L46.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:36.323Z] 💾 Lot Lot L47 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:36.323Z] [kissimmee-2023] Progress: 1500/4047
+[2025-09-09T13:45:39.432Z] 💾 Lot Lot L48 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:42.555Z] 💾 Lot Lot L49 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:45.626Z] 💾 Lot Lot L50 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:48.829Z] 💾 Lot Lot L51 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:52.069Z] 💾 Lot Lot L52 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:55.751Z] 💾 Lot Lot L53 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:45:59.319Z] 💾 Lot Lot L54 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:02.299Z] 💾 Lot Lot L55 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:05.757Z] 💾 Lot Lot L56 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:09.137Z] 💾 Lot Lot L57 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:09.138Z] [kissimmee-2023] Progress: 1510/4047
+[2025-09-09T13:46:12.396Z] 💾 Lot Lot L57.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:15.499Z] 💾 Lot Lot L58 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:18.502Z] 💾 Lot Lot L59 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:31.494Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:46:31.598Z] 💾 Lot Lot L61 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:34.767Z] 💾 Lot Lot L61.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:47.969Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:46:48.100Z] 💾 Lot Lot L62 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:51.356Z] 💾 Lot Lot L62.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:54.222Z] 💾 Lot Lot L63 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:46:57.439Z] 💾 Lot Lot L63.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:00.740Z] 💾 Lot Lot L64 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:00.741Z] [kissimmee-2023] Progress: 1520/4047
+[2025-09-09T13:47:03.782Z] 💾 Lot Lot L65 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:06.705Z] 💾 Lot Lot L66 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:09.841Z] 💾 Lot Lot L67 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:12.862Z] 💾 Lot Lot L68 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:25.751Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:47:26.089Z] 💾 Lot Lot L69 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:39.318Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:47:39.656Z] 💾 Lot Lot L69.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:42.901Z] 💾 Lot Lot L70 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:45.429Z] ⚠️ Lot Lot L70 bestaat al, overslaan.
+[2025-09-09T13:47:48.532Z] 💾 Lot Lot L70.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:51.628Z] 💾 Lot Lot L71 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:51.629Z] [kissimmee-2023] Progress: 1530/4047
+[2025-09-09T13:47:54.485Z] 💾 Lot Lot L72 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:47:58.065Z] 💾 Lot Lot L73 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:01.086Z] 💾 Lot Lot L74 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:03.921Z] 💾 Lot Lot L75 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:06.848Z] 💾 Lot Lot L76 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:09.470Z] 💾 Lot Lot L77 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:22.405Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:48:22.795Z] 💾 Lot Lot L77.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:26.390Z] 💾 Lot Lot L78 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:29.189Z] 💾 Lot Lot L79 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:32.719Z] 💾 Lot Lot L80 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:32.720Z] [kissimmee-2023] Progress: 1540/4047
+[2025-09-09T13:48:35.693Z] ⚠️ Lot Lot L80 bestaat al, overslaan.
+[2025-09-09T13:48:39.021Z] 💾 Lot Lot L80.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:42.065Z] 💾 Lot Lot L81 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:45.487Z] 💾 Lot Lot L82 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:48.562Z] 💾 Lot Lot L82.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:51.451Z] 💾 Lot Lot L83 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:54.194Z] 💾 Lot Lot L83.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:57.175Z] 💾 Lot Lot L84 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:48:59.734Z] 💾 Lot Lot L84.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:02.648Z] 💾 Lot Lot L85 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:02.650Z] [kissimmee-2023] Progress: 1550/4047
+[2025-09-09T13:49:05.697Z] 💾 Lot Lot L85.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:08.632Z] 💾 Lot Lot L86 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:11.430Z] 💾 Lot Lot L86.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:14.571Z] 💾 Lot Lot L87 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:17.890Z] 💾 Lot Lot L87.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:21.753Z] 💾 Lot Lot L88 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:26.422Z] 💾 Lot Lot L89 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:29.594Z] 💾 Lot Lot L90 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:32.459Z] ⚠️ Lot Lot L90 bestaat al, overslaan.
+[2025-09-09T13:49:45.254Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:49:45.648Z] 💾 Lot Lot L91 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:49:45.649Z] [kissimmee-2023] Progress: 1560/4047
+[2025-09-09T13:49:58.706Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:49:59.036Z] 💾 Lot Lot L92 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:12.101Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:50:12.509Z] 💾 Lot Lot L93 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:15.523Z] 💾 Lot Lot L93.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:18.702Z] 💾 Lot Lot L95 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:21.707Z] 💾 Lot Lot L96 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:25.066Z] 💾 Lot Lot L97 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:28.826Z] 💾 Lot Lot L97.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:41.400Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:50:41.685Z] 💾 Lot Lot L98 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:50:54.342Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:50:54.690Z] 💾 Lot Lot L99 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:07.242Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:51:07.559Z] 💾 Lot Lot L100 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:07.559Z] [kissimmee-2023] Progress: 1570/4047
+[2025-09-09T13:51:10.159Z] ⚠️ Lot Lot L100 bestaat al, overslaan.
+[2025-09-09T13:51:12.975Z] 💾 Lot Lot L101 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:15.450Z] ⚠️ Lot Lot L101 bestaat al, overslaan.
+[2025-09-09T13:51:18.594Z] 💾 Lot Lot L102 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:30.754Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:51:31.071Z] ⚠️ Lot Lot L102 bestaat al, overslaan.
+[2025-09-09T13:51:34.517Z] 💾 Lot Lot L103 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:36.853Z] ⚠️ Lot Lot L103 bestaat al, overslaan.
+[2025-09-09T13:51:39.899Z] 💾 Lot Lot L104 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:52.525Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:51:52.645Z] 💾 Lot Lot L104.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:55.691Z] 💾 Lot Lot L105 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:51:55.692Z] [kissimmee-2023] Progress: 1580/4047
+[2025-09-09T13:52:08.271Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:52:08.371Z] 💾 Lot Lot L106 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:11.409Z] 💾 Lot Lot L106.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:14.353Z] 💾 Lot Lot L107 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:17.775Z] 💾 Lot Lot L107.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:20.729Z] 💾 Lot Lot L108 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:24.106Z] 💾 Lot Lot L109 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:37.453Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:52:37.765Z] 💾 Lot Lot L110 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:40.665Z] 💾 Lot Lot L111 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:43.980Z] 💾 Lot Lot L112 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:47.153Z] 💾 Lot Lot L113.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:47.154Z] [kissimmee-2023] Progress: 1590/4047
+[2025-09-09T13:52:50.301Z] 💾 Lot Lot L114 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:53.205Z] 💾 Lot Lot L114.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:56.150Z] 💾 Lot Lot L115 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:52:59.378Z] 💾 Lot Lot L115.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:02.551Z] 💾 Lot Lot L116 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:06.051Z] 💾 Lot Lot L117 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:09.076Z] 💾 Lot Lot L117.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:11.909Z] 💾 Lot Lot L118 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:14.639Z] 💾 Lot Lot L119 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:27.482Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:53:27.568Z] 💾 Lot Lot L119.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:27.568Z] [kissimmee-2023] Progress: 1600/4047
+[2025-09-09T13:53:30.127Z] 💾 Lot Lot L120 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:33.242Z] 💾 Lot Lot L121 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:36.292Z] 💾 Lot Lot L122 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:39.455Z] 💾 Lot Lot L123.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:42.662Z] 💾 Lot Lot L124 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:45.763Z] 💾 Lot Lot L125 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:48.800Z] 💾 Lot Lot L126 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:51.813Z] 💾 Lot Lot L127 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:54.802Z] 💾 Lot Lot L127.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:57.778Z] 💾 Lot Lot L128 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:53:57.779Z] [kissimmee-2023] Progress: 1610/4047
+[2025-09-09T13:54:10.759Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:54:11.051Z] 💾 Lot Lot L128.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:14.088Z] 💾 Lot Lot L130 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:16.762Z] 💾 Lot Lot L130.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:19.969Z] 💾 Lot Lot L131 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:23.580Z] 💾 Lot Lot L131.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:36.336Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:54:36.442Z] 💾 Lot Lot L132 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:39.404Z] 💾 Lot Lot L132.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:42.452Z] 💾 Lot Lot L133 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:45.741Z] 💾 Lot Lot L133.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:48.544Z] 💾 Lot Lot L134.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:54:48.545Z] [kissimmee-2023] Progress: 1620/4047
+[2025-09-09T13:54:51.498Z] 💾 Lot Lot L135 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:04.450Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:55:04.726Z] 💾 Lot Lot L135.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:07.806Z] 💾 Lot Lot L136.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:11.299Z] 💾 Lot Lot L137 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:14.285Z] 💾 Lot Lot L137.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:17.263Z] 💾 Lot Lot L138 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:20.287Z] 💾 Lot Lot L138.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:23.401Z] 💾 Lot Lot L139 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:26.615Z] 💾 Lot Lot L139.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:29.658Z] 💾 Lot Lot L140 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:29.659Z] [kissimmee-2023] Progress: 1630/4047
+[2025-09-09T13:55:32.470Z] 💾 Lot Lot L140.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:35.612Z] 💾 Lot Lot L141 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:38.860Z] 💾 Lot Lot L141.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:41.832Z] 💾 Lot Lot L142 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:45.082Z] 💾 Lot Lot L142.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:48.281Z] 💾 Lot Lot L143 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:51.315Z] 💾 Lot Lot L143.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:54.188Z] 💾 Lot Lot L144 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:55:57.569Z] 💾 Lot Lot L144.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:00.883Z] 💾 Lot Lot L145 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:00.883Z] [kissimmee-2023] Progress: 1640/4047
+[2025-09-09T13:56:04.015Z] 💾 Lot Lot L146 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:07.038Z] 💾 Lot Lot L146.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:10.165Z] 💾 Lot Lot L147 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:13.250Z] 💾 Lot Lot L147.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:16.269Z] 💾 Lot Lot L148 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:19.534Z] 💾 Lot Lot L148.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:32.287Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:56:32.404Z] 💾 Lot Lot L149 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:35.813Z] 💾 Lot Lot L149.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:39.238Z] 💾 Lot Lot L149.2 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:42.019Z] 💾 Lot Lot L150 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:42.020Z] [kissimmee-2023] Progress: 1650/4047
+[2025-09-09T13:56:44.763Z] 💾 Lot Lot L150.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:56:57.205Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:56:57.586Z] 💾 Lot Lot L151 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:00.816Z] 💾 Lot Lot L151.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:03.843Z] 💾 Lot Lot L152 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:07.113Z] 💾 Lot Lot L152.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:19.767Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:57:20.106Z] 💾 Lot Lot L153 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:32.945Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:57:33.225Z] 💾 Lot Lot L153.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:36.303Z] 💾 Lot Lot L154 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:39.476Z] 💾 Lot Lot L154.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:52.278Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:57:52.373Z] 💾 Lot Lot L155 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:57:52.374Z] [kissimmee-2023] Progress: 1660/4047
+[2025-09-09T13:57:55.880Z] 💾 Lot Lot L156.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:09.066Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:58:09.354Z] 💾 Lot Lot L157 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:21.927Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:58:22.260Z] 💾 Lot Lot L157.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:25.335Z] 💾 Lot Lot L158 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:28.437Z] 💾 Lot Lot L158.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:31.606Z] 💾 Lot Lot L159 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:34.419Z] 💾 Lot Lot L159.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:47.206Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:58:47.298Z] 💾 Lot Lot L160 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:50.295Z] 💾 Lot Lot L160.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:53.386Z] 💾 Lot Lot L161 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:53.387Z] [kissimmee-2023] Progress: 1670/4047
+[2025-09-09T13:58:56.397Z] 💾 Lot Lot L161.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:58:59.572Z] 💾 Lot Lot L162 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:02.928Z] 💾 Lot Lot L162.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:15.542Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:59:15.812Z] 💾 Lot Lot L163 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:28.687Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:59:28.813Z] 💾 Lot Lot L163.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:31.900Z] 💾 Lot Lot L164 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:35.013Z] 💾 Lot Lot L164.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:37.709Z] 💾 Lot Lot L165 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:40.765Z] 💾 Lot Lot L166 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:53.470Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T13:59:53.571Z] 💾 Lot Lot L167 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T13:59:53.572Z] [kissimmee-2023] Progress: 1680/4047
+[2025-09-09T13:59:56.199Z] 💾 Lot Lot L168 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:09.206Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:00:09.578Z] 💾 Lot Lot L168.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:12.685Z] 💾 Lot Lot L169 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:25.877Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:00:26.175Z] 💾 Lot Lot L170 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:39.556Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:00:39.840Z] 💾 Lot Lot L171 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:42.681Z] 💾 Lot Lot L172 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:00:55.532Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:00:55.608Z] 💾 Lot Lot L172.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:01:08.330Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:01:08.686Z] 💾 Lot Lot L173 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:01:21.511Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:01:21.780Z] 💾 Lot Lot L173.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:01:34.613Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:01:34.930Z] 💾 Lot Lot L174 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:01:34.931Z] [kissimmee-2023] Progress: 1690/4047
+[2025-09-09T14:01:47.833Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:01:48.135Z] 💾 Lot Lot L174.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:00.676Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:02:00.778Z] 💾 Lot Lot L175 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:03.740Z] 💾 Lot Lot L175.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:06.897Z] 💾 Lot Lot L176 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:09.817Z] 💾 Lot Lot L176.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:12.952Z] 💾 Lot Lot L177 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:15.779Z] 💾 Lot Lot L177.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:19.110Z] 💾 Lot Lot L178 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:22.034Z] 💾 Lot Lot L179 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:25.190Z] 💾 Lot Lot L179.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:25.193Z] [kissimmee-2023] Progress: 1700/4047
+[2025-09-09T14:02:28.290Z] 💾 Lot Lot L180 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:31.626Z] 💾 Lot Lot L181 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:34.875Z] 💾 Lot Lot L181.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:38.241Z] 💾 Lot Lot L182 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:50.933Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:02:51.061Z] 💾 Lot Lot L183 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:02:54.634Z] 💾 Lot Lot L184 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:07.614Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:03:08.083Z] 💾 Lot Lot L185 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:11.150Z] 💾 Lot Lot L185.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:14.508Z] 💾 Lot Lot L187 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:17.856Z] 💾 Lot Lot L189 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:17.857Z] [kissimmee-2023] Progress: 1710/4047
+[2025-09-09T14:03:21.251Z] 💾 Lot Lot L189.2 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:34.026Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:03:34.344Z] 💾 Lot Lot L190 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:47.397Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:03:47.539Z] 💾 Lot Lot L191 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:03:50.298Z] 💾 Lot Lot L191.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:02.947Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:04:03.206Z] 💾 Lot Lot L192 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:16.056Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:04:16.330Z] 💾 Lot Lot L193 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:29.406Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:04:29.687Z] 💾 Lot Lot L193.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:42.509Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:04:42.801Z] 💾 Lot Lot L194 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:55.514Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:04:55.823Z] 💾 Lot Lot L195 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:58.745Z] 💾 Lot Lot L195.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:04:58.746Z] [kissimmee-2023] Progress: 1720/4047
+[2025-09-09T14:05:01.987Z] 💾 Lot Lot L196 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:05.704Z] 💾 Lot Lot L196.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:08.948Z] 💾 Lot Lot L198 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:11.904Z] 💾 Lot Lot L198.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:14.799Z] 💾 Lot Lot L199 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:27.379Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:05:27.717Z] 💾 Lot Lot L200 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:31.289Z] 💾 Lot Lot L200.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:34.209Z] 💾 Lot Lot L201 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:47.013Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:05:47.130Z] 💾 Lot Lot L202 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:49.865Z] 💾 Lot Lot L202.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:05:49.866Z] [kissimmee-2023] Progress: 1730/4047
+[2025-09-09T14:06:02.631Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:06:02.959Z] 💾 Lot Lot L203 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:06.213Z] 💾 Lot Lot L204 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:19.214Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:06:19.520Z] 💾 Lot Lot L205 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:32.238Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:06:32.472Z] 💾 Lot Lot L206 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:45.143Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:06:45.386Z] 💾 Lot Lot L207 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:48.391Z] 💾 Lot Lot L208 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:06:51.570Z] 💾 Lot Lot L209 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:04.351Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:07:04.498Z] 💾 Lot Lot L210 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:07.423Z] 💾 Lot Lot L211 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:10.340Z] 💾 Lot Lot L212 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:10.341Z] [kissimmee-2023] Progress: 1740/4047
+[2025-09-09T14:07:23.212Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:07:23.530Z] 💾 Lot Lot L213 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:26.392Z] 💾 Lot Lot L214 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:39.066Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:07:39.321Z] 💾 Lot Lot L215 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:52.159Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:07:52.477Z] 💾 Lot Lot L216 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:55.283Z] 💾 Lot Lot L217 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:07:58.175Z] 💾 Lot Lot L217.1 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:10.946Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:08:11.255Z] 💾 Lot Lot L218 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:24.326Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:08:24.572Z] 💾 Lot Lot L219 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:27.218Z] 💾 Lot Lot L220 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:30.179Z] 💾 Lot Lot L221 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:30.181Z] [kissimmee-2023] Progress: 1750/4047
+[2025-09-09T14:08:42.712Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:08:42.954Z] 💾 Lot Lot L222 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:46.159Z] 💾 Lot Lot L223 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:08:49.107Z] 💾 Lot Lot L224 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:01.882Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:09:01.974Z] 💾 Lot Lot L225 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:14.474Z] ⚠️ Geen prijs gevonden (nog ingelogd?)
+[2025-09-09T14:09:14.568Z] 💾 Lot Lot L226 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:17.548Z] 💾 Lot Lot L227 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:20.675Z] 💾 Lot Lot L228 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:24.045Z] 💾 Lot Lot L229 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:27.218Z] 💾 Lot Lot L230 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:30.489Z] 💾 Lot Lot L231 toegevoegd aan kissimmee-2023_date_2025-09-09.json
+[2025-09-09T14:09:30.490Z] [kissimmee-2023] Progress: 1760/4047
