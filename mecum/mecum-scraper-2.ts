@@ -12,7 +12,7 @@ import * as readline from "readline";
 //
 
 const BASE_URLS = [
-  'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
+  // 'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
   // 'https://www.mecum.com/auctions/louisville-2019/lots/?auction[0]=Louisville+2019|1568937600|1569024000&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page='
 ];
 
@@ -74,10 +74,9 @@ const PRICE_SELECTORS = [
 
 const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
 
-
 const SOLD_BADGE = 'img.soldBadge'
-const VEHICLE_IMAGES = 'div.class="ImageGallery_gridGallery__nUm41 grid-gallery button span img';
 
+const VEHICLE_IMAGES = 'div.ImageGallery_gridGallery__nUm41.grid-gallery button span img';
 const VIEW_ALL_IMAGES_BUTTON = 'button.ImageGallery_viewAllButton___7Lil'
 const VIEW_ALL_IMAGES_OVERLAY = 'div.ImageGallery_gridOverlay__WKz6u div'
 const VEHICLE_IMAGES_IN_OVERLAY = 'div.ImageGallery_gridOverlay__WKz6u div button span img'
