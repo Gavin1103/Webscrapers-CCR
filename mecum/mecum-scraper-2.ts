@@ -16,7 +16,7 @@ const BASE_URLS = [
   // 'https://www.mecum.com/auctions/tulsa-2021/lots/?auction[0]=Tulsa+2021|1623369600|1623456000&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
   // 'https://www.mecum.com/auctions/glendale-2023/lots/?auction[0]=Glendale+2023|1679961600|1680307200&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
   // 'https://www.mecum.com/auctions/las-vegas-2022/lots/?auction[0]=Las+Vegas+2022|1668038400|1668211200&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
-  'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&year=1968:1968&make[0]=Volkswagen'
+  'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&year=1968:1968&make[0]=Volkswagen&page='
 ];
 
 //

@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { writeFile } from "fs/promises";
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyASaKydIb38HmmUXp6yoX03ojSDKclioBE" });
+const ai = new GoogleGenAI({ apiKey: "" });
 
 const date = new Date().toISOString().split("T")[0]; // bv. 2025-09-10
 const fileName = `bright-wells-${date}.json`;
