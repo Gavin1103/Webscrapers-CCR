@@ -1,6 +1,8 @@
-node_modules
-mecum/.puppeteer-profile
-.env
-
-fetchedData
-mecum/fetchedData
+# mappen overal
+node_modules/
+# specifieke paden
+mecum/.puppeteer-profile/
+mecum/fetchedData/
+fetchedData/
+# env in root
+/.env
