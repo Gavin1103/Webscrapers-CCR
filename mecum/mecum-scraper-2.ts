@@ -14,6 +14,7 @@ import * as readline from "readline";
 const BASE_URLS = [
   // 'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page=',
   // 'https://www.mecum.com/auctions/louisville-2019/lots/?auction[0]=Louisville+2019|1568937600|1569024000&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&page='
+  'https://www.mecum.com/auctions/kissimmee-2023/lots/?auction[0]=Kissimmee+2023|1672790400|1673740800&configure[filters]=&configure[ruleContexts][0]=pin_items&sortBy=wp_posts_lot_sort_order_asc&type[0]=Auto&year=1968:1968&make[0]=Volkswagen'
 ];
 
 //
