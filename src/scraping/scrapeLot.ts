@@ -1,5 +1,5 @@
 import type { Page } from "puppeteer";
-import { DETAIL_CONTAINER, LOT_DESCRIPTION, LOT_NUMBER_SELECTOR, LOT_TITLE, SOLD_BADGE, VIEW_ALL_IMAGES_BUTTON, VIEW_ALL_IMAGES_OVERLAY, VEHICLE_IMAGES_GRID, VEHICLE_IMAGES_IN_OVERLAY } from "../constants/selectors.js";
+import { DETAIL_CONTAINER, LOT_DESCRIPTION, LOT_NUMBER_SELECTOR, LOT_TITLE, SOLD_BADGE, VIEW_ALL_IMAGES_BUTTON, VIEW_ALL_IMAGES_OVERLAY, VEHICLE_IMAGES_IN_OVERLAY, VEHICLE_IMAGES_SECTION, VEHICLE_IMAGE_AFTER_CLICKING_BUTTON, VEHICLE_IMAGES_BUTTON_IN_SECTION, VEHICLE_OVERLAY_AFTER_CLICKING_BUTTON, VEHICLE_OVERLAY_ROOT } from "../constants/selectors.js";
 import { getSpecValue } from "../utils/specs.js";
 import { extractPrice } from "../utils/price.js";
 import { DETAIL_PAGE_DELAY_MS, rand, sleep } from "../utils/time.js";
@@ -8,11 +8,13 @@ import type { LotResult } from "../types.js";
 async function extractImages(page: Page): Promise<string[] | undefined> {
     try {
         const hasViewAllBtn = (await page.$(VIEW_ALL_IMAGES_BUTTON)) !== null;
+
         if (hasViewAllBtn) {
             await Promise.all([
                 page.click(VIEW_ALL_IMAGES_BUTTON),
                 page.waitForSelector(VIEW_ALL_IMAGES_OVERLAY, { visible: true, timeout: 10000 })
             ]);
+
             await page.waitForSelector(VEHICLE_IMAGES_IN_OVERLAY, { visible: true, timeout: 10000 });
 
             const urls = await page.$$eval(VEHICLE_IMAGES_IN_OVERLAY, (imgs) => {
@@ -24,7 +26,7 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
                         url = parts[parts.length - 1] || "";
                     }
                     if (url) {
-                        try { url = new URL(url, window.location.href).href; } catch {}
+                        try { url = new URL(url, window.location.href).href; } catch { }
                     }
                     return url;
                 });
@@ -34,25 +36,79 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
             try {
                 await page.keyboard.press("Escape");
                 await page.waitForSelector(VIEW_ALL_IMAGES_OVERLAY, { hidden: true, timeout: 5000 });
-            } catch {}
+            } catch { }
+
             return urls;
-        } else {
-            const urls = await page.$$eval(VEHICLE_IMAGES_GRID, (imgs) => {
-                const urls = imgs.map((img) => {
-                    const i = img as HTMLImageElement;
-                    let url = i.src || (i as any).currentSrc || "";
-                    if (!url && i.srcset) {
-                        const parts = i.srcset.split(",").map((s) => s.trim().split(" ")[0]).filter(Boolean);
-                        url = parts[parts.length - 1] || "";
+        }
+        else {
+            //check of de sectie bestaat. Zo niet → lege array.
+            const sectionExists = await page.$(VEHICLE_IMAGES_SECTION);
+            if (!sectionExists) {
+                return []; // lot_medida wordt dan [] gezet
+            }
+
+            // === Geen "view all" ===
+            await page.waitForSelector(VEHICLE_IMAGES_SECTION, { visible: true, timeout: 10_000 });
+
+            const buttons = await page.$$(VEHICLE_IMAGES_BUTTON_IN_SECTION);
+            const urls: string[] = [];
+
+            for (let i = 0; i < buttons.length; i++) {
+                try {
+                    // breng thumbnail in beeld en klik
+                    await buttons[i].evaluate((btn) => (btn as HTMLElement).scrollIntoView({ block: "center" }));
+                    await buttons[i].click({ delay: 10 });
+
+                    // wacht tot overlay open is
+                    await page.waitForSelector(VEHICLE_OVERLAY_ROOT, { visible: true, timeout: 10_000 });
+
+                    // WACHT specifiek tot de actieve slide een geldige src/currentSrc heeft
+                    await page.waitForFunction(
+                        (sel) => {
+                            const img = document.querySelector(sel) as HTMLImageElement | null;
+                            if (!img) return false;
+                            const u = (img.currentSrc || img.src || "").trim();
+                            return /^https?:\/\//i.test(u);
+                        },
+                        { timeout: 10_000 },
+                        VEHICLE_IMAGE_AFTER_CLICKING_BUTTON
+                    );
+
+                    // pak nu de (gevulde) URL
+                    const url = await page.$eval(VEHICLE_IMAGE_AFTER_CLICKING_BUTTON, (img) => {
+                        const i = img as HTMLImageElement;
+                        // liever currentSrc (respecteert srcset) en anders src
+                        let u = (i.currentSrc || i.src || "").trim();
+                        try { if (u) u = new URL(u, window.location.href).href; } catch { }
+                        return /^https?:\/\//i.test(u) ? u : "";
+                    });
+
+                    if (url) urls.push(url);
+
+                    // sluit overlay en wacht tot hij weg is
+                    try {
+                        await page.keyboard.press("Escape");
+                        await page.waitForSelector(VEHICLE_OVERLAY_ROOT, { hidden: true, timeout: 5_000 });
+                    } catch {
+                        const close = await page.$(".pswp__button--close");
+                        if (close) {
+                            await close.click();
+                            await page.waitForSelector(VEHICLE_OVERLAY_ROOT, { hidden: true, timeout: 5_000 });
+                        }
                     }
-                    if (url) {
-                        try { url = new URL(url, window.location.href).href; } catch {}
-                    }
-                    return url;
-                });
-                return Array.from(new Set(urls.filter(Boolean)));
-            });
-            return urls;
+                } catch {
+                    // maak overlay dicht als hij bleef hangen en ga verder
+                    try {
+                        if (await page.$(VEHICLE_OVERLAY_ROOT)) {
+                            await page.keyboard.press("Escape");
+                            await page.waitForSelector(VEHICLE_OVERLAY_ROOT, { hidden: true, timeout: 3_000 }).catch(() => { });
+                        }
+                    } catch { }
+                }
+            }
+
+            // dedup + filter
+            return Array.from(new Set(urls.filter(Boolean)));
         }
     } catch {
         return undefined;
@@ -79,7 +135,7 @@ export async function scrapeLot(page: Page, lot_source_link: string): Promise<Lo
 
     const lot_title = await page.evaluate((sel) => document.querySelector(sel)?.textContent ?? null, LOT_TITLE);
 
-    await page.waitForSelector('div[class*="priceBadge"]', { timeout: 10000 }).catch(() => {});
+    await page.waitForSelector('div[class*="priceBadge"]', { timeout: 10000 }).catch(() => { });
     await page.evaluate(() => document.querySelector('div[class*="priceBadge"]')?.scrollIntoView({ block: "center" }));
 
     const { value: price_value, currency: price_currency } = await extractPrice(page);
