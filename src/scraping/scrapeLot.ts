@@ -110,7 +110,8 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
             // dedup + filter
             return Array.from(new Set(urls.filter(Boolean)));
         }
-    } catch {
+    } catch (error) {
+        console.log(error)
         return undefined;
     }
 }
