@@ -5,11 +5,20 @@ export const LOT_TITLE = "h1.LotHeader_title__UCXNK";
 export const LOT_DESCRIPTION = "ul.List_list__xS3rG.List_ul__hcY__ li";
 
 export const PRICE_SELECTORS = [
-    'div.PriceBadge_priceBadge__1Xlj8',
-    'div.LotHeader_priceBadge__UkPub',
-    'div[class*="PriceBadge_"][class*="priceBadge"]',
-    'div[class*="LotHeader_"][class*="priceBadge"]',
-    'div[class*="priceBadge"]'
+  // smal (als ze nog kloppen)
+  'div.PriceBadge_priceBadge__1Xlj8',
+  'div.LotHeader_priceBadge__UkPub',
+  'div.PriceBadge_isRelative__Y1RXi',
+  'div.PriceBadge_withSkewedBorder__5Oq_w',
+
+  // breed en toekomstvaster
+  '[class*="PriceBadge"]',
+  '[class*="priceBadge"]',
+  '[class*="price"]',
+  '[data-testid*="price"]',
+  // tag-onafhankelijk
+  'div[class*="price"]',
+  'span[class*="price"]'
 ];
 
 export const SOLD_BADGE = "img.soldBadge";

@@ -116,14 +116,18 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
     }
 }
 
+function sleep(ms: number): Promise<void> {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 export async function scrapeLot(page: Page, lot_source_link: string): Promise<LotResult> {
     await page.goto(lot_source_link, { waitUntil: "networkidle0", timeout: 120_000 });
 
     const lot_code = await page.evaluate((sel) => document.querySelector(sel)?.textContent ?? null, LOT_NUMBER_SELECTOR);
 
-    const lot_description = await page.$$eval(LOT_DESCRIPTION, (items) =>
-        items.map((el) => el.textContent?.trim() || "").filter(Boolean).join(", ")
-    );
+    // const lot_description = await page.$$eval(LOT_DESCRIPTION, (items) =>
+    //     items.map((el) => el.textContent?.trim() || "").filter(Boolean).join(", ")
+    // );
 
     const vehicle_chassis_no = await page.evaluate((containerSel) => {
         const container = document.querySelector(containerSel);
@@ -134,42 +138,43 @@ export async function scrapeLot(page: Page, lot_source_link: string): Promise<Lo
         return lastP ? lastP.textContent?.trim() ?? null : null;
     }, DETAIL_CONTAINER);
 
-    const lot_title = await page.evaluate((sel) => document.querySelector(sel)?.textContent ?? null, LOT_TITLE);
+    // const lot_title = await page.evaluate((sel) => document.querySelector(sel)?.textContent ?? null, LOT_TITLE);
 
-    await page.waitForSelector('div[class*="priceBadge"]', { timeout: 10000 }).catch(() => { });
-    await page.evaluate(() => document.querySelector('div[class*="priceBadge"]')?.scrollIntoView({ block: "center" }));
-
+    await page.goto(lot_source_link, { waitUntil: "domcontentloaded", timeout: 120_000 });
+    // geef SPA even ademruimte
+    await sleep(500);
     const { value: price_value, currency: price_currency } = await extractPrice(page);
+
     const isSold = (await page.$(SOLD_BADGE)) !== null;
     const price_type = isSold ? "sold" : null;
 
-    const vehicle_make = await getSpecValue(page, "MAKE");
-    const vehicle_model = await getSpecValue(page, "MODEL");
-    const vehicle_engine = await getSpecValue(page, "ENGINE");
-    const vehicle_transmission_type = await getSpecValue(page, "TRANSMISSION");
-    const vehicle_body_color = await getSpecValue(page, "EXTERIOR COLOR");
-    const vehicle_interior_color = await getSpecValue(page, "INTERIOR COLOR");
-    const auction_label = await getSpecValue(page, "AUCTION");
+    // const vehicle_make = await getSpecValue(page, "MAKE");
+    // const vehicle_model = await getSpecValue(page, "MODEL");
+    // const vehicle_engine = await getSpecValue(page, "ENGINE");
+    // const vehicle_transmission_type = await getSpecValue(page, "TRANSMISSION");
+    // const vehicle_body_color = await getSpecValue(page, "EXTERIOR COLOR");
+    // const vehicle_interior_color = await getSpecValue(page, "INTERIOR COLOR");
+    // const auction_label = await getSpecValue(page, "AUCTION");
 
-    const lot_medida = await extractImages(page);
+    // const lot_medida = await extractImages(page);
 
     const lot: LotResult = {
         lot_source_link,
         lot_code,
-        auction_label,
-        lot_title,
-        lot_description,
+        // auction_label,
+        // lot_title,
+        // lot_description,
         vehicle_chassis_no,
-        vehicle_make,
-        vehicle_model,
-        vehicle_engine,
-        vehicle_transmission_type,
-        vehicle_body_color,
-        vehicle_interior_color,
+        // vehicle_make,
+        // vehicle_model,
+        // vehicle_engine,
+        // vehicle_transmission_type,
+        // vehicle_body_color,
+        // vehicle_interior_color,
         price_currency,
         price_value,
         price_type,
-        lot_medida
+        // lot_medida
     };
 
     await sleep(rand(DETAIL_PAGE_DELAY_MS.min, DETAIL_PAGE_DELAY_MS.max));

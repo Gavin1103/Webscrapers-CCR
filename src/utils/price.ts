@@ -1,86 +1,147 @@
-import { PRICE_SELECTORS } from "../constants/selectors.js";
+// price.ts
 import type { Page } from "puppeteer";
+import { PRICE_SELECTORS } from "../constants/selectors.js";
 
 const CURRENCY_MAP: Record<string, string> = {
-    "$": "USD", "€": "EUR", "£": "GBP", "¥": "JPY", "CHF": "CHF", "CAD": "CAD", "AUD": "AUD"
+  "$": "USD", "€": "EUR", "£": "GBP", "¥": "JPY", "CHF": "CHF", "CAD": "CAD", "AUD": "AUD"
 };
+const PRICE_RE = /(?:USD|EUR|GBP|JPY|CHF|CAD|AUD|[$€£¥])\s?\d{1,3}(?:[.,\s]\d{3})*(?:[.,]\d+)?/;
 
 function mapCurrency(sym: string): string {
-    return CURRENCY_MAP[sym] ?? sym;
+  return CURRENCY_MAP[sym] ?? sym;
 }
 
 export function parsePrice(raw: string): { value: number | null; currency: string | null } {
-    const cur = raw.match(/(USD|EUR|GBP|JPY|CHF|CAD|AUD|[$€£¥])/);
-    const currency = cur ? mapCurrency(cur[1]) : null;
+  const cur = raw.match(/(USD|EUR|GBP|JPY|CHF|CAD|AUD|[$€£¥])/);
+  const currency = cur ? mapCurrency(cur[1]) : null;
 
-    let num = raw.replace(/[^0-9.,]/g, "");
-    num = num.replace(/(\d)[, ](?=\d{3}(\D|$))/g, "$1"); // 26,000 -> 26000
+  let num = raw.replace(/[^0-9.,\s]/g, "");
+  // verwijder spaties/komma’s die alleen duizendtallen scheiden (meerdere groepen toegestaan)
+  num = num.replace(/(\d)[, ](?=\d{3}(\D|$))/g, "$1");
 
-    if (num.includes(".") && num.includes(",")) {
-        num = num.replace(/\./g, "").replace(",", ".");
-    } else {
-        if (/^\d{1,3}(,\d{3})+(,\d{2})?$/.test(num)) num = num.replace(/,/g, "");
-        if (/^\d{1,3}(\.\d{3})+(\.\d{2})?$/.test(num)) num = num.replace(/\./g, "");
-    }
+  if (num.includes(".") && num.includes(",")) {
+    // EU-stijl: punt = duizend, komma = decimaal
+    num = num.replace(/\./g, "").replace(",", ".");
+  } else {
+    // uniformeer duizendscheiding
+    if (/^\d{1,3}(,\d{3})+(,\d{2})?$/.test(num)) num = num.replace(/,/g, "");
+    if (/^\d{1,3}(\.\d{3})+(\.\d{2})?$/.test(num)) num = num.replace(/\./g, "");
+  }
 
-    const value = num ? parseFloat(num) : null;
-    return { value: Number.isFinite(value as number) ? (value as number) : null, currency };
+  const value = num ? parseFloat(num) : null;
+  return { value: Number.isFinite(value as number) ? (value as number) : null, currency };
 }
 
-// Leest zichtbare tekst + ::before/::after (ook in children) en parse't de prijs.
+function unq(s: string | null) {
+  return !s || s === "none" || s === "normal" ? "" : s.replace(/^['"]|['"]$/g, "");
+}
+
+async function ensurePriceLikelyVisible(page: Page) {
+  // kleine scroll om lazy components te triggeren
+  await page.evaluate(() => {
+    const el = document.querySelector('[class*="PriceBadge"], [class*="priceBadge"], [data-testid*="price"]');
+    if (el) el.scrollIntoView({ block: "center" });
+    window.scrollBy(0, 200);
+  }).catch(() => {});
+}
+
 export async function extractPrice(page: Page): Promise<{ value: number | null; currency: string | null; raw: string | null }> {
-    for (const sel of PRICE_SELECTORS) {
-        const raw = await page.evaluate((selector) => {
-            const root = document.querySelector(selector);
-            if (!root) return null;
+  await page.waitForSelector("body", { timeout: 15000 }).catch(() => {});
+  await ensurePriceLikelyVisible(page);
 
-            const unq = (s: string | null) => (!s || s === "none" || s === "normal") ? "" : s.replace(/^['"]|['"]$/g, "");
+  // 0) wacht tot er ergens prijs-achtige tekst verschijnt (niet alleen op 1 selector)
+  try {
+    await page.waitForFunction(
+      (reSrc) => new RegExp(reSrc).test(document.body?.innerText || ""),
+      { timeout: 8000 },
+      PRICE_RE.source
+    );
+  } catch {}
 
-            const parts: string[] = [];
-            const pushNode = (node: Element) => {
-                const cs = getComputedStyle(node);
-                const b = unq(cs.getPropertyValue("content"));
-                if (b) parts.push(b);
-                const t = (node.textContent || "").trim();
-                if (t) parts.push(t);
-                const ab = unq(getComputedStyle(node, "::before").getPropertyValue("content"));
-                const aa = unq(getComputedStyle(node, "::after").getPropertyValue("content"));
-                if (ab) parts.push(ab);
-                if (aa) parts.push(aa);
-            };
+  // 1) gerichte zoekactie op (brede) selectors
+  for (const sel of PRICE_SELECTORS) {
+    const raw = await page.$eval(sel, (el, reSrc) => {
+      const re = new RegExp(reSrc);
+      const texts: string[] = [];
 
-            pushNode(root);
-            root.querySelectorAll("*").forEach(pushNode);
+      // eigen tekst
+      const own = (el as HTMLElement).innerText || el.textContent || "";
+      if (own) texts.push(own);
 
-            const s = parts.join(" ").replace(/\s+/g, " ").trim();
-            return s || null;
-        }, sel).catch(() => null);
+      // aria / data
+      const aria = el.getAttribute("aria-label") || "";
+      if (aria) texts.push(aria);
+      texts.push(Array.from(el.attributes).map(a => a.value).join(" "));
 
-        if (raw && /[$€£¥]|\d/.test(raw)) {
-            const { value, currency } = parsePrice(raw);
-            if (value !== null || currency !== null) return { value, currency, raw };
+      // pseudo content
+      const before = getComputedStyle(el, "::before").getPropertyValue("content");
+      const after  = getComputedStyle(el, "::after").getPropertyValue("content");
+      if (before) texts.push(before);
+      if (after)  texts.push(after);
+
+      const joined = texts.map(s => s || "").join(" | ").replace(/\s+/g, " ").trim();
+      const m = joined.match(re);
+      return m ? m[0] : null;
+    }, PRICE_RE.source).catch(() => null);
+
+    if (raw) {
+      const { value, currency } = parsePrice(unq(raw));
+      if (value !== null || currency !== null) return { value, currency, raw: unq(raw) };
+    }
+  }
+
+  // 2) body-scan (gewone innerText) — dit miste je nu
+  const bodyHit = await page.evaluate((reSrc) => {
+    const re = new RegExp(reSrc);
+    const txt = document.body?.innerText || "";
+    const m = txt.match(re);
+    return m ? m[0] : null;
+  }, PRICE_RE.source).catch(() => null);
+
+  if (bodyHit) {
+    const clean = unq(bodyHit);
+    const { value, currency } = parsePrice(clean);
+    return { value, currency, raw: clean };
+  }
+
+  // 3) pseudo global fallback (jouw bestaande idee behouden)
+  const rawGlobal = await page.evaluate((reSrc) => {
+    const re = new RegExp(reSrc);
+    const parts: string[] = [];
+    document.querySelectorAll("body *").forEach((el) => {
+      const b = getComputedStyle(el, "::before").getPropertyValue("content");
+      const a = getComputedStyle(el, "::after").getPropertyValue("content");
+      const bu = b && b !== "none" ? b.replace(/^['"]|['"]$/g, "") : "";
+      const au = a && a !== "none" ? a.replace(/^['"]|['"]$/g, "") : "";
+      if (bu && re.test(bu)) parts.push(bu);
+      if (au && re.test(au)) parts.push(au);
+    });
+    return parts[0] || null;
+  }, PRICE_RE.source).catch(() => null);
+
+  if (rawGlobal) {
+    const clean = unq(rawGlobal);
+    const { value, currency } = parsePrice(clean);
+    return { value, currency, raw: clean };
+  }
+
+  // 4) JSON-LD fallback (offers.price)
+  const jsonLd = await page.$$eval('script[type="application/ld+json"]', nodes => nodes.map(n => n.textContent || '').filter(Boolean)).catch(() => []);
+  for (const raw of jsonLd) {
+    try {
+      const data = JSON.parse(raw);
+      const arr = Array.isArray(data) ? data : [data];
+      for (const item of arr) {
+        const offers = item.offers || item.offer || item.aggregateOffer;
+        const price = offers?.price ?? item.price;
+        const currency = offers?.priceCurrency ?? item.priceCurrency ?? null;
+        if (price != null) {
+          const v = Number(String(price).replace(/[^\d.]/g, ""));
+          if (Number.isFinite(v)) return { value: v, currency, raw: String(price) };
         }
-    }
+      }
+    } catch {}
+  }
 
-    // Fallback: globaal naar before/after prijzen zoeken
-    const rawGlobal = await page.evaluate(() => {
-        const unq = (s: string | null) => (!s || s === "none" || s === "normal") ? "" : s.replace(/^['"]|['"]$/g, "");
-        const looksLikePrice = (s: string) => /(?:USD|EUR|GBP|JPY|CHF|CAD|AUD|[$€£¥])\s*[\d.,]/.test(s);
-        const parts: string[] = [];
-        document.querySelectorAll("body *").forEach((el) => {
-            const b = unq(getComputedStyle(el, "::before").getPropertyValue("content"));
-            const a = unq(getComputedStyle(el, "::after").getPropertyValue("content"));
-            if (b && looksLikePrice(b)) parts.push(b);
-            if (a && looksLikePrice(a)) parts.push(a);
-        });
-        const s = parts.join(" ").trim();
-        return s || null;
-    }).catch(() => null);
-
-    if (rawGlobal) {
-        const { value, currency } = parsePrice(rawGlobal);
-        return { value, currency, raw: rawGlobal };
-    }
-
-    return { value: null, currency: null, raw: null };
+  return { value: null, currency: null, raw: null };
 }
