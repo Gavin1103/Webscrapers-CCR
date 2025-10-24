@@ -80,7 +80,7 @@ interface LotResult {
   price_guide_low?: number | null;
   price_guide_high?: number | null;
   auction_label?: string | null;
-  lot_medida?: string[]; // gebruiken voor image src URLs
+  lot_medida?: string[]; // gebruiken voor image mecum URLs
   error?: string;
 }
 

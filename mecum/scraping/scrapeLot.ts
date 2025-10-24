@@ -3,7 +3,7 @@ import { DETAIL_CONTAINER, LOT_DESCRIPTION, LOT_NUMBER_SELECTOR, LOT_TITLE, SOLD
 import { getSpecValue } from "../utils/specs.js";
 import { extractPrice } from "../utils/price.js";
 import { DETAIL_PAGE_DELAY_MS, rand, sleep } from "../utils/time.js";
-import type { LotResult } from "../types.js";
+import type { LotResult } from "../../types/types";
 
 async function extractImages(page: Page): Promise<string[] | undefined> {
     try {
@@ -62,7 +62,7 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
                     // wacht tot overlay open is
                     await page.waitForSelector(VEHICLE_OVERLAY_ROOT, { visible: true, timeout: 10_000 });
 
-                    // WACHT specifiek tot de actieve slide een geldige src/currentSrc heeft
+                    // WACHT specifiek tot de actieve slide een geldige mecum/currentSrc heeft
                     await page.waitForFunction(
                         (sel) => {
                             const img = document.querySelector(sel) as HTMLImageElement | null;
@@ -77,7 +77,7 @@ async function extractImages(page: Page): Promise<string[] | undefined> {
                     // pak nu de (gevulde) URL
                     const url = await page.$eval(VEHICLE_IMAGE_AFTER_CLICKING_BUTTON, (img) => {
                         const i = img as HTMLImageElement;
-                        // liever currentSrc (respecteert srcset) en anders src
+                        // liever currentSrc (respecteert srcset) en anders mecum
                         let u = (i.currentSrc || i.src || "").trim();
                         try { if (u) u = new URL(u, window.location.href).href; } catch { }
                         return /^https?:\/\//i.test(u) ? u : "";

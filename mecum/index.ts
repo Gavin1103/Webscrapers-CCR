@@ -4,7 +4,7 @@ import { runAllAuctions } from "./scraping/scrapeAuction.js";
 
 async function main() {
     if (BASE_URLS.length === 0) {
-        logMessage("⚠️ Geen BASE_URLS geconfigureerd in src/config.ts");
+        logMessage("⚠️ Geen BASE_URLS geconfigureerd in mecum/config.ts");
         return;
     }
     await runAllAuctions(BASE_URLS);

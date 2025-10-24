@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx src/index.ts",
+    "dev": "tsx mecum/index.ts",
     "build": "tsc -p tsconfig.json",
     "start": "node dist/index.js"
   },

@@ -7,7 +7,7 @@ import { scrapeLot } from "./scrapeLot.js";
 import { auctionSlugFromUrl, outputPathForBase, saveLotResult } from "../utils/fsio.js";
 import { logMessage } from "../utils/logs";
 import { pauseForManualLogin } from "../utils/login.js";
-import type { LotResult } from "../types.js";
+import type { LotResult } from "../../types/types";
 
 export async function scrapeAuction(baseUrl: string): Promise<void> {
     const slug = auctionSlugFromUrl(baseUrl);

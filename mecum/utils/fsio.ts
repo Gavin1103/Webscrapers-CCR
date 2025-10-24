@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { todayISO } from "./time.js";
-import { LotResult } from "../types.js";
+import { LotResult } from "../../types/types";
 import { OUTPUT_DIR } from "../config.js";
 
 export function ensureDir(p: string) {
