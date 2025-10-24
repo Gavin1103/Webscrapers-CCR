@@ -18,8 +18,27 @@ export function auctionSlugFromUrl(urlStr: string): string {
     }
 }
 
+export function auctionSlugFromResultsUrl(urlStr: string): string {
+    try {
+        const u = new URL(urlStr);
+
+        // Haal queryparam "auction[0]" op (bv. "Houston+2025|1743638400|1743811200")
+        const auctionParam = u.searchParams.get("auction[0]");
+        if (!auctionParam) return "results";
+
+        // Neem alleen het deel voor de eerste '|'
+        const slug = auctionParam.split("|")[0];
+
+        // + en spaties -> _, lowercase
+        return slug.replace(/\+/g, "_").replace(/\s+/g, "_").toLowerCase();
+    } catch {
+        return "results";
+    }
+}
+
+
 export function outputPathForBase(baseUrl: string): string {
-    const slug = auctionSlugFromUrl(baseUrl);
+    const slug = auctionSlugFromResultsUrl(baseUrl);
     const date = todayISO();
     const filename = `${slug}_date_${date}.json`;
     ensureDir(OUTPUT_DIR);
