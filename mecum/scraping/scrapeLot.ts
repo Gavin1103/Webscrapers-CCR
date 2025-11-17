@@ -156,7 +156,7 @@ export async function scrapeLot(page: Page, lot_source_link: string): Promise<Lo
     // const vehicle_interior_color = await getSpecValue(page, "INTERIOR COLOR");
     // const auction_label = await getSpecValue(page, "AUCTION");
 
-    // const lot_medida = await extractImages(page);
+    // const lot_media = await extractImages(page);
 
     const lot: LotResult = {
         lot_source_link,
@@ -174,7 +174,7 @@ export async function scrapeLot(page: Page, lot_source_link: string): Promise<Lo
         price_currency,
         price_value,
         price_type,
-        // lot_medida
+        // lot_media
     };
 
     await sleep(rand(DETAIL_PAGE_DELAY_MS.min, DETAIL_PAGE_DELAY_MS.max));
